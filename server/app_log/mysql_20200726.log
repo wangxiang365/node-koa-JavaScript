@@ -1,0 +1,2 @@
+info: 2020-07-26 00:02:59|mysqlUtil.js:40|INFO|5720|Executing (default): SELECT 1+1 AS result
+info: 2020-07-26 00:02:59|mysqlUtil.js:49|INFO|5720|mysql connect start!

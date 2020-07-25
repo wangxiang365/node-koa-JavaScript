@@ -1,0 +1,4 @@
+info: 2020-04-18 21:43:30|mysql.ts:28|INFO|16960|Executing (default): SELECT 1+1 AS result
+info: 2020-04-18 21:43:30|mysql.ts:31|INFO|16960|mysql connect start!
+info: 2020-04-18 21:43:34|mysql.ts:28|INFO|15204|Executing (default): SELECT 1+1 AS result
+info: 2020-04-18 21:43:34|mysql.ts:31|INFO|15204|mysql connect start!
