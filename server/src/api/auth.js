@@ -13,6 +13,8 @@ router.post('/signup', async (ctx, next) => {
     // email: Joi.string().email()
   })
   // 请求参数校验
+  // console.log(ctx.query.token)                     获取请求地址后面拼接参数
+  // console.log(ctx.request.header.authorization)    获取 Request Headers中的字段
   const resError = schema.validate(ctx.request.body)
   if (resError.error) {
     ctx.body = {
