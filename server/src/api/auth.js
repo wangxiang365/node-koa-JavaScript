@@ -1,8 +1,11 @@
 const router = require("koa-router")()
+var path = require('path')
+const send = require('koa-send')
 const AuthService = require('../services/auth')
 const Joi = require('@hapi/joi')
 const logger = require("../utils/logUtil")("router")
 const redisTool = require('../utils/redisTool')
+const uploadUtil = require('../utils/uploadUtil')
 const User = require('../utils/mysqlUtil').models.User
 router.prefix('/auth')          // 用户路由前缀
 // 注册
@@ -39,7 +42,12 @@ router.post('/signup', async (ctx, next) => {
     }
   }
 })
-
+//  文件下载
+router.get('/download', async (ctx, next) => {
+  let res = await uploadUtil.download(ctx)
+  console.log(res)
+}
+)
 // 登录
 router.post('/signin', async () => {}
 );

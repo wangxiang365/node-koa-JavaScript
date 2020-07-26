@@ -1,11 +1,24 @@
-const KoaBody = require('koa-body')
+const koaBody = require('koa-body')
 const jwt = require('koa-jwt')
 const routes = require('../routes')
 const config = require('../config')
-const bodyParser = require('koa-bodyparser')
+const path = require('path')
+// const bodyParser = require('koa-bodyparser')
 const cors = require('koa2-cors')
 module.exports = async (app) => {
-  app.use(bodyParser())
+  // app.use(bodyParser())
+  app.use(koaBody({
+    multipart: true, // 支持文件上传
+    formidable: {
+      uploadDir: path.join(__dirname, '../public/upload/'), // 设置文件上传目录
+      keepExtensions: true,    // 保持文件的后缀
+      maxFieldsSize: 2 * 1024 * 1024, // 文件上传大小
+      onFileBegin: (name,file) => { // 文件上传前的设置
+        // console.log(`name: ${name}`);
+        // console.log(file);
+      }
+    }
+  }))
   // 跨域
   app.use(cors({
     origin: function (ctx) {
@@ -26,6 +39,17 @@ module.exports = async (app) => {
       }
     )
   )
+  // set cookies
+  // app.use(async ctx => {
+  //   ctx.cookies.set('username','lisa', {
+  //     domain:'localhost',
+  //     path:'/index',              //cookie写入的路径
+  //     maxAge:1000*60*60*1,
+  //     expires:new Date('2018-07-06'),
+  //     httpOnly:false,
+  //     overwrite:false
+  //   })
+  // })
  app.on('error', (error, ctx) => {
    console.log('something error ' + JSON.stringify(ctx.onerror));
    ctx.redirect('/500.httml');
