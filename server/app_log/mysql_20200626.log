@@ -1,0 +1,518 @@
+info: 2020-06-26 11:25:50|mysqlConect.ts:28|INFO|10020|Executing (default): SELECT 1+1 AS result
+info: 2020-06-26 11:25:50|mysqlConect.ts:31|INFO|10020|mysql connect start!
+info: 2020-06-26 11:40:30|mysqlConect.ts:28|INFO|17528|Executing (default): SELECT 1+1 AS result
+info: 2020-06-26 11:40:30|mysqlConect.ts:31|INFO|17528|mysql connect start!
+error: 2020-06-26 11:40:46|mysqlConect.ts:33|ERROR|20800|Unable to connect to the database:|{"name":"SequelizeAccessDeniedError","parent":{"code":"ER_ACCESS_DENIED_ERROR","errno":1045,"sqlState":"28000","sqlMessage":"Access denied for user 'root'@'localhost' (using password: YES)"},"original":{"code":"ER_ACCESS_DENIED_ERROR","errno":1045,"sqlState":"28000","sqlMessage":"Access denied for user 'root'@'localhost' (using password: YES)"}}
+info: 2020-06-26 11:40:47|mysqlConect.ts:35|INFO|20800|mysql错误邮箱提示发送成功！
+info: 2020-06-26 11:42:29|mysqlConect.ts:28|INFO|9192|Executing (default): SELECT 1+1 AS result
+info: 2020-06-26 11:42:29|mysqlConect.ts:31|INFO|9192|mysql connect start!
+info: 2020-06-26 11:43:09|mysqlConect.ts:28|INFO|22412|Executing (default): SELECT 1+1 AS result
+info: 2020-06-26 11:43:09|mysqlConect.ts:31|INFO|22412|mysql connect start!
+info: 2020-06-26 11:44:49|mysqlConect.ts:28|INFO|14132|Executing (default): SELECT 1+1 AS result
+info: 2020-06-26 11:44:49|mysqlConect.ts:31|INFO|14132|mysql connect start!
+info: 2020-06-26 12:32:55|mysqlConect.ts:28|INFO|21992|Executing (default): SELECT 1+1 AS result
+info: 2020-06-26 12:32:55|mysqlConect.ts:31|INFO|21992|mysql connect start!
+info: 2020-06-26 12:33:20|mysqlConect.ts:28|INFO|20932|Executing (default): SELECT 1+1 AS result
+info: 2020-06-26 12:33:20|mysqlConect.ts:31|INFO|20932|mysql connect start!
+info: 2020-06-26 12:33:40|mysqlConect.ts:28|INFO|10768|Executing (default): SELECT 1+1 AS result
+info: 2020-06-26 12:33:40|mysqlConect.ts:31|INFO|10768|mysql connect start!
+info: 2020-06-26 12:33:44|mysqlConect.ts:28|INFO|9204|Executing (default): SELECT 1+1 AS result
+info: 2020-06-26 12:33:44|mysqlConect.ts:31|INFO|9204|mysql connect start!
+info: 2020-06-26 12:34:05|mysqlConect.ts:28|INFO|9620|Executing (default): SELECT 1+1 AS result
+info: 2020-06-26 12:34:05|mysqlConect.ts:31|INFO|9620|mysql connect start!
+info: 2020-06-26 12:34:13|mysqlConect.ts:28|INFO|21120|Executing (default): SELECT 1+1 AS result
+info: 2020-06-26 12:34:13|mysqlConect.ts:31|INFO|21120|mysql connect start!
+info: 2020-06-26 12:34:26|mysqlConect.ts:28|INFO|10496|Executing (default): SELECT 1+1 AS result
+info: 2020-06-26 12:34:26|mysqlConect.ts:31|INFO|10496|mysql connect start!
+info: 2020-06-26 12:34:54|mysqlConect.ts:28|INFO|10204|Executing (default): SELECT 1+1 AS result
+info: 2020-06-26 12:34:54|mysqlConect.ts:31|INFO|10204|mysql connect start!
+info: 2020-06-26 12:36:01|mysqlConect.ts:28|INFO|21992|Executing (default): SELECT 1+1 AS result
+info: 2020-06-26 12:36:01|mysqlConect.ts:31|INFO|21992|mysql connect start!
+info: 2020-06-26 12:36:07|mysqlConect.ts:28|INFO|7004|Executing (default): SELECT 1+1 AS result
+info: 2020-06-26 12:36:07|mysqlConect.ts:31|INFO|7004|mysql connect start!
+info: 2020-06-26 12:36:46|mysqlConect.ts:28|INFO|22488|Executing (default): SELECT 1+1 AS result
+info: 2020-06-26 12:36:46|mysqlConect.ts:31|INFO|22488|mysql connect start!
+info: 2020-06-26 12:36:51|mysqlConect.ts:28|INFO|22368|Executing (default): SELECT 1+1 AS result
+info: 2020-06-26 12:36:51|mysqlConect.ts:31|INFO|22368|mysql connect start!
+info: 2020-06-26 12:36:56|mysqlConect.ts:28|INFO|21508|Executing (default): SELECT 1+1 AS result
+info: 2020-06-26 12:36:56|mysqlConect.ts:31|INFO|21508|mysql connect start!
+info: 2020-06-26 12:37:08|mysqlConect.ts:28|INFO|16776|Executing (default): SELECT 1+1 AS result
+info: 2020-06-26 12:37:08|mysqlConect.ts:31|INFO|16776|mysql connect start!
+info: 2020-06-26 12:37:52|mysqlConect.ts:28|INFO|20872|Executing (default): SELECT 1+1 AS result
+info: 2020-06-26 12:37:52|mysqlConect.ts:31|INFO|20872|mysql connect start!
+info: 2020-06-26 12:38:54|mysqlConect.ts:28|INFO|5328|Executing (default): SELECT 1+1 AS result
+info: 2020-06-26 12:38:54|mysqlConect.ts:31|INFO|5328|mysql connect start!
+info: 2020-06-26 12:39:14|mysqlConect.ts:28|INFO|3016|Executing (default): SELECT 1+1 AS result
+info: 2020-06-26 12:39:14|mysqlConect.ts:31|INFO|3016|mysql connect start!
+info: 2020-06-26 12:39:56|mysqlConect.ts:28|INFO|11108|Executing (default): SELECT 1+1 AS result
+info: 2020-06-26 12:39:56|mysqlConect.ts:31|INFO|11108|mysql connect start!
+info: 2020-06-26 12:40:07|mysqlConect.ts:28|INFO|13596|Executing (default): SELECT 1+1 AS result
+info: 2020-06-26 12:40:07|mysqlConect.ts:31|INFO|13596|mysql connect start!
+info: 2020-06-26 12:40:17|mysqlConect.ts:28|INFO|22500|Executing (default): SELECT 1+1 AS result
+info: 2020-06-26 12:40:17|mysqlConect.ts:31|INFO|22500|mysql connect start!
+info: 2020-06-26 12:40:22|mysqlConect.ts:28|INFO|17344|Executing (default): SELECT 1+1 AS result
+info: 2020-06-26 12:40:22|mysqlConect.ts:31|INFO|17344|mysql connect start!
+info: 2020-06-26 12:40:35|mysqlConect.ts:28|INFO|6036|Executing (default): SELECT 1+1 AS result
+info: 2020-06-26 12:40:35|mysqlConect.ts:31|INFO|6036|mysql connect start!
+info: 2020-06-26 12:40:45|mysqlConect.ts:28|INFO|17796|Executing (default): SELECT 1+1 AS result
+info: 2020-06-26 12:40:45|mysqlConect.ts:31|INFO|17796|mysql connect start!
+info: 2020-06-26 12:41:00|mysqlConect.ts:28|INFO|11660|Executing (default): SELECT 1+1 AS result
+info: 2020-06-26 12:41:00|mysqlConect.ts:31|INFO|11660|mysql connect start!
+info: 2020-06-26 12:41:08|mysqlConect.ts:28|INFO|2080|Executing (default): SELECT 1+1 AS result
+info: 2020-06-26 12:41:08|mysqlConect.ts:31|INFO|2080|mysql connect start!
+info: 2020-06-26 12:41:21|mysqlConect.ts:28|INFO|8492|Executing (default): SELECT 1+1 AS result
+info: 2020-06-26 12:41:21|mysqlConect.ts:31|INFO|8492|mysql connect start!
+info: 2020-06-26 12:41:25|mysqlConect.ts:28|INFO|17888|Executing (default): SELECT 1+1 AS result
+info: 2020-06-26 12:41:25|mysqlConect.ts:31|INFO|17888|mysql connect start!
+info: 2020-06-26 12:41:55|mysqlConect.ts:28|INFO|11732|Executing (default): SELECT 1+1 AS result
+info: 2020-06-26 12:41:55|mysqlConect.ts:31|INFO|11732|mysql connect start!
+info: 2020-06-26 12:42:03|mysqlConect.ts:28|INFO|21320|Executing (default): SELECT 1+1 AS result
+info: 2020-06-26 12:42:03|mysqlConect.ts:31|INFO|21320|mysql connect start!
+info: 2020-06-26 12:42:07|mysqlConect.ts:28|INFO|20612|Executing (default): SELECT 1+1 AS result
+info: 2020-06-26 12:42:07|mysqlConect.ts:31|INFO|20612|mysql connect start!
+info: 2020-06-26 12:42:57|mysqlConect.ts:28|INFO|20932|Executing (default): SELECT 1+1 AS result
+info: 2020-06-26 12:42:57|mysqlConect.ts:31|INFO|20932|mysql connect start!
+info: 2020-06-26 12:43:21|mysqlConect.ts:28|INFO|21792|Executing (default): SELECT 1+1 AS result
+info: 2020-06-26 12:43:21|mysqlConect.ts:31|INFO|21792|mysql connect start!
+info: 2020-06-26 12:43:32|mysqlConect.ts:28|INFO|1220|Executing (default): SELECT 1+1 AS result
+info: 2020-06-26 12:43:32|mysqlConect.ts:31|INFO|1220|mysql connect start!
+info: 2020-06-26 12:43:49|mysqlConect.ts:28|INFO|16096|Executing (default): SELECT 1+1 AS result
+info: 2020-06-26 12:43:49|mysqlConect.ts:31|INFO|16096|mysql connect start!
+info: 2020-06-26 12:44:09|mysqlConect.ts:28|INFO|19948|Executing (default): SELECT 1+1 AS result
+info: 2020-06-26 12:44:09|mysqlConect.ts:31|INFO|19948|mysql connect start!
+info: 2020-06-26 12:44:50|mysqlConect.ts:28|INFO|22108|Executing (default): SELECT 1+1 AS result
+info: 2020-06-26 12:44:50|mysqlConect.ts:31|INFO|22108|mysql connect start!
+info: 2020-06-26 12:45:20|mysqlConect.ts:28|INFO|18936|Executing (default): SELECT 1+1 AS result
+info: 2020-06-26 12:45:20|mysqlConect.ts:31|INFO|18936|mysql connect start!
+info: 2020-06-26 12:45:30|mysqlConect.ts:28|INFO|2588|Executing (default): SELECT 1+1 AS result
+info: 2020-06-26 12:45:30|mysqlConect.ts:31|INFO|2588|mysql connect start!
+info: 2020-06-26 12:46:06|mysqlConect.ts:28|INFO|9668|Executing (default): SELECT 1+1 AS result
+info: 2020-06-26 12:46:06|mysqlConect.ts:31|INFO|9668|mysql connect start!
+info: 2020-06-26 12:46:18|mysqlConect.ts:28|INFO|22264|Executing (default): SELECT 1+1 AS result
+info: 2020-06-26 12:46:18|mysqlConect.ts:31|INFO|22264|mysql connect start!
+info: 2020-06-26 12:46:35|mysqlConect.ts:28|INFO|12980|Executing (default): SELECT 1+1 AS result
+info: 2020-06-26 12:46:35|mysqlConect.ts:31|INFO|12980|mysql connect start!
+info: 2020-06-26 12:46:42|mysqlConect.ts:28|INFO|21572|Executing (default): SELECT 1+1 AS result
+info: 2020-06-26 12:46:42|mysqlConect.ts:31|INFO|21572|mysql connect start!
+info: 2020-06-26 12:46:52|mysqlConect.ts:28|INFO|20804|Executing (default): SELECT 1+1 AS result
+info: 2020-06-26 12:46:52|mysqlConect.ts:31|INFO|20804|mysql connect start!
+info: 2020-06-26 12:47:47|mysqlConect.ts:28|INFO|22108|Executing (default): SELECT 1+1 AS result
+info: 2020-06-26 12:47:47|mysqlConect.ts:31|INFO|22108|mysql connect start!
+info: 2020-06-26 12:47:57|mysqlConect.ts:28|INFO|20856|Executing (default): SELECT 1+1 AS result
+info: 2020-06-26 12:47:57|mysqlConect.ts:31|INFO|20856|mysql connect start!
+info: 2020-06-26 12:48:20|mysqlConect.ts:28|INFO|6860|Executing (default): SELECT 1+1 AS result
+info: 2020-06-26 12:48:20|mysqlConect.ts:31|INFO|6860|mysql connect start!
+info: 2020-06-26 14:23:56|mysqlConect.ts:28|INFO|16492|Executing (default): SELECT 1+1 AS result
+info: 2020-06-26 14:23:56|mysqlConect.ts:31|INFO|16492|mysql connect start!
+info: 2020-06-26 14:24:12|mysqlConect.ts:28|INFO|18220|Executing (default): SELECT 1+1 AS result
+info: 2020-06-26 14:24:12|mysqlConect.ts:31|INFO|18220|mysql connect start!
+info: 2020-06-26 14:24:27|mysqlConect.ts:28|INFO|18736|Executing (default): SELECT 1+1 AS result
+info: 2020-06-26 14:24:27|mysqlConect.ts:31|INFO|18736|mysql connect start!
+info: 2020-06-26 14:27:14|mysqlConect.ts:28|INFO|7420|Executing (default): SELECT 1+1 AS result
+info: 2020-06-26 14:27:14|mysqlConect.ts:31|INFO|7420|mysql connect start!
+info: 2020-06-26 14:27:20|mysqlConect.ts:28|INFO|22316|Executing (default): SELECT 1+1 AS result
+info: 2020-06-26 14:27:20|mysqlConect.ts:31|INFO|22316|mysql connect start!
+info: 2020-06-26 14:44:18|mysqlConect.ts:28|INFO|4624|Executing (default): SELECT 1+1 AS result
+info: 2020-06-26 14:44:18|mysqlConect.ts:31|INFO|4624|mysql connect start!
+info: 2020-06-26 14:48:01|mysqlConect.ts:28|INFO|20856|Executing (default): SELECT 1+1 AS result
+info: 2020-06-26 14:48:01|mysqlConect.ts:31|INFO|20856|mysql connect start!
+info: 2020-06-26 14:52:08|mysqlConect.ts:28|INFO|16480|Executing (default): SELECT 1+1 AS result
+info: 2020-06-26 14:52:08|mysqlConect.ts:31|INFO|16480|mysql connect start!
+info: 2020-06-26 14:52:28|mysqlConect.ts:28|INFO|10192|Executing (default): SELECT 1+1 AS result
+info: 2020-06-26 14:52:28|mysqlConect.ts:31|INFO|10192|mysql connect start!
+info: 2020-06-26 15:02:25|mysqlConect.ts:28|INFO|20508|Executing (default): SELECT 1+1 AS result
+info: 2020-06-26 15:02:25|mysqlConect.ts:31|INFO|20508|mysql connect start!
+info: 2020-06-26 15:02:30|mysqlConect.ts:28|INFO|10908|Executing (default): SELECT 1+1 AS result
+info: 2020-06-26 15:02:30|mysqlConect.ts:31|INFO|10908|mysql connect start!
+info: 2020-06-26 15:14:40|mysqlConect.ts:28|INFO|17532|Executing (default): SELECT 1+1 AS result
+info: 2020-06-26 15:14:40|mysqlConect.ts:31|INFO|17532|mysql connect start!
+info: 2020-06-26 15:14:51|mysqlConect.ts:28|INFO|3592|Executing (default): SELECT 1+1 AS result
+info: 2020-06-26 15:14:51|mysqlConect.ts:31|INFO|3592|mysql connect start!
+info: 2020-06-26 15:15:01|mysqlConect.ts:28|INFO|6780|Executing (default): SELECT 1+1 AS result
+info: 2020-06-26 15:15:01|mysqlConect.ts:31|INFO|6780|mysql connect start!
+info: 2020-06-26 15:15:20|mysqlConect.ts:28|INFO|21752|Executing (default): SELECT 1+1 AS result
+info: 2020-06-26 15:15:20|mysqlConect.ts:31|INFO|21752|mysql connect start!
+info: 2020-06-26 15:15:31|mysqlConect.ts:28|INFO|16596|Executing (default): SELECT 1+1 AS result
+info: 2020-06-26 15:15:31|mysqlConect.ts:31|INFO|16596|mysql connect start!
+info: 2020-06-26 15:15:42|mysqlConect.ts:28|INFO|18968|Executing (default): SELECT 1+1 AS result
+info: 2020-06-26 15:15:42|mysqlConect.ts:31|INFO|18968|mysql connect start!
+info: 2020-06-26 15:15:50|mysqlConect.ts:28|INFO|11660|Executing (default): SELECT 1+1 AS result
+info: 2020-06-26 15:15:50|mysqlConect.ts:31|INFO|11660|mysql connect start!
+info: 2020-06-26 15:15:57|mysqlConect.ts:28|INFO|504|Executing (default): SELECT 1+1 AS result
+info: 2020-06-26 15:15:57|mysqlConect.ts:31|INFO|504|mysql connect start!
+info: 2020-06-26 15:16:11|mysqlConect.ts:28|INFO|10864|Executing (default): SELECT 1+1 AS result
+info: 2020-06-26 15:16:11|mysqlConect.ts:31|INFO|10864|mysql connect start!
+info: 2020-06-26 15:16:16|mysqlConect.ts:28|INFO|22880|Executing (default): SELECT 1+1 AS result
+info: 2020-06-26 15:16:16|mysqlConect.ts:31|INFO|22880|mysql connect start!
+info: 2020-06-26 15:16:21|mysqlConect.ts:28|INFO|20636|Executing (default): SELECT 1+1 AS result
+info: 2020-06-26 15:16:21|mysqlConect.ts:31|INFO|20636|mysql connect start!
+info: 2020-06-26 15:16:26|mysqlConect.ts:28|INFO|20392|Executing (default): SELECT 1+1 AS result
+info: 2020-06-26 15:16:26|mysqlConect.ts:31|INFO|20392|mysql connect start!
+info: 2020-06-26 15:16:31|mysqlConect.ts:28|INFO|22940|Executing (default): SELECT 1+1 AS result
+info: 2020-06-26 15:16:31|mysqlConect.ts:31|INFO|22940|mysql connect start!
+info: 2020-06-26 15:16:35|mysqlConect.ts:28|INFO|11812|Executing (default): SELECT 1+1 AS result
+info: 2020-06-26 15:16:35|mysqlConect.ts:31|INFO|11812|mysql connect start!
+info: 2020-06-26 15:16:39|mysqlConect.ts:28|INFO|21240|Executing (default): SELECT 1+1 AS result
+info: 2020-06-26 15:16:39|mysqlConect.ts:31|INFO|21240|mysql connect start!
+info: 2020-06-26 15:16:44|mysqlConect.ts:28|INFO|9580|Executing (default): SELECT 1+1 AS result
+info: 2020-06-26 15:16:44|mysqlConect.ts:31|INFO|9580|mysql connect start!
+info: 2020-06-26 15:16:48|mysqlConect.ts:28|INFO|17988|Executing (default): SELECT 1+1 AS result
+info: 2020-06-26 15:16:48|mysqlConect.ts:31|INFO|17988|mysql connect start!
+info: 2020-06-26 15:16:51|mysqlConect.ts:28|INFO|19196|Executing (default): SELECT 1+1 AS result
+info: 2020-06-26 15:16:51|mysqlConect.ts:31|INFO|19196|mysql connect start!
+info: 2020-06-26 15:16:56|mysqlConect.ts:28|INFO|18756|Executing (default): SELECT 1+1 AS result
+info: 2020-06-26 15:16:56|mysqlConect.ts:31|INFO|18756|mysql connect start!
+info: 2020-06-26 15:17:00|mysqlConect.ts:28|INFO|20864|Executing (default): SELECT 1+1 AS result
+info: 2020-06-26 15:17:00|mysqlConect.ts:31|INFO|20864|mysql connect start!
+info: 2020-06-26 15:17:03|mysqlConect.ts:28|INFO|7588|Executing (default): SELECT 1+1 AS result
+info: 2020-06-26 15:17:03|mysqlConect.ts:31|INFO|7588|mysql connect start!
+info: 2020-06-26 15:17:12|mysqlConect.ts:28|INFO|21940|Executing (default): SELECT 1+1 AS result
+info: 2020-06-26 15:17:12|mysqlConect.ts:31|INFO|21940|mysql connect start!
+info: 2020-06-26 15:17:25|mysqlConect.ts:28|INFO|22924|Executing (default): SELECT 1+1 AS result
+info: 2020-06-26 15:17:25|mysqlConect.ts:31|INFO|22924|mysql connect start!
+info: 2020-06-26 15:17:32|mysqlConect.ts:28|INFO|17156|Executing (default): SELECT 1+1 AS result
+info: 2020-06-26 15:17:32|mysqlConect.ts:31|INFO|17156|mysql connect start!
+info: 2020-06-26 15:17:38|mysqlConect.ts:28|INFO|13352|Executing (default): SELECT 1+1 AS result
+info: 2020-06-26 15:17:38|mysqlConect.ts:31|INFO|13352|mysql connect start!
+info: 2020-06-26 15:18:50|mysqlConect.ts:28|INFO|21944|Executing (default): SELECT 1+1 AS result
+info: 2020-06-26 15:18:50|mysqlConect.ts:31|INFO|21944|mysql connect start!
+info: 2020-06-26 15:19:01|mysqlConect.ts:28|INFO|18072|Executing (default): SELECT 1+1 AS result
+info: 2020-06-26 15:19:01|mysqlConect.ts:31|INFO|18072|mysql connect start!
+info: 2020-06-26 15:19:06|mysqlConect.ts:28|INFO|23124|Executing (default): SELECT 1+1 AS result
+info: 2020-06-26 15:19:06|mysqlConect.ts:31|INFO|23124|mysql connect start!
+info: 2020-06-26 15:20:54|mysqlConect.ts:28|INFO|22620|Executing (default): SELECT 1+1 AS result
+info: 2020-06-26 15:20:54|mysqlConect.ts:31|INFO|22620|mysql connect start!
+info: 2020-06-26 15:21:03|mysqlConect.ts:28|INFO|18184|Executing (default): SELECT 1+1 AS result
+info: 2020-06-26 15:21:03|mysqlConect.ts:31|INFO|18184|mysql connect start!
+info: 2020-06-26 15:21:13|mysqlConect.ts:28|INFO|20876|Executing (default): SELECT 1+1 AS result
+info: 2020-06-26 15:21:13|mysqlConect.ts:31|INFO|20876|mysql connect start!
+info: 2020-06-26 15:21:19|mysqlConect.ts:28|INFO|21220|Executing (default): SELECT 1+1 AS result
+info: 2020-06-26 15:21:19|mysqlConect.ts:31|INFO|21220|mysql connect start!
+info: 2020-06-26 15:21:34|mysqlConect.ts:28|INFO|21600|Executing (default): SELECT 1+1 AS result
+info: 2020-06-26 15:21:34|mysqlConect.ts:31|INFO|21600|mysql connect start!
+info: 2020-06-26 15:21:37|mysqlConect.ts:28|INFO|13336|Executing (default): SELECT 1+1 AS result
+info: 2020-06-26 15:21:37|mysqlConect.ts:31|INFO|13336|mysql connect start!
+info: 2020-06-26 15:21:41|mysqlConect.ts:28|INFO|22828|Executing (default): SELECT 1+1 AS result
+info: 2020-06-26 15:21:41|mysqlConect.ts:31|INFO|22828|mysql connect start!
+info: 2020-06-26 15:21:47|mysqlConect.ts:28|INFO|20536|Executing (default): SELECT 1+1 AS result
+info: 2020-06-26 15:21:47|mysqlConect.ts:31|INFO|20536|mysql connect start!
+info: 2020-06-26 15:21:55|mysqlConect.ts:28|INFO|20536|Executing (default): SELECT `id`, `user_name`, `nick_name`, `password`, `phone`, `address`, `create_time`, `update_time`, `email`, `sex`, `birthday`, `createdAt`, `updatedAt` FROM `user` AS `User`;
+info: 2020-06-26 15:22:54|mysqlConect.ts:28|INFO|23280|Executing (default): SELECT 1+1 AS result
+info: 2020-06-26 15:22:54|mysqlConect.ts:31|INFO|23280|mysql connect start!
+info: 2020-06-26 15:22:57|mysqlConect.ts:28|INFO|23284|Executing (default): SELECT 1+1 AS result
+info: 2020-06-26 15:22:57|mysqlConect.ts:31|INFO|23284|mysql connect start!
+info: 2020-06-26 15:23:00|mysqlConect.ts:28|INFO|23284|Executing (default): SELECT `id`, `user_name`, `nick_name`, `password`, `phone`, `address`, `create_time`, `update_time`, `email`, `sex`, `birthday`, `createdAt`, `updatedAt` FROM `user` AS `User` LIMIT 1;
+info: 2020-06-26 15:24:20|mysqlConect.ts:28|INFO|21360|Executing (default): SELECT 1+1 AS result
+info: 2020-06-26 15:24:20|mysqlConect.ts:31|INFO|21360|mysql connect start!
+info: 2020-06-26 15:24:20|mysqlConect.ts:28|INFO|21360|Executing (default): SELECT `id`, `user_name`, `nick_name`, `password`, `phone`, `address`, `create_time`, `update_time`, `email`, `sex`, `birthday`, `createdAt`, `updatedAt` FROM `user` AS `User` LIMIT 1;
+info: 2020-06-26 15:24:23|mysqlConect.ts:28|INFO|21360|Executing (default): SELECT `id`, `user_name`, `nick_name`, `password`, `phone`, `address`, `create_time`, `update_time`, `email`, `sex`, `birthday`, `createdAt`, `updatedAt` FROM `user` AS `User` LIMIT 1;
+info: 2020-06-26 15:24:25|mysqlConect.ts:28|INFO|21360|Executing (default): SELECT `id`, `user_name`, `nick_name`, `password`, `phone`, `address`, `create_time`, `update_time`, `email`, `sex`, `birthday`, `createdAt`, `updatedAt` FROM `user` AS `User` LIMIT 1;
+info: 2020-06-26 15:26:34|mysqlConect.ts:28|INFO|22288|Executing (default): SELECT 1+1 AS result
+info: 2020-06-26 15:26:34|mysqlConect.ts:31|INFO|22288|mysql connect start!
+info: 2020-06-26 15:26:34|mysqlConect.ts:28|INFO|22288|Executing (default): SELECT `id`, `user_name`, `nick_name`, `password`, `phone`, `address`, `create_time`, `update_time`, `email`, `sex`, `birthday`, `createdAt`, `updatedAt` FROM `user` AS `Users` LIMIT 1;
+info: 2020-06-26 15:26:34|mysqlConect.ts:28|INFO|22288|Executing (default): SELECT `id`, `user_name`, `nick_name`, `password`, `phone`, `address`, `create_time`, `update_time`, `email`, `sex`, `birthday`, `createdAt`, `updatedAt` FROM `user` AS `Users` LIMIT 1;
+info: 2020-06-26 15:26:35|mysqlConect.ts:28|INFO|22288|Executing (default): SELECT `id`, `user_name`, `nick_name`, `password`, `phone`, `address`, `create_time`, `update_time`, `email`, `sex`, `birthday`, `createdAt`, `updatedAt` FROM `user` AS `Users` LIMIT 1;
+info: 2020-06-26 15:26:35|mysqlConect.ts:28|INFO|22288|Executing (default): SELECT `id`, `user_name`, `nick_name`, `password`, `phone`, `address`, `create_time`, `update_time`, `email`, `sex`, `birthday`, `createdAt`, `updatedAt` FROM `user` AS `Users` LIMIT 1;
+info: 2020-06-26 15:26:49|mysqlConect.ts:28|INFO|22868|Executing (default): SELECT 1+1 AS result
+info: 2020-06-26 15:26:49|mysqlConect.ts:31|INFO|22868|mysql connect start!
+info: 2020-06-26 15:27:17|mysqlConect.ts:28|INFO|20712|Executing (default): SELECT 1+1 AS result
+info: 2020-06-26 15:27:17|mysqlConect.ts:31|INFO|20712|mysql connect start!
+info: 2020-06-26 15:27:19|mysqlConect.ts:28|INFO|20712|Executing (default): SELECT `id`, `user_name`, `nick_name`, `password`, `phone`, `address`, `create_time`, `update_time`, `email`, `sex`, `birthday`, `createdAt`, `updatedAt` FROM `user` AS `User` LIMIT 1;
+info: 2020-06-26 15:27:57|mysqlConect.ts:28|INFO|4092|Executing (default): SELECT 1+1 AS result
+info: 2020-06-26 15:27:57|mysqlConect.ts:31|INFO|4092|mysql connect start!
+info: 2020-06-26 15:28:11|mysqlConect.ts:28|INFO|20324|Executing (default): SELECT 1+1 AS result
+info: 2020-06-26 15:28:11|mysqlConect.ts:31|INFO|20324|mysql connect start!
+info: 2020-06-26 15:28:13|mysqlConect.ts:28|INFO|20324|Executing (default): SELECT `id`, `user_name`, `nick_name`, `password`, `phone`, `address`, `create_time`, `update_time`, `email`, `sex`, `birthday`, `createdAt`, `updatedAt` FROM `user` AS `User` LIMIT 1;
+info: 2020-06-26 15:28:35|mysqlConect.ts:28|INFO|23460|Executing (default): SELECT 1+1 AS result
+info: 2020-06-26 15:28:35|mysqlConect.ts:31|INFO|23460|mysql connect start!
+info: 2020-06-26 15:28:36|mysqlConect.ts:28|INFO|23460|Executing (default): SELECT `id`, `user_name`, `nick_name`, `password`, `phone`, `address`, `create_time`, `update_time`, `email`, `sex`, `birthday`, `createdAt`, `updatedAt` FROM `user` AS `User` LIMIT 1;
+info: 2020-06-26 15:29:05|mysqlConect.ts:28|INFO|8832|Executing (default): SELECT 1+1 AS result
+info: 2020-06-26 15:29:05|mysqlConect.ts:31|INFO|8832|mysql connect start!
+info: 2020-06-26 15:29:25|mysqlConect.ts:28|INFO|19476|Executing (default): SELECT 1+1 AS result
+info: 2020-06-26 15:29:25|mysqlConect.ts:31|INFO|19476|mysql connect start!
+info: 2020-06-26 15:30:06|mysqlConect.ts:28|INFO|19476|Executing (default): SELECT `id`, `user_name`, `nick_name`, `password`, `phone`, `address`, `create_time`, `update_time`, `email`, `sex`, `birthday`, `createdAt`, `updatedAt` FROM `user` AS `User` LIMIT 1;
+info: 2020-06-26 15:30:42|mysqlConect.ts:28|INFO|22484|Executing (default): SELECT 1+1 AS result
+info: 2020-06-26 15:30:42|mysqlConect.ts:31|INFO|22484|mysql connect start!
+info: 2020-06-26 15:30:56|mysqlConect.ts:28|INFO|23216|Executing (default): SELECT 1+1 AS result
+info: 2020-06-26 15:30:56|mysqlConect.ts:31|INFO|23216|mysql connect start!
+info: 2020-06-26 15:31:03|mysqlConect.ts:28|INFO|22928|Executing (default): SELECT 1+1 AS result
+info: 2020-06-26 15:31:03|mysqlConect.ts:31|INFO|22928|mysql connect start!
+info: 2020-06-26 15:31:05|mysqlConect.ts:28|INFO|22928|Executing (default): SELECT `id`, `user_name`, `nick_name`, `password`, `phone`, `address`, `create_time`, `update_time`, `email`, `sex`, `birthday`, `createdAt`, `updatedAt` FROM `user` AS `User` WHERE `User`.`user_name` = '张丹' LIMIT 1;
+info: 2020-06-26 15:31:05|mysqlConect.ts:28|INFO|22928|Executing (default): SELECT `id`, `user_name`, `nick_name`, `password`, `phone`, `address`, `create_time`, `update_time`, `email`, `sex`, `birthday`, `createdAt`, `updatedAt` FROM `user` AS `User` WHERE `User`.`user_name` = '张丹' LIMIT 1;
+info: 2020-06-26 15:31:06|mysqlConect.ts:28|INFO|22928|Executing (default): SELECT `id`, `user_name`, `nick_name`, `password`, `phone`, `address`, `create_time`, `update_time`, `email`, `sex`, `birthday`, `createdAt`, `updatedAt` FROM `user` AS `User` WHERE `User`.`user_name` = '张丹' LIMIT 1;
+info: 2020-06-26 15:31:06|mysqlConect.ts:28|INFO|22928|Executing (default): SELECT `id`, `user_name`, `nick_name`, `password`, `phone`, `address`, `create_time`, `update_time`, `email`, `sex`, `birthday`, `createdAt`, `updatedAt` FROM `user` AS `User` WHERE `User`.`user_name` = '张丹' LIMIT 1;
+info: 2020-06-26 15:31:06|mysqlConect.ts:28|INFO|22928|Executing (default): SELECT `id`, `user_name`, `nick_name`, `password`, `phone`, `address`, `create_time`, `update_time`, `email`, `sex`, `birthday`, `createdAt`, `updatedAt` FROM `user` AS `User` WHERE `User`.`user_name` = '张丹' LIMIT 1;
+info: 2020-06-26 15:31:06|mysqlConect.ts:28|INFO|22928|Executing (default): SELECT `id`, `user_name`, `nick_name`, `password`, `phone`, `address`, `create_time`, `update_time`, `email`, `sex`, `birthday`, `createdAt`, `updatedAt` FROM `user` AS `User` WHERE `User`.`user_name` = '张丹' LIMIT 1;
+info: 2020-06-26 15:31:43|mysqlConect.ts:28|INFO|8768|Executing (default): SELECT 1+1 AS result
+info: 2020-06-26 15:31:43|mysqlConect.ts:31|INFO|8768|mysql connect start!
+info: 2020-06-26 15:31:44|mysqlConect.ts:28|INFO|8768|Executing (default): SELECT `id`, `user_name`, `nick_name`, `password`, `phone`, `address`, `create_time`, `update_time`, `email`, `sex`, `birthday`, `createdAt`, `updatedAt` FROM `user` AS `User` WHERE `User`.`user_name` = '张丹' LIMIT 1;
+info: 2020-06-26 15:31:44|mysqlConect.ts:28|INFO|8768|Executing (default): SELECT `id`, `user_name`, `nick_name`, `password`, `phone`, `address`, `create_time`, `update_time`, `email`, `sex`, `birthday`, `createdAt`, `updatedAt` FROM `user` AS `User` WHERE `User`.`user_name` = '张丹' LIMIT 1;
+info: 2020-06-26 15:31:44|mysqlConect.ts:28|INFO|8768|Executing (default): SELECT `id`, `user_name`, `nick_name`, `password`, `phone`, `address`, `create_time`, `update_time`, `email`, `sex`, `birthday`, `createdAt`, `updatedAt` FROM `user` AS `User` WHERE `User`.`user_name` = '张丹' LIMIT 1;
+info: 2020-06-26 15:31:45|mysqlConect.ts:28|INFO|8768|Executing (default): SELECT `id`, `user_name`, `nick_name`, `password`, `phone`, `address`, `create_time`, `update_time`, `email`, `sex`, `birthday`, `createdAt`, `updatedAt` FROM `user` AS `User` WHERE `User`.`user_name` = '张丹' LIMIT 1;
+info: 2020-06-26 15:31:45|mysqlConect.ts:28|INFO|8768|Executing (default): SELECT `id`, `user_name`, `nick_name`, `password`, `phone`, `address`, `create_time`, `update_time`, `email`, `sex`, `birthday`, `createdAt`, `updatedAt` FROM `user` AS `User` WHERE `User`.`user_name` = '张丹' LIMIT 1;
+info: 2020-06-26 15:32:06|mysqlConect.ts:28|INFO|11240|Executing (default): SELECT 1+1 AS result
+info: 2020-06-26 15:32:06|mysqlConect.ts:31|INFO|11240|mysql connect start!
+info: 2020-06-26 15:32:25|mysqlConect.ts:28|INFO|16852|Executing (default): SELECT 1+1 AS result
+info: 2020-06-26 15:32:25|mysqlConect.ts:31|INFO|16852|mysql connect start!
+info: 2020-06-26 15:32:25|mysqlConect.ts:28|INFO|16852|Executing (default): SELECT `id`, `user_name`, `nick_name`, `password`, `phone`, `address`, `create_time`, `update_time`, `email`, `sex`, `birthday`, `createdAt`, `updatedAt` FROM `user` AS `User` WHERE `User`.`user_name` = '张丹' LIMIT 1;
+info: 2020-06-26 15:32:25|mysqlConect.ts:28|INFO|16852|Executing (default): SELECT `id`, `user_name`, `nick_name`, `password`, `phone`, `address`, `create_time`, `update_time`, `email`, `sex`, `birthday`, `createdAt`, `updatedAt` FROM `user` AS `User` WHERE `User`.`user_name` = '张丹' LIMIT 1;
+info: 2020-06-26 15:32:25|mysqlConect.ts:28|INFO|16852|Executing (default): SELECT `id`, `user_name`, `nick_name`, `password`, `phone`, `address`, `create_time`, `update_time`, `email`, `sex`, `birthday`, `createdAt`, `updatedAt` FROM `user` AS `User` WHERE `User`.`user_name` = '张丹' LIMIT 1;
+info: 2020-06-26 15:32:25|mysqlConect.ts:28|INFO|16852|Executing (default): SELECT `id`, `user_name`, `nick_name`, `password`, `phone`, `address`, `create_time`, `update_time`, `email`, `sex`, `birthday`, `createdAt`, `updatedAt` FROM `user` AS `User` WHERE `User`.`user_name` = '张丹' LIMIT 1;
+info: 2020-06-26 15:36:08|mysqlConect.ts:28|INFO|23124|Executing (default): SELECT 1+1 AS result
+info: 2020-06-26 15:36:08|mysqlConect.ts:31|INFO|23124|mysql connect start!
+info: 2020-06-26 15:36:21|mysqlConect.ts:28|INFO|21924|Executing (default): SELECT 1+1 AS result
+info: 2020-06-26 15:36:21|mysqlConect.ts:31|INFO|21924|mysql connect start!
+info: 2020-06-26 15:36:24|mysqlConect.ts:28|INFO|21924|Executing (default): SELECT `id`, `user_name`, `nick_name`, `password`, `phone`, `address`, `create_time`, `update_time`, `email`, `sex`, `birthday`, `createdAt`, `updatedAt` FROM `user` AS `User` WHERE `User`.`user_name` = '张丹' LIMIT 1;
+info: 2020-06-26 15:37:09|mysqlConect.ts:28|INFO|21924|Executing (default): SELECT `id`, `user_name`, `nick_name`, `password`, `phone`, `address`, `create_time`, `update_time`, `email`, `sex`, `birthday`, `createdAt`, `updatedAt` FROM `user` AS `User` WHERE `User`.`user_name` = '张丹' LIMIT 1;
+info: 2020-06-26 15:37:09|mysqlConect.ts:28|INFO|21924|Executing (default): SELECT `id`, `user_name`, `nick_name`, `password`, `phone`, `address`, `create_time`, `update_time`, `email`, `sex`, `birthday`, `createdAt`, `updatedAt` FROM `user` AS `User` WHERE `User`.`user_name` = '张丹' LIMIT 1;
+info: 2020-06-26 15:37:09|mysqlConect.ts:28|INFO|21924|Executing (default): SELECT `id`, `user_name`, `nick_name`, `password`, `phone`, `address`, `create_time`, `update_time`, `email`, `sex`, `birthday`, `createdAt`, `updatedAt` FROM `user` AS `User` WHERE `User`.`user_name` = '张丹' LIMIT 1;
+info: 2020-06-26 15:41:37|mysqlConect.ts:28|INFO|13084|Executing (default): SELECT 1+1 AS result
+info: 2020-06-26 15:41:37|mysqlConect.ts:31|INFO|13084|mysql connect start!
+info: 2020-06-26 15:42:21|mysqlConect.ts:28|INFO|1400|Executing (default): SELECT 1+1 AS result
+info: 2020-06-26 15:42:21|mysqlConect.ts:31|INFO|1400|mysql connect start!
+info: 2020-06-26 15:42:21|mysqlConect.ts:28|INFO|1400|Executing (default): SELECT `id`, `user_name`, `nick_name`, `password`, `phone`, `address`, `create_time`, `update_time`, `email`, `sex`, `birthday`, `createdAt`, `updatedAt` FROM `user` AS `User` WHERE `User`.`user_name` = '张丹' LIMIT 1;
+info: 2020-06-26 15:42:39|mysqlConect.ts:28|INFO|23252|Executing (default): SELECT 1+1 AS result
+info: 2020-06-26 15:42:39|mysqlConect.ts:31|INFO|23252|mysql connect start!
+info: 2020-06-26 15:43:05|mysqlConect.ts:28|INFO|15020|Executing (default): SELECT 1+1 AS result
+info: 2020-06-26 15:43:05|mysqlConect.ts:31|INFO|15020|mysql connect start!
+info: 2020-06-26 15:43:10|mysqlConect.ts:28|INFO|21108|Executing (default): SELECT 1+1 AS result
+info: 2020-06-26 15:43:10|mysqlConect.ts:28|INFO|21108|Executing (default): SELECT `id`, `user_name`, `nick_name`, `password`, `phone`, `address`, `create_time`, `update_time`, `email`, `sex`, `birthday`, `createdAt`, `updatedAt` FROM `user` AS `User` WHERE `User`.`user_name` = '张丹' LIMIT 1;
+info: 2020-06-26 15:43:10|mysqlConect.ts:31|INFO|21108|mysql connect start!
+info: 2020-06-26 15:43:17|mysqlConect.ts:28|INFO|21108|Executing (default): SELECT `id`, `user_name`, `nick_name`, `password`, `phone`, `address`, `create_time`, `update_time`, `email`, `sex`, `birthday`, `createdAt`, `updatedAt` FROM `user` AS `User` WHERE `User`.`user_name` = '张丹' LIMIT 1;
+info: 2020-06-26 15:44:52|mysqlConect.ts:28|INFO|23292|Executing (default): SELECT 1+1 AS result
+info: 2020-06-26 15:44:52|mysqlConect.ts:31|INFO|23292|mysql connect start!
+info: 2020-06-26 15:44:56|mysqlConect.ts:28|INFO|5688|Executing (default): SELECT 1+1 AS result
+info: 2020-06-26 15:44:56|mysqlConect.ts:31|INFO|5688|mysql connect start!
+info: 2020-06-26 15:44:56|mysqlConect.ts:28|INFO|5688|Executing (default): SELECT `id`, `user_name`, `nick_name`, `password`, `phone`, `address`, `create_time`, `update_time`, `email`, `sex`, `birthday`, `createdAt`, `updatedAt` FROM `user` AS `User` WHERE `User`.`user_name` = '张丹' LIMIT 1;
+info: 2020-06-26 15:45:22|mysqlConect.ts:28|INFO|21704|Executing (default): SELECT 1+1 AS result
+info: 2020-06-26 15:45:22|mysqlConect.ts:31|INFO|21704|mysql connect start!
+info: 2020-06-26 15:46:31|mysqlConect.ts:28|INFO|21704|Executing (default): SELECT `id`, `user_name`, `nick_name`, `password`, `phone`, `address`, `create_time`, `update_time`, `email`, `sex`, `birthday`, `createdAt`, `updatedAt` FROM `user` AS `User` WHERE `User`.`user_name` = '张丹' LIMIT 1;
+info: 2020-06-26 15:49:56|mysqlConect.ts:28|INFO|22780|Executing (default): SELECT 1+1 AS result
+info: 2020-06-26 15:49:56|mysqlConect.ts:31|INFO|22780|mysql connect start!
+info: 2020-06-26 15:50:00|mysqlConect.ts:28|INFO|2632|Executing (default): SELECT 1+1 AS result
+info: 2020-06-26 15:50:00|mysqlConect.ts:31|INFO|2632|mysql connect start!
+info: 2020-06-26 15:50:01|mysqlConect.ts:28|INFO|2632|Executing (default): SELECT `id`, `user_name`, `nick_name`, `password`, `phone`, `address`, `create_time`, `update_time`, `email`, `sex`, `birthday` FROM `user` AS `User` WHERE `User`.`user_name` = '张丹' LIMIT 1;
+info: 2020-06-26 15:50:05|mysqlConect.ts:28|INFO|2632|Executing (default): SELECT `id`, `user_name`, `nick_name`, `password`, `phone`, `address`, `create_time`, `update_time`, `email`, `sex`, `birthday` FROM `user` AS `User` WHERE `User`.`user_name` = '张丹' LIMIT 1;
+info: 2020-06-26 15:50:05|mysqlConect.ts:28|INFO|2632|Executing (default): SELECT `id`, `user_name`, `nick_name`, `password`, `phone`, `address`, `create_time`, `update_time`, `email`, `sex`, `birthday` FROM `user` AS `User` WHERE `User`.`user_name` = '张丹' LIMIT 1;
+info: 2020-06-26 15:50:06|mysqlConect.ts:28|INFO|2632|Executing (default): SELECT `id`, `user_name`, `nick_name`, `password`, `phone`, `address`, `create_time`, `update_time`, `email`, `sex`, `birthday` FROM `user` AS `User` WHERE `User`.`user_name` = '张丹' LIMIT 1;
+info: 2020-06-26 15:50:40|mysqlConect.ts:28|INFO|21580|Executing (default): SELECT 1+1 AS result
+info: 2020-06-26 15:50:40|mysqlConect.ts:31|INFO|21580|mysql connect start!
+info: 2020-06-26 15:50:40|mysqlConect.ts:28|INFO|21580|Executing (default): SELECT `id`, `user_name`, `nick_name`, `password`, `phone`, `address`, `create_time`, `update_time`, `email`, `sex`, `birthday` FROM `user` AS `User` WHERE `User`.`user_name` = '张丹' LIMIT 1;
+info: 2020-06-26 15:51:17|mysqlConect.ts:28|INFO|5840|Executing (default): SELECT 1+1 AS result
+info: 2020-06-26 15:51:17|mysqlConect.ts:31|INFO|5840|mysql connect start!
+info: 2020-06-26 15:51:19|mysqlConect.ts:28|INFO|5840|Executing (default): SELECT `id`, `user_name`, `nick_name`, `password`, `phone`, `address`, `create_time`, `update_time`, `email`, `sex`, `birthday` FROM `user` AS `User` WHERE `User`.`user_name` = '张丹' LIMIT 1;
+info: 2020-06-26 15:51:30|mysqlConect.ts:28|INFO|15996|Executing (default): SELECT 1+1 AS result
+info: 2020-06-26 15:51:30|mysqlConect.ts:28|INFO|15996|Executing (default): SELECT `id`, `user_name`, `nick_name`, `password`, `phone`, `address`, `create_time`, `update_time`, `email`, `sex`, `birthday`, `createdAt`, `updatedAt` FROM `user` AS `User` WHERE `User`.`user_name` = '张丹' LIMIT 1;
+info: 2020-06-26 15:51:30|mysqlConect.ts:28|INFO|15996|Executing (default): SELECT `id`, `user_name`, `nick_name`, `password`, `phone`, `address`, `create_time`, `update_time`, `email`, `sex`, `birthday`, `createdAt`, `updatedAt` FROM `user` AS `User` WHERE `User`.`user_name` = '张丹' LIMIT 1;
+info: 2020-06-26 15:51:30|mysqlConect.ts:31|INFO|15996|mysql connect start!
+info: 2020-06-26 15:51:30|mysqlConect.ts:28|INFO|15996|Executing (default): SELECT `id`, `user_name`, `nick_name`, `password`, `phone`, `address`, `create_time`, `update_time`, `email`, `sex`, `birthday`, `createdAt`, `updatedAt` FROM `user` AS `User` WHERE `User`.`user_name` = '张丹' LIMIT 1;
+info: 2020-06-26 15:51:30|mysqlConect.ts:28|INFO|15996|Executing (default): SELECT `id`, `user_name`, `nick_name`, `password`, `phone`, `address`, `create_time`, `update_time`, `email`, `sex`, `birthday`, `createdAt`, `updatedAt` FROM `user` AS `User` WHERE `User`.`user_name` = '张丹' LIMIT 1;
+info: 2020-06-26 15:51:30|mysqlConect.ts:28|INFO|15996|Executing (default): SELECT `id`, `user_name`, `nick_name`, `password`, `phone`, `address`, `create_time`, `update_time`, `email`, `sex`, `birthday`, `createdAt`, `updatedAt` FROM `user` AS `User` WHERE `User`.`user_name` = '张丹' LIMIT 1;
+info: 2020-06-26 15:51:30|mysqlConect.ts:28|INFO|15996|Executing (default): SELECT `id`, `user_name`, `nick_name`, `password`, `phone`, `address`, `create_time`, `update_time`, `email`, `sex`, `birthday`, `createdAt`, `updatedAt` FROM `user` AS `User` WHERE `User`.`user_name` = '张丹' LIMIT 1;
+info: 2020-06-26 15:51:30|mysqlConect.ts:28|INFO|15996|Executing (default): SELECT `id`, `user_name`, `nick_name`, `password`, `phone`, `address`, `create_time`, `update_time`, `email`, `sex`, `birthday`, `createdAt`, `updatedAt` FROM `user` AS `User` WHERE `User`.`user_name` = '张丹' LIMIT 1;
+info: 2020-06-26 15:51:30|mysqlConect.ts:28|INFO|15996|Executing (default): SELECT `id`, `user_name`, `nick_name`, `password`, `phone`, `address`, `create_time`, `update_time`, `email`, `sex`, `birthday`, `createdAt`, `updatedAt` FROM `user` AS `User` WHERE `User`.`user_name` = '张丹' LIMIT 1;
+info: 2020-06-26 15:51:31|mysqlConect.ts:28|INFO|15996|Executing (default): SELECT `id`, `user_name`, `nick_name`, `password`, `phone`, `address`, `create_time`, `update_time`, `email`, `sex`, `birthday`, `createdAt`, `updatedAt` FROM `user` AS `User` WHERE `User`.`user_name` = '张丹' LIMIT 1;
+info: 2020-06-26 15:51:31|mysqlConect.ts:28|INFO|15996|Executing (default): SELECT `id`, `user_name`, `nick_name`, `password`, `phone`, `address`, `create_time`, `update_time`, `email`, `sex`, `birthday`, `createdAt`, `updatedAt` FROM `user` AS `User` WHERE `User`.`user_name` = '张丹' LIMIT 1;
+info: 2020-06-26 15:51:41|mysqlConect.ts:28|INFO|6648|Executing (default): SELECT 1+1 AS result
+info: 2020-06-26 15:51:41|mysqlConect.ts:31|INFO|6648|mysql connect start!
+info: 2020-06-26 15:51:41|mysqlConect.ts:28|INFO|6648|Executing (default): SELECT `id`, `user_name`, `nick_name`, `password`, `phone`, `address`, `create_time`, `update_time`, `email`, `sex`, `birthday` FROM `user` AS `User` WHERE `User`.`user_name` = '张丹' LIMIT 1;
+info: 2020-06-26 15:51:51|mysqlConect.ts:28|INFO|22140|Executing (default): SELECT 1+1 AS result
+info: 2020-06-26 15:51:51|mysqlConect.ts:31|INFO|22140|mysql connect start!
+info: 2020-06-26 15:52:33|mysqlConect.ts:28|INFO|16888|Executing (default): SELECT 1+1 AS result
+info: 2020-06-26 15:52:33|mysqlConect.ts:31|INFO|16888|mysql connect start!
+info: 2020-06-26 15:52:37|mysqlConect.ts:28|INFO|16276|Executing (default): SELECT 1+1 AS result
+info: 2020-06-26 15:52:37|mysqlConect.ts:31|INFO|16276|mysql connect start!
+info: 2020-06-26 15:52:41|mysqlConect.ts:28|INFO|9896|Executing (default): SELECT 1+1 AS result
+info: 2020-06-26 15:52:41|mysqlConect.ts:31|INFO|9896|mysql connect start!
+info: 2020-06-26 15:52:47|mysqlConect.ts:28|INFO|18488|Executing (default): SELECT 1+1 AS result
+info: 2020-06-26 15:52:47|mysqlConect.ts:31|INFO|18488|mysql connect start!
+info: 2020-06-26 15:52:50|mysqlConect.ts:28|INFO|13968|Executing (default): SELECT 1+1 AS result
+info: 2020-06-26 15:52:50|mysqlConect.ts:31|INFO|13968|mysql connect start!
+info: 2020-06-26 15:52:54|mysqlConect.ts:28|INFO|22520|Executing (default): SELECT 1+1 AS result
+info: 2020-06-26 15:52:54|mysqlConect.ts:31|INFO|22520|mysql connect start!
+info: 2020-06-26 15:53:17|mysqlConect.ts:28|INFO|2628|Executing (default): SELECT 1+1 AS result
+info: 2020-06-26 15:53:17|mysqlConect.ts:31|INFO|2628|mysql connect start!
+info: 2020-06-26 15:54:08|mysqlConect.ts:35|INFO|932|Executing (default): SELECT 1+1 AS result
+info: 2020-06-26 15:54:08|mysqlConect.ts:38|INFO|932|mysql connect start!
+info: 2020-06-26 15:54:11|mysqlConect.ts:35|INFO|144|Executing (default): SELECT 1+1 AS result
+info: 2020-06-26 15:54:11|mysqlConect.ts:38|INFO|144|mysql connect start!
+info: 2020-06-26 15:54:14|mysqlConect.ts:35|INFO|428|Executing (default): SELECT 1+1 AS result
+info: 2020-06-26 15:54:14|mysqlConect.ts:38|INFO|428|mysql connect start!
+info: 2020-06-26 15:54:27|mysqlConect.ts:35|INFO|12296|Executing (default): SELECT 1+1 AS result
+info: 2020-06-26 15:54:27|mysqlConect.ts:38|INFO|12296|mysql connect start!
+info: 2020-06-26 15:54:30|mysqlConect.ts:35|INFO|18696|Executing (default): SELECT 1+1 AS result
+info: 2020-06-26 15:54:30|mysqlConect.ts:38|INFO|18696|mysql connect start!
+info: 2020-06-26 15:54:34|mysqlConect.ts:35|INFO|11660|Executing (default): SELECT 1+1 AS result
+info: 2020-06-26 15:54:34|mysqlConect.ts:38|INFO|11660|mysql connect start!
+info: 2020-06-26 15:54:41|mysqlConect.ts:35|INFO|16084|Executing (default): SELECT 1+1 AS result
+info: 2020-06-26 15:54:41|mysqlConect.ts:38|INFO|16084|mysql connect start!
+info: 2020-06-26 15:54:43|mysqlConect.ts:35|INFO|16084|Executing (default): SELECT `id`, `user_name`, `nick_name`, `password`, `phone`, `address`, `create_time`, `update_time`, `email`, `sex`, `birthday` FROM `user` AS `User` WHERE `User`.`user_name` = '张丹' LIMIT 1;
+info: 2020-06-26 15:54:55|mysqlConect.ts:35|INFO|18608|Executing (default): SELECT 1+1 AS result
+info: 2020-06-26 15:54:55|mysqlConect.ts:38|INFO|18608|mysql connect start!
+info: 2020-06-26 15:54:58|mysqlConect.ts:35|INFO|21596|Executing (default): SELECT 1+1 AS result
+info: 2020-06-26 15:54:58|mysqlConect.ts:38|INFO|21596|mysql connect start!
+info: 2020-06-26 15:55:01|mysqlConect.ts:35|INFO|13968|Executing (default): SELECT 1+1 AS result
+info: 2020-06-26 15:55:01|mysqlConect.ts:38|INFO|13968|mysql connect start!
+info: 2020-06-26 15:55:08|mysqlConect.ts:35|INFO|13968|Executing (default): SELECT `id`, `user_name`, `nick_name`, `password`, `phone`, `address`, `create_time`, `update_time`, `email`, `sex`, `birthday` FROM `user` AS `User` WHERE `User`.`user_name` = '张丹' LIMIT 1;
+info: 2020-06-26 15:55:28|mysqlConect.ts:35|INFO|20688|Executing (default): SELECT 1+1 AS result
+info: 2020-06-26 15:55:28|mysqlConect.ts:38|INFO|20688|mysql connect start!
+info: 2020-06-26 15:55:30|mysqlConect.ts:35|INFO|20688|Executing (default): SELECT `id`, `user_name`, `nick_name`, `password`, `phone`, `address`, `create_time`, `update_time`, `email`, `sex`, `birthday` FROM `user` AS `User` WHERE `User`.`user_name` = '张丹' LIMIT 1;
+info: 2020-06-26 15:55:50|mysqlConect.ts:35|INFO|14060|Executing (default): SELECT 1+1 AS result
+info: 2020-06-26 15:55:50|mysqlConect.ts:38|INFO|14060|mysql connect start!
+info: 2020-06-26 15:55:54|mysqlConect.ts:35|INFO|8252|Executing (default): SELECT 1+1 AS result
+info: 2020-06-26 15:55:54|mysqlConect.ts:38|INFO|8252|mysql connect start!
+info: 2020-06-26 15:56:07|mysqlConect.ts:35|INFO|3216|Executing (default): SELECT 1+1 AS result
+info: 2020-06-26 15:56:07|mysqlConect.ts:38|INFO|3216|mysql connect start!
+info: 2020-06-26 15:56:14|mysqlConect.ts:35|INFO|15204|Executing (default): SELECT 1+1 AS result
+info: 2020-06-26 15:56:14|mysqlConect.ts:38|INFO|15204|mysql connect start!
+info: 2020-06-26 15:56:15|mysqlConect.ts:35|INFO|15204|Executing (default): SELECT `id`, `user_name`, `nick_name`, `password`, `phone`, `address`, `create_time`, `update_time`, `email`, `sex`, `birthday` FROM `user` AS `User` WHERE `User`.`user_name` = '张丹' LIMIT 1;
+info: 2020-06-26 15:56:40|mysqlConect.ts:35|INFO|10700|Executing (default): SELECT 1+1 AS result
+info: 2020-06-26 15:56:40|mysqlConect.ts:38|INFO|10700|mysql connect start!
+info: 2020-06-26 15:56:41|mysqlConect.ts:35|INFO|10700|Executing (default): SELECT `id`, `user_name`, `nick_name`, `password`, `phone`, `address`, `create_time`, `update_time`, `email`, `sex`, `birthday` FROM `user` AS `User` WHERE `User`.`user_name` = '张丹' LIMIT 1;
+info: 2020-06-26 15:57:12|mysqlConect.ts:35|INFO|9576|Executing (default): SELECT 1+1 AS result
+info: 2020-06-26 15:57:12|mysqlConect.ts:38|INFO|9576|mysql connect start!
+info: 2020-06-26 15:57:36|mysqlConect.ts:35|INFO|15236|Executing (default): SELECT 1+1 AS result
+info: 2020-06-26 15:57:36|mysqlConect.ts:38|INFO|15236|mysql connect start!
+info: 2020-06-26 15:57:45|mysqlConect.ts:35|INFO|22960|Executing (default): SELECT 1+1 AS result
+info: 2020-06-26 15:57:45|mysqlConect.ts:38|INFO|22960|mysql connect start!
+info: 2020-06-26 15:57:51|mysqlConect.ts:35|INFO|22960|Executing (default): SELECT `id`, `user_name`, `nick_name`, `password`, `phone`, `address`, `create_time`, `update_time`, `email`, `sex`, `birthday` FROM `user` AS `User` WHERE `User`.`user_name` = '张丹' LIMIT 1;
+info: 2020-06-26 15:58:02|mysqlConect.ts:35|INFO|19244|Executing (default): SELECT 1+1 AS result
+info: 2020-06-26 15:58:02|mysqlConect.ts:38|INFO|19244|mysql connect start!
+info: 2020-06-26 16:23:13|mysqlConect.ts:35|INFO|18940|Executing (default): SELECT 1+1 AS result
+info: 2020-06-26 16:23:13|mysqlConect.ts:38|INFO|18940|mysql connect start!
+info: 2020-06-26 16:23:17|mysqlConect.ts:35|INFO|20508|Executing (default): SELECT 1+1 AS result
+info: 2020-06-26 16:23:17|mysqlConect.ts:38|INFO|20508|mysql connect start!
+info: 2020-06-26 16:23:49|mysqlConect.ts:35|INFO|14464|Executing (default): SELECT 1+1 AS result
+info: 2020-06-26 16:23:49|mysqlConect.ts:38|INFO|14464|mysql connect start!
+info: 2020-06-26 16:23:53|mysqlConect.ts:35|INFO|10500|Executing (default): SELECT 1+1 AS result
+info: 2020-06-26 16:23:53|mysqlConect.ts:38|INFO|10500|mysql connect start!
+info: 2020-06-26 16:24:00|mysqlConect.ts:35|INFO|10500|Executing (default): SELECT `id`, `user_name`, `nick_name`, `password`, `phone`, `address`, `create_time`, `update_time`, `email`, `sex`, `birthday` FROM `user` AS `User` WHERE `User`.`user_name` = '张丹' LIMIT 1;
+info: 2020-06-26 16:24:00|mysqlConect.ts:35|INFO|10500|Executing (default): SELECT `id`, `user_name`, `nick_name`, `password`, `phone`, `address`, `create_time`, `update_time`, `email`, `sex`, `birthday` FROM `user` AS `User` WHERE `User`.`user_name` = '张丹' LIMIT 1;
+info: 2020-06-26 16:24:17|mysqlConect.ts:35|INFO|20932|Executing (default): SELECT 1+1 AS result
+info: 2020-06-26 16:24:17|mysqlConect.ts:38|INFO|20932|mysql connect start!
+info: 2020-06-26 16:24:30|mysqlConect.ts:35|INFO|21508|Executing (default): SELECT * FROM `user`
+info: 2020-06-26 16:24:30|mysqlConect.ts:35|INFO|21508|Executing (default): SELECT 1+1 AS result
+info: 2020-06-26 16:24:30|mysqlConect.ts:42|INFO|21508|mysql connect start!
+info: 2020-06-26 16:24:51|mysqlConect.ts:35|INFO|11900|Executing (default): SELECT * FROM `user`
+info: 2020-06-26 16:24:51|mysqlConect.ts:35|INFO|11900|Executing (default): SELECT 1+1 AS result
+info: 2020-06-26 16:24:51|mysqlConect.ts:42|INFO|11900|mysql connect start!
+info: 2020-06-26 16:26:06|mysqlConect.ts:35|INFO|20820|Executing (default): SELECT * FROM `user`
+info: 2020-06-26 16:26:06|mysqlConect.ts:35|INFO|20820|Executing (default): SELECT 1+1 AS result
+info: 2020-06-26 16:26:06|mysqlConect.ts:42|INFO|20820|mysql connect start!
+info: 2020-06-26 16:26:22|mysqlConect.ts:35|INFO|18416|Executing (default): SELECT * FROM `user`
+info: 2020-06-26 16:26:22|mysqlConect.ts:35|INFO|18416|Executing (default): SELECT 1+1 AS result
+info: 2020-06-26 16:26:22|mysqlConect.ts:42|INFO|18416|mysql connect start!
+info: 2020-06-26 16:26:32|mysqlConect.ts:35|INFO|21136|Executing (default): SELECT * FROM `user`
+info: 2020-06-26 16:26:32|mysqlConect.ts:35|INFO|21136|Executing (default): SELECT 1+1 AS result
+info: 2020-06-26 16:26:32|mysqlConect.ts:42|INFO|21136|mysql connect start!
+info: 2020-06-26 16:26:43|mysqlConect.ts:35|INFO|5256|Executing (default): SELECT * FROM `user`
+info: 2020-06-26 16:26:43|mysqlConect.ts:35|INFO|5256|Executing (default): SELECT 1+1 AS result
+info: 2020-06-26 16:26:43|mysqlConect.ts:42|INFO|5256|mysql connect start!
+info: 2020-06-26 16:26:53|mysqlConect.ts:35|INFO|21420|Executing (default): SELECT * FROM `user`
+info: 2020-06-26 16:26:53|mysqlConect.ts:35|INFO|21420|Executing (default): SELECT 1+1 AS result
+info: 2020-06-26 16:26:53|mysqlConect.ts:42|INFO|21420|mysql connect start!
+info: 2020-06-26 16:27:16|mysqlConect.ts:35|INFO|12376|Executing (default): SELECT 1+1 AS result
+info: 2020-06-26 16:27:16|mysqlConect.ts:43|INFO|12376|mysql connect start!
+info: 2020-06-26 16:27:51|mysqlConect.ts:35|INFO|15192|Executing (default): SELECT 1+1 AS result
+info: 2020-06-26 16:27:51|mysqlConect.ts:43|INFO|15192|mysql connect start!
+info: 2020-06-26 16:28:00|mysqlConect.ts:35|INFO|76|Executing (default): SELECT 1+1 AS result
+info: 2020-06-26 16:28:00|mysqlConect.ts:43|INFO|76|mysql connect start!
+info: 2020-06-26 16:28:02|mysqlConect.ts:35|INFO|15796|Executing (default): SELECT 1+1 AS result
+info: 2020-06-26 16:28:02|mysqlConect.ts:43|INFO|15796|mysql connect start!
+info: 2020-06-26 16:28:09|mysqlConect.ts:35|INFO|22236|Executing (default): SELECT 1+1 AS result
+info: 2020-06-26 16:28:09|mysqlConect.ts:43|INFO|22236|mysql connect start!
+info: 2020-06-26 16:28:19|mysqlConect.ts:35|INFO|21580|Executing (default): SELECT 1+1 AS result
+info: 2020-06-26 16:28:19|mysqlConect.ts:43|INFO|21580|mysql connect start!
+info: 2020-06-26 16:28:42|mysqlConect.ts:35|INFO|7004|Executing (default): SELECT 1+1 AS result
+info: 2020-06-26 16:28:42|mysqlConect.ts:43|INFO|7004|mysql connect start!
+info: 2020-06-26 16:28:47|mysqlConect.ts:35|INFO|20756|Executing (default): SELECT 1+1 AS result
+info: 2020-06-26 16:28:47|mysqlConect.ts:43|INFO|20756|mysql connect start!
+info: 2020-06-26 16:29:12|mysqlConect.ts:35|INFO|22976|Executing (default): SELECT 1+1 AS result
+info: 2020-06-26 16:29:12|mysqlConect.ts:43|INFO|22976|mysql connect start!
+info: 2020-06-26 16:29:16|mysqlConect.ts:35|INFO|21168|Executing (default): SELECT 1+1 AS result
+info: 2020-06-26 16:29:16|mysqlConect.ts:35|INFO|21168|Executing (default): SELECT * FROM `user`
+info: 2020-06-26 16:29:16|mysqlConect.ts:43|INFO|21168|mysql connect start!
+info: 2020-06-26 16:29:30|mysqlConect.ts:35|INFO|21536|Executing (default): SELECT 1+1 AS result
+info: 2020-06-26 16:29:30|mysqlConect.ts:35|INFO|21536|Executing (default): SELECT * FROM `user`
+info: 2020-06-26 16:29:30|mysqlConect.ts:43|INFO|21536|mysql connect start!
+info: 2020-06-26 16:29:34|mysqlConect.ts:35|INFO|8048|Executing (default): SELECT 1+1 AS result
+info: 2020-06-26 16:29:34|mysqlConect.ts:35|INFO|8048|Executing (default): SELECT * FROM `user`
+info: 2020-06-26 16:29:34|mysqlConect.ts:43|INFO|8048|mysql connect start!
+info: 2020-06-26 16:29:46|mysqlConect.ts:35|INFO|17540|Executing (default): SELECT 1+1 AS result
+info: 2020-06-26 16:29:46|mysqlConect.ts:35|INFO|17540|Executing (default): SELECT * FROM `user`
+info: 2020-06-26 16:29:46|mysqlConect.ts:43|INFO|17540|mysql connect start!
+info: 2020-06-26 16:29:48|mysqlConect.ts:35|INFO|688|Executing (default): SELECT 1+1 AS result
+info: 2020-06-26 16:29:48|mysqlConect.ts:35|INFO|688|Executing (default): SELECT * FROM `user`
+info: 2020-06-26 16:29:48|mysqlConect.ts:43|INFO|688|mysql connect start!
+info: 2020-06-26 16:29:55|mysqlConect.ts:35|INFO|22764|Executing (default): SELECT 1+1 AS result
+info: 2020-06-26 16:29:55|mysqlConect.ts:35|INFO|22764|Executing (default): SELECT * FROM `user`
+info: 2020-06-26 16:29:55|mysqlConect.ts:43|INFO|22764|mysql connect start!
+info: 2020-06-26 16:30:10|mysqlConect.ts:35|INFO|14140|Executing (default): SELECT 1+1 AS result
+info: 2020-06-26 16:30:10|mysqlConect.ts:35|INFO|14140|Executing (default): SELECT * FROM `user`
+info: 2020-06-26 16:30:10|mysqlConect.ts:43|INFO|14140|mysql connect start!
+info: 2020-06-26 16:30:34|mysqlConect.ts:35|INFO|17540|Executing (default): SELECT * FROM `user`
+info: 2020-06-26 16:30:34|mysqlConect.ts:35|INFO|17540|Executing (default): SELECT 1+1 AS result
+info: 2020-06-26 16:30:34|mysqlConect.ts:35|INFO|17540|Executing (default): SELECT * FROM `user`
+info: 2020-06-26 16:30:34|mysqlConect.ts:43|INFO|17540|mysql connect start!
+info: 2020-06-26 16:30:52|mysqlConect.ts:35|INFO|432|Executing (default): SELECT * FROM `user`
+info: 2020-06-26 16:30:52|mysqlConect.ts:35|INFO|432|Executing (default): SELECT 1+1 AS result
+info: 2020-06-26 16:30:52|mysqlConect.ts:35|INFO|432|Executing (default): SELECT * FROM `user`
+info: 2020-06-26 16:30:52|mysqlConect.ts:43|INFO|432|mysql connect start!
+info: 2020-06-26 16:31:01|mysqlConect.ts:35|INFO|22796|Executing (default): SELECT 1+1 AS result
+info: 2020-06-26 16:31:01|mysqlConect.ts:43|INFO|22796|mysql connect start!
+info: 2020-06-26 16:31:01|mysqlConect.ts:35|INFO|22796|Executing (default): SELECT * FROM `user`
+info: 2020-06-26 16:31:09|mysqlConect.ts:35|INFO|22440|Executing (default): SELECT 1+1 AS result
+info: 2020-06-26 16:31:09|mysqlConect.ts:35|INFO|22440|Executing (default): SELECT * FROM `user`
+info: 2020-06-26 16:31:09|mysqlConect.ts:43|INFO|22440|mysql connect start!
+info: 2020-06-26 16:31:19|mysqlConect.ts:35|INFO|6780|Executing (default): SELECT 1+1 AS result
+info: 2020-06-26 16:31:19|mysqlConect.ts:35|INFO|6780|Executing (default): SELECT * FROM `user`
+info: 2020-06-26 16:31:19|mysqlConect.ts:43|INFO|6780|mysql connect start!
+info: 2020-06-26 16:34:16|mysqlConect.ts:35|INFO|10908|Executing (default): SELECT 1+1 AS result
+info: 2020-06-26 16:34:16|mysqlConect.ts:35|INFO|10908|Executing (default): SELECT * FROM `user`
+info: 2020-06-26 16:34:16|mysqlConect.ts:43|INFO|10908|mysql connect start!
+info: 2020-06-26 16:37:09|mysqlConect.ts:34|INFO|20804|Executing (default): SELECT 1+1 AS result
+info: 2020-06-26 16:37:09|mysqlConect.ts:34|INFO|20804|Executing (default): SELECT * FROM `user`
+info: 2020-06-26 16:37:09|mysqlConect.ts:42|INFO|20804|mysql connect start!
+info: 2020-06-26 16:37:15|mysqlConect.ts:34|INFO|15084|Executing (default): SELECT 1+1 AS result
+info: 2020-06-26 16:37:15|mysqlConect.ts:42|INFO|15084|mysql connect start!
+info: 2020-06-26 16:37:28|mysqlConect.ts:34|INFO|20672|Executing (default): SELECT 1+1 AS result
+info: 2020-06-26 16:37:28|mysqlConect.ts:42|INFO|20672|mysql connect start!
+info: 2020-06-26 16:39:00|mysqlConect.ts:35|INFO|19468|Executing (default): SELECT 1+1 AS result
+info: 2020-06-26 16:39:00|mysqlConect.ts:43|INFO|19468|mysql connect start!
+info: 2020-06-26 16:39:00|mysqlConect.ts:35|INFO|19468|Executing (default): SELECT * FROM `user`
+info: 2020-06-26 16:39:00|mysqlConect.ts:35|INFO|19468|Executing (default): SELECT `id`, `user_name`, `nick_name`, `password`, `phone`, `address`, `create_time`, `update_time`, `email`, `sex`, `birthday` FROM `user` AS `User` WHERE `User`.`user_name` = '张丹' LIMIT 1;
+info: 2020-06-26 16:39:00|mysqlConect.ts:35|INFO|19468|Executing (default): SELECT `id`, `user_name`, `nick_name`, `password`, `phone`, `address`, `create_time`, `update_time`, `email`, `sex`, `birthday` FROM `user` AS `User` WHERE `User`.`user_name` = '张丹' LIMIT 1;
+info: 2020-06-26 16:39:00|mysqlConect.ts:35|INFO|19468|Executing (default): SELECT `id`, `user_name`, `nick_name`, `password`, `phone`, `address`, `create_time`, `update_time`, `email`, `sex`, `birthday` FROM `user` AS `User` WHERE `User`.`user_name` = '张丹' LIMIT 1;
+info: 2020-06-26 16:39:00|mysqlConect.ts:35|INFO|19468|Executing (default): SELECT `id`, `user_name`, `nick_name`, `password`, `phone`, `address`, `create_time`, `update_time`, `email`, `sex`, `birthday` FROM `user` AS `User` WHERE `User`.`user_name` = '张丹' LIMIT 1;
+info: 2020-06-26 16:39:06|mysqlConect.ts:35|INFO|7456|Executing (default): SELECT 1+1 AS result
+info: 2020-06-26 16:39:06|mysqlConect.ts:35|INFO|7456|Executing (default): SELECT * FROM `user`
+info: 2020-06-26 16:39:06|mysqlConect.ts:43|INFO|7456|mysql connect start!
+info: 2020-06-26 16:39:13|mysqlConect.ts:35|INFO|22536|Executing (default): SELECT 1+1 AS result
+info: 2020-06-26 16:39:13|mysqlConect.ts:35|INFO|22536|Executing (default): SELECT * FROM `user`
+info: 2020-06-26 16:39:13|mysqlConect.ts:43|INFO|22536|mysql connect start!
+info: 2020-06-26 16:39:18|mysqlConect.ts:35|INFO|23480|Executing (default): SELECT 1+1 AS result
+info: 2020-06-26 16:39:18|mysqlConect.ts:35|INFO|23480|Executing (default): SELECT * FROM `user`
+info: 2020-06-26 16:39:18|mysqlConect.ts:43|INFO|23480|mysql connect start!
+info: 2020-06-26 17:38:18|mysqlConect.ts:35|INFO|23480|Executing (default): SELECT `id`, `user_name`, `nick_name`, `password`, `phone`, `address`, `create_time`, `update_time`, `email`, `sex`, `birthday` FROM `user` AS `User` WHERE `User`.`user_name` = '张丹' LIMIT 1;
+info: 2020-06-26 17:40:04|mysqlConect.ts:35|INFO|23480|Executing (default): SELECT `id`, `user_name`, `nick_name`, `password`, `phone`, `address`, `create_time`, `update_time`, `email`, `sex`, `birthday` FROM `user` AS `User` WHERE `User`.`user_name` = '张丹' LIMIT 1;
+info: 2020-06-26 17:40:26|mysqlConect.ts:35|INFO|23480|Executing (default): SELECT `id`, `user_name`, `nick_name`, `password`, `phone`, `address`, `create_time`, `update_time`, `email`, `sex`, `birthday` FROM `user` AS `User` WHERE `User`.`user_name` = '张丹' LIMIT 1;
+info: 2020-06-26 17:57:03|mysqlConect.ts:35|INFO|23480|Executing (default): SELECT `id`, `user_name`, `nick_name`, `password`, `phone`, `address`, `create_time`, `update_time`, `email`, `sex`, `birthday` FROM `user` AS `User` WHERE `User`.`user_name` = '张丹' LIMIT 1;
+info: 2020-06-26 19:02:13|mysqlConect.ts:35|INFO|23480|Executing (default): SELECT `id`, `user_name`, `nick_name`, `password`, `phone`, `address`, `create_time`, `update_time`, `email`, `sex`, `birthday` FROM `user` AS `User` WHERE `User`.`user_name` = '张丹' LIMIT 1;
+info: 2020-06-26 19:03:54|mysqlConect.ts:35|INFO|1840|Executing (default): SELECT 1+1 AS result
+info: 2020-06-26 19:03:54|mysqlConect.ts:35|INFO|1840|Executing (default): SELECT * FROM `user`
+info: 2020-06-26 19:03:54|mysqlConect.ts:43|INFO|1840|mysql connect start!
+info: 2020-06-26 19:03:57|mysqlConect.ts:35|INFO|12920|Executing (default): SELECT 1+1 AS result
+info: 2020-06-26 19:03:57|mysqlConect.ts:35|INFO|12920|Executing (default): SELECT * FROM `user`
+info: 2020-06-26 19:03:57|mysqlConect.ts:43|INFO|12920|mysql connect start!
+info: 2020-06-26 19:04:00|mysqlConect.ts:35|INFO|20652|Executing (default): SELECT 1+1 AS result
+info: 2020-06-26 19:04:00|mysqlConect.ts:35|INFO|20652|Executing (default): SELECT * FROM `user`
+info: 2020-06-26 19:04:00|mysqlConect.ts:43|INFO|20652|mysql connect start!
+info: 2020-06-26 19:14:08|mysqlConect.ts:35|INFO|23588|Executing (default): SELECT 1+1 AS result
+info: 2020-06-26 19:14:08|mysqlConect.ts:35|INFO|23588|Executing (default): SELECT * FROM `user`
+info: 2020-06-26 19:14:08|mysqlConect.ts:43|INFO|23588|mysql connect start!
+info: 2020-06-26 19:14:12|mysqlConect.ts:35|INFO|23588|Executing (default): SELECT `id`, `user_name`, `nick_name`, `password`, `phone`, `address`, `create_time`, `update_time`, `email`, `sex`, `birthday` FROM `user` AS `User` WHERE `User`.`user_name` = '张丹' LIMIT 1;
+info: 2020-06-26 19:14:47|mysqlConect.ts:35|INFO|23748|Executing (default): SELECT 1+1 AS result
+info: 2020-06-26 19:14:47|mysqlConect.ts:43|INFO|23748|mysql connect start!
+info: 2020-06-26 19:14:47|mysqlConect.ts:35|INFO|23748|Executing (default): SELECT * FROM `user`
+info: 2020-06-26 19:14:48|mysqlConect.ts:35|INFO|23748|Executing (default): SELECT `id`, `user_name`, `nick_name`, `password`, `phone`, `address`, `create_time`, `update_time`, `email`, `sex`, `birthday` FROM `user` AS `User` WHERE `User`.`user_name` = '张丹' LIMIT 1;
+info: 2020-06-26 21:26:27|mysqlConect.ts:35|INFO|23748|Executing (default): SELECT `id`, `user_name`, `nick_name`, `password`, `phone`, `address`, `create_time`, `update_time`, `email`, `sex`, `birthday` FROM `user` AS `User` WHERE `User`.`user_name` = '张丹' LIMIT 1;

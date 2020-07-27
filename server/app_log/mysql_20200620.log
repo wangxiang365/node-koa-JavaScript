@@ -1,0 +1,8 @@
+error: 2020-06-20 11:55:15|mysql.ts:33|ERROR|7860|Unable to connect to the database:|{"name":"SequelizeConnectionError","parent":{"errorno":"ETIMEDOUT","code":"ETIMEDOUT","syscall":"connect","fatal":true},"original":{"errorno":"ETIMEDOUT","code":"ETIMEDOUT","syscall":"connect","fatal":true}}
+error: 2020-06-20 11:55:15|mysql.ts:37|ERROR|7860|mysql错误邮箱提示发送失败！|Error: Invalid login: 535 Login Fail. Please enter your authorization code to login. More information in http://service.mail.qq.com/cgi-bin/help?subtype=1&&id=28&&no=1001256
+info: 2020-06-20 13:45:17|mysql.ts:28|INFO|9536|Executing (default): SELECT 1+1 AS result
+info: 2020-06-20 13:45:17|mysql.ts:31|INFO|9536|mysql connect start!
+info: 2020-06-20 17:19:07|mysql.ts:28|INFO|17324|Executing (default): SELECT 1+1 AS result
+info: 2020-06-20 17:19:07|mysql.ts:31|INFO|17324|mysql connect start!
+info: 2020-06-20 21:19:13|mysql.ts:28|INFO|10288|Executing (default): SELECT 1+1 AS result
+info: 2020-06-20 21:19:13|mysql.ts:31|INFO|10288|mysql connect start!

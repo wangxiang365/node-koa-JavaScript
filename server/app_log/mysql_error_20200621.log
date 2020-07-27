@@ -1,0 +1,7 @@
+error: 2020-06-21 17:27:58|mysql.ts:38|ERROR|18692|Unable to connect to the database:|{}
+error: 2020-06-21 17:28:05|mysql.ts:38|ERROR|20376|Unable to connect to the database:|{}
+error: 2020-06-21 17:29:05|mysql.ts:38|ERROR|3792|Unable to connect to the database:|{}
+error: 2020-06-21 17:29:20|mysql.ts:38|ERROR|1748|Unable to connect to the database:|{}
+error: 2020-06-21 17:29:20|mysql.ts:42|ERROR|1748|mysql错误邮箱提示发送失败！|Error: Invalid login: 535 Login Fail. Please enter your authorization code to login. More information in http://service.mail.qq.com/cgi-bin/help?subtype=1&&id=28&&no=1001256
+error: 2020-06-21 17:29:54|mysql.ts:38|ERROR|1604|Unable to connect to the database:|{}
+error: 2020-06-21 17:30:13|mysql.ts:38|ERROR|5024|Unable to connect to the database:|{}

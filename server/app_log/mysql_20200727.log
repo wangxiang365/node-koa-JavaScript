@@ -1,0 +1,282 @@
+info: 2020-07-27 21:11:05|mysqlUtil.js:40|INFO|3924|Executing (default): SELECT 1+1 AS result
+info: 2020-07-27 21:11:05|mysqlUtil.js:49|INFO|3924|mysql connect start!
+info: 2020-07-27 21:12:11|mysqlUtil.js:40|INFO|3924|Executing (default): SELECT `id`, `user_name`, `nick_name`, `password`, `phone`, `address`, `create_time`, `update_time`, `email`, `sex`, `birthday` FROM `user` AS `user` WHERE `user`.`user_name` = '张丹' LIMIT 1;
+info: 2020-07-27 21:12:59|mysqlUtil.js:40|INFO|5544|Executing (default): SELECT 1+1 AS result
+info: 2020-07-27 21:12:59|mysqlUtil.js:49|INFO|5544|mysql connect start!
+info: 2020-07-27 21:13:20|mysqlUtil.js:40|INFO|14424|Executing (default): SELECT 1+1 AS result
+info: 2020-07-27 21:13:20|mysqlUtil.js:49|INFO|14424|mysql connect start!
+info: 2020-07-27 21:13:29|mysqlUtil.js:40|INFO|12744|Executing (default): SELECT 1+1 AS result
+info: 2020-07-27 21:13:29|mysqlUtil.js:49|INFO|12744|mysql connect start!
+info: 2020-07-27 21:13:31|mysqlUtil.js:40|INFO|11548|Executing (default): SELECT 1+1 AS result
+info: 2020-07-27 21:13:31|mysqlUtil.js:49|INFO|11548|mysql connect start!
+info: 2020-07-27 21:13:45|mysqlUtil.js:40|INFO|14376|Executing (default): SELECT 1+1 AS result
+info: 2020-07-27 21:13:45|mysqlUtil.js:49|INFO|14376|mysql connect start!
+info: 2020-07-27 21:13:48|mysqlUtil.js:40|INFO|4736|Executing (default): SELECT 1+1 AS result
+info: 2020-07-27 21:13:48|mysqlUtil.js:49|INFO|4736|mysql connect start!
+info: 2020-07-27 21:13:51|mysqlUtil.js:40|INFO|9292|Executing (default): SELECT 1+1 AS result
+info: 2020-07-27 21:13:51|mysqlUtil.js:49|INFO|9292|mysql connect start!
+info: 2020-07-27 21:13:58|mysqlUtil.js:40|INFO|13380|Executing (default): SELECT 1+1 AS result
+info: 2020-07-27 21:13:58|mysqlUtil.js:49|INFO|13380|mysql connect start!
+info: 2020-07-27 21:14:27|mysqlUtil.js:40|INFO|15808|Executing (default): SELECT 1+1 AS result
+info: 2020-07-27 21:14:27|mysqlUtil.js:49|INFO|15808|mysql connect start!
+info: 2020-07-27 21:15:02|mysqlUtil.js:40|INFO|1188|Executing (default): SELECT 1+1 AS result
+info: 2020-07-27 21:15:02|mysqlUtil.js:49|INFO|1188|mysql connect start!
+info: 2020-07-27 21:15:22|mysqlUtil.js:40|INFO|3336|Executing (default): SELECT 1+1 AS result
+info: 2020-07-27 21:15:22|mysqlUtil.js:49|INFO|3336|mysql connect start!
+info: 2020-07-27 21:15:40|mysqlUtil.js:40|INFO|17396|Executing (default): SELECT 1+1 AS result
+info: 2020-07-27 21:15:40|mysqlUtil.js:49|INFO|17396|mysql connect start!
+info: 2020-07-27 21:16:33|mysqlUtil.js:40|INFO|1244|Executing (default): SELECT 1+1 AS result
+info: 2020-07-27 21:16:33|mysqlUtil.js:49|INFO|1244|mysql connect start!
+info: 2020-07-27 21:16:44|mysqlUtil.js:40|INFO|9976|Executing (default): SELECT 1+1 AS result
+info: 2020-07-27 21:16:44|mysqlUtil.js:49|INFO|9976|mysql connect start!
+info: 2020-07-27 21:16:46|mysqlUtil.js:40|INFO|6408|Executing (default): SELECT 1+1 AS result
+info: 2020-07-27 21:16:46|mysqlUtil.js:49|INFO|6408|mysql connect start!
+info: 2020-07-27 21:17:09|mysqlUtil.js:40|INFO|7972|Executing (default): SELECT 1+1 AS result
+info: 2020-07-27 21:17:09|mysqlUtil.js:49|INFO|7972|mysql connect start!
+info: 2020-07-27 21:17:20|mysqlUtil.js:40|INFO|16600|Executing (default): SELECT 1+1 AS result
+info: 2020-07-27 21:17:20|mysqlUtil.js:49|INFO|16600|mysql connect start!
+info: 2020-07-27 21:17:31|mysqlUtil.js:40|INFO|16516|Executing (default): SELECT 1+1 AS result
+info: 2020-07-27 21:17:31|mysqlUtil.js:49|INFO|16516|mysql connect start!
+info: 2020-07-27 21:17:38|mysqlUtil.js:40|INFO|17188|Executing (default): SELECT 1+1 AS result
+info: 2020-07-27 21:17:38|mysqlUtil.js:49|INFO|17188|mysql connect start!
+info: 2020-07-27 21:18:00|mysqlUtil.js:40|INFO|13096|Executing (default): SELECT 1+1 AS result
+info: 2020-07-27 21:18:00|mysqlUtil.js:49|INFO|13096|mysql connect start!
+info: 2020-07-27 21:18:16|mysqlUtil.js:40|INFO|9284|Executing (default): SELECT 1+1 AS result
+info: 2020-07-27 21:18:16|mysqlUtil.js:49|INFO|9284|mysql connect start!
+info: 2020-07-27 21:18:29|mysqlUtil.js:40|INFO|8004|Executing (default): SELECT 1+1 AS result
+info: 2020-07-27 21:18:29|mysqlUtil.js:49|INFO|8004|mysql connect start!
+info: 2020-07-27 21:18:30|mysqlUtil.js:40|INFO|8004|Executing (default): SELECT `id`, `user_name`, `nick_name`, `password`, `phone`, `address`, `create_time`, `update_time`, `email`, `sex`, `birthday` FROM `user` AS `user`;
+info: 2020-07-27 21:18:37|mysqlUtil.js:40|INFO|10616|Executing (default): SELECT 1+1 AS result
+info: 2020-07-27 21:18:37|mysqlUtil.js:49|INFO|10616|mysql connect start!
+info: 2020-07-27 21:19:41|mysqlUtil.js:40|INFO|8808|Executing (default): SELECT 1+1 AS result
+info: 2020-07-27 21:19:41|mysqlUtil.js:49|INFO|8808|mysql connect start!
+info: 2020-07-27 21:19:51|mysqlUtil.js:40|INFO|1540|Executing (default): SELECT 1+1 AS result
+info: 2020-07-27 21:19:51|mysqlUtil.js:49|INFO|1540|mysql connect start!
+info: 2020-07-27 21:19:53|mysqlUtil.js:40|INFO|13252|Executing (default): SELECT 1+1 AS result
+info: 2020-07-27 21:19:53|mysqlUtil.js:49|INFO|13252|mysql connect start!
+info: 2020-07-27 21:19:59|mysqlUtil.js:40|INFO|9388|Executing (default): SELECT 1+1 AS result
+info: 2020-07-27 21:19:59|mysqlUtil.js:49|INFO|9388|mysql connect start!
+info: 2020-07-27 21:20:12|mysqlUtil.js:40|INFO|4928|Executing (default): SELECT 1+1 AS result
+info: 2020-07-27 21:20:12|mysqlUtil.js:49|INFO|4928|mysql connect start!
+info: 2020-07-27 21:20:20|mysqlUtil.js:40|INFO|1544|Executing (default): SELECT 1+1 AS result
+info: 2020-07-27 21:20:20|mysqlUtil.js:49|INFO|1544|mysql connect start!
+info: 2020-07-27 21:20:34|mysqlUtil.js:40|INFO|1820|Executing (default): SELECT 1+1 AS result
+info: 2020-07-27 21:20:34|mysqlUtil.js:49|INFO|1820|mysql connect start!
+info: 2020-07-27 21:20:36|mysqlUtil.js:40|INFO|7808|Executing (default): SELECT 1+1 AS result
+info: 2020-07-27 21:20:36|mysqlUtil.js:49|INFO|7808|mysql connect start!
+info: 2020-07-27 21:20:39|mysqlUtil.js:40|INFO|12104|Executing (default): SELECT 1+1 AS result
+info: 2020-07-27 21:20:39|mysqlUtil.js:49|INFO|12104|mysql connect start!
+info: 2020-07-27 21:20:41|mysqlUtil.js:40|INFO|9932|Executing (default): SELECT 1+1 AS result
+info: 2020-07-27 21:20:41|mysqlUtil.js:49|INFO|9932|mysql connect start!
+info: 2020-07-27 21:20:47|mysqlUtil.js:40|INFO|7520|Executing (default): SELECT 1+1 AS result
+info: 2020-07-27 21:20:47|mysqlUtil.js:49|INFO|7520|mysql connect start!
+info: 2020-07-27 21:20:55|mysqlUtil.js:40|INFO|2448|Executing (default): SELECT 1+1 AS result
+info: 2020-07-27 21:20:55|mysqlUtil.js:49|INFO|2448|mysql connect start!
+info: 2020-07-27 21:21:07|mysqlUtil.js:40|INFO|4268|Executing (default): SELECT 1+1 AS result
+info: 2020-07-27 21:21:07|mysqlUtil.js:49|INFO|4268|mysql connect start!
+info: 2020-07-27 21:21:19|mysqlUtil.js:40|INFO|9132|Executing (default): SELECT 1+1 AS result
+info: 2020-07-27 21:21:19|mysqlUtil.js:49|INFO|9132|mysql connect start!
+info: 2020-07-27 21:21:49|mysqlUtil.js:40|INFO|7372|Executing (default): SELECT 1+1 AS result
+info: 2020-07-27 21:21:49|mysqlUtil.js:49|INFO|7372|mysql connect start!
+info: 2020-07-27 21:22:23|mysqlUtil.js:40|INFO|14788|Executing (default): SELECT 1+1 AS result
+info: 2020-07-27 21:22:23|mysqlUtil.js:49|INFO|14788|mysql connect start!
+info: 2020-07-27 21:22:26|mysqlUtil.js:40|INFO|7712|Executing (default): SELECT 1+1 AS result
+info: 2020-07-27 21:22:26|mysqlUtil.js:49|INFO|7712|mysql connect start!
+info: 2020-07-27 21:22:48|mysqlUtil.js:40|INFO|5788|Executing (default): SELECT 1+1 AS result
+info: 2020-07-27 21:22:48|mysqlUtil.js:40|INFO|5788|Executing (default): SELECT count(DISTINCT(`id`)) AS `count` FROM `user` AS `user`;
+info: 2020-07-27 21:22:48|mysqlUtil.js:49|INFO|5788|mysql connect start!
+info: 2020-07-27 21:22:48|mysqlUtil.js:40|INFO|5788|Executing (default): SELECT `id`, `user_name`, `nick_name`, `password`, `phone`, `address`, `create_time`, `update_time`, `email`, `sex`, `birthday` FROM `user` AS `user` ORDER BY `user`.`create_time` DESC LIMIT 0, 6;
+info: 2020-07-27 21:22:50|mysqlUtil.js:40|INFO|5788|Executing (default): SELECT count(DISTINCT(`id`)) AS `count` FROM `user` AS `user`;
+info: 2020-07-27 21:22:50|mysqlUtil.js:40|INFO|5788|Executing (default): SELECT `id`, `user_name`, `nick_name`, `password`, `phone`, `address`, `create_time`, `update_time`, `email`, `sex`, `birthday` FROM `user` AS `user` ORDER BY `user`.`create_time` DESC LIMIT 0, 6;
+info: 2020-07-27 21:23:01|mysqlUtil.js:40|INFO|7892|Executing (default): SELECT 1+1 AS result
+info: 2020-07-27 21:23:01|mysqlUtil.js:49|INFO|7892|mysql connect start!
+info: 2020-07-27 21:23:01|mysqlUtil.js:40|INFO|7892|Executing (default): SELECT count(DISTINCT(`id`)) AS `count` FROM `user` AS `user`;
+info: 2020-07-27 21:23:01|mysqlUtil.js:40|INFO|7892|Executing (default): SELECT `id`, `user_name`, `nick_name`, `password`, `phone`, `address`, `create_time`, `update_time`, `email`, `sex`, `birthday` FROM `user` AS `user` LIMIT 0, 6;
+info: 2020-07-27 21:23:08|mysqlUtil.js:40|INFO|16852|Executing (default): SELECT 1+1 AS result
+info: 2020-07-27 21:23:08|mysqlUtil.js:49|INFO|16852|mysql connect start!
+info: 2020-07-27 21:23:13|mysqlUtil.js:40|INFO|16852|Executing (default): SELECT count(DISTINCT(`id`)) AS `count` FROM `user` AS `user`;
+info: 2020-07-27 21:23:13|mysqlUtil.js:40|INFO|16852|Executing (default): SELECT `id`, `user_name`, `nick_name`, `password`, `phone`, `address`, `create_time`, `update_time`, `email`, `sex`, `birthday` FROM `user` AS `user` LIMIT 0, 6;
+info: 2020-07-27 21:23:14|mysqlUtil.js:40|INFO|16852|Executing (default): SELECT count(DISTINCT(`id`)) AS `count` FROM `user` AS `user`;
+info: 2020-07-27 21:23:14|mysqlUtil.js:40|INFO|16852|Executing (default): SELECT `id`, `user_name`, `nick_name`, `password`, `phone`, `address`, `create_time`, `update_time`, `email`, `sex`, `birthday` FROM `user` AS `user` LIMIT 0, 6;
+info: 2020-07-27 21:23:56|mysqlUtil.js:40|INFO|16044|Executing (default): SELECT 1+1 AS result
+info: 2020-07-27 21:23:56|mysqlUtil.js:49|INFO|16044|mysql connect start!
+info: 2020-07-27 21:24:23|mysqlUtil.js:40|INFO|10544|Executing (default): SELECT 1+1 AS result
+info: 2020-07-27 21:24:23|mysqlUtil.js:49|INFO|10544|mysql connect start!
+info: 2020-07-27 21:24:37|mysqlUtil.js:40|INFO|3968|Executing (default): SELECT 1+1 AS result
+info: 2020-07-27 21:24:37|mysqlUtil.js:49|INFO|3968|mysql connect start!
+info: 2020-07-27 21:24:45|mysqlUtil.js:40|INFO|13508|Executing (default): SELECT 1+1 AS result
+info: 2020-07-27 21:24:45|mysqlUtil.js:49|INFO|13508|mysql connect start!
+info: 2020-07-27 21:25:05|mysqlUtil.js:40|INFO|16496|Executing (default): SELECT 1+1 AS result
+info: 2020-07-27 21:25:05|mysqlUtil.js:49|INFO|16496|mysql connect start!
+info: 2020-07-27 21:25:12|mysqlUtil.js:40|INFO|9812|Executing (default): SELECT 1+1 AS result
+info: 2020-07-27 21:25:12|mysqlUtil.js:49|INFO|9812|mysql connect start!
+info: 2020-07-27 21:25:24|mysqlUtil.js:40|INFO|11192|Executing (default): SELECT 1+1 AS result
+info: 2020-07-27 21:25:24|mysqlUtil.js:49|INFO|11192|mysql connect start!
+info: 2020-07-27 21:25:34|mysqlUtil.js:40|INFO|4832|Executing (default): SELECT 1+1 AS result
+info: 2020-07-27 21:25:34|mysqlUtil.js:49|INFO|4832|mysql connect start!
+info: 2020-07-27 21:25:36|mysqlUtil.js:40|INFO|6408|Executing (default): SELECT 1+1 AS result
+info: 2020-07-27 21:25:36|mysqlUtil.js:49|INFO|6408|mysql connect start!
+info: 2020-07-27 21:25:49|mysqlUtil.js:40|INFO|16044|Executing (default): SELECT 1+1 AS result
+info: 2020-07-27 21:25:49|mysqlUtil.js:49|INFO|16044|mysql connect start!
+info: 2020-07-27 21:25:58|mysqlUtil.js:40|INFO|9140|Executing (default): SELECT 1+1 AS result
+info: 2020-07-27 21:25:58|mysqlUtil.js:49|INFO|9140|mysql connect start!
+info: 2020-07-27 21:26:07|mysqlUtil.js:40|INFO|12072|Executing (default): SELECT 1+1 AS result
+info: 2020-07-27 21:26:07|mysqlUtil.js:49|INFO|12072|mysql connect start!
+info: 2020-07-27 21:26:09|mysqlUtil.js:40|INFO|17084|Executing (default): SELECT 1+1 AS result
+info: 2020-07-27 21:26:09|mysqlUtil.js:49|INFO|17084|mysql connect start!
+info: 2020-07-27 21:26:11|mysqlUtil.js:40|INFO|13500|Executing (default): SELECT 1+1 AS result
+info: 2020-07-27 21:26:11|mysqlUtil.js:49|INFO|13500|mysql connect start!
+info: 2020-07-27 21:26:39|mysqlUtil.js:40|INFO|14760|Executing (default): SELECT 1+1 AS result
+info: 2020-07-27 21:26:39|mysqlUtil.js:49|INFO|14760|mysql connect start!
+info: 2020-07-27 21:26:47|mysqlUtil.js:40|INFO|5216|Executing (default): SELECT 1+1 AS result
+info: 2020-07-27 21:26:47|mysqlUtil.js:49|INFO|5216|mysql connect start!
+info: 2020-07-27 21:26:52|mysqlUtil.js:40|INFO|9316|Executing (default): SELECT 1+1 AS result
+info: 2020-07-27 21:26:52|mysqlUtil.js:49|INFO|9316|mysql connect start!
+info: 2020-07-27 21:27:00|mysqlUtil.js:40|INFO|1332|Executing (default): SELECT 1+1 AS result
+info: 2020-07-27 21:27:00|mysqlUtil.js:49|INFO|1332|mysql connect start!
+info: 2020-07-27 21:27:22|mysqlUtil.js:40|INFO|14760|Executing (default): SELECT 1+1 AS result
+info: 2020-07-27 21:27:22|mysqlUtil.js:49|INFO|14760|mysql connect start!
+info: 2020-07-27 21:27:25|mysqlUtil.js:40|INFO|2128|Executing (default): SELECT 1+1 AS result
+info: 2020-07-27 21:27:25|mysqlUtil.js:49|INFO|2128|mysql connect start!
+info: 2020-07-27 21:27:38|mysqlUtil.js:40|INFO|6880|Executing (default): SELECT 1+1 AS result
+info: 2020-07-27 21:27:38|mysqlUtil.js:49|INFO|6880|mysql connect start!
+info: 2020-07-27 21:28:10|mysqlUtil.js:40|INFO|13368|Executing (default): SELECT 1+1 AS result
+info: 2020-07-27 21:28:10|mysqlUtil.js:49|INFO|13368|mysql connect start!
+info: 2020-07-27 21:28:15|mysqlUtil.js:40|INFO|14848|Executing (default): SELECT 1+1 AS result
+info: 2020-07-27 21:28:15|mysqlUtil.js:49|INFO|14848|mysql connect start!
+info: 2020-07-27 21:28:24|mysqlUtil.js:40|INFO|15204|Executing (default): SELECT 1+1 AS result
+info: 2020-07-27 21:28:24|mysqlUtil.js:49|INFO|15204|mysql connect start!
+info: 2020-07-27 21:28:31|mysqlUtil.js:40|INFO|11812|Executing (default): SELECT 1+1 AS result
+info: 2020-07-27 21:28:31|mysqlUtil.js:49|INFO|11812|mysql connect start!
+info: 2020-07-27 21:28:31|mysqlUtil.js:40|INFO|11812|Executing (default): SELECT count(DISTINCT(`id`)) AS `count` FROM `user` AS `user`;
+info: 2020-07-27 21:28:31|mysqlUtil.js:40|INFO|11812|Executing (default): SELECT `id`, `user_name`, `nick_name`, `password`, `phone`, `address`, `create_time`, `update_time`, `email`, `sex`, `birthday` FROM `user` AS `user` LIMIT 0, 6;
+info: 2020-07-27 21:28:50|mysqlUtil.js:40|INFO|7744|Executing (default): SELECT 1+1 AS result
+info: 2020-07-27 21:28:50|mysqlUtil.js:49|INFO|7744|mysql connect start!
+info: 2020-07-27 21:28:56|mysqlUtil.js:40|INFO|4268|Executing (default): SELECT 1+1 AS result
+info: 2020-07-27 21:28:56|mysqlUtil.js:49|INFO|4268|mysql connect start!
+info: 2020-07-27 21:28:57|mysqlUtil.js:40|INFO|4268|Executing (default): SELECT count(*) AS `count` FROM `user` AS `user`;
+info: 2020-07-27 21:28:57|mysqlUtil.js:40|INFO|4268|Executing (default): SELECT `id`, `user_name`, `nick_name`, `password`, `phone`, `address`, `create_time`, `update_time`, `email`, `sex`, `birthday` FROM `user` AS `user` LIMIT 0, 6;
+info: 2020-07-27 21:29:13|mysqlUtil.js:40|INFO|16832|Executing (default): SELECT 1+1 AS result
+info: 2020-07-27 21:29:13|mysqlUtil.js:49|INFO|16832|mysql connect start!
+info: 2020-07-27 21:29:51|mysqlUtil.js:40|INFO|15724|Executing (default): SELECT 1+1 AS result
+info: 2020-07-27 21:29:51|mysqlUtil.js:49|INFO|15724|mysql connect start!
+info: 2020-07-27 21:29:53|mysqlUtil.js:40|INFO|16244|Executing (default): SELECT 1+1 AS result
+info: 2020-07-27 21:29:53|mysqlUtil.js:49|INFO|16244|mysql connect start!
+info: 2020-07-27 21:29:57|mysqlUtil.js:40|INFO|1464|Executing (default): SELECT 1+1 AS result
+info: 2020-07-27 21:29:57|mysqlUtil.js:49|INFO|1464|mysql connect start!
+info: 2020-07-27 21:29:59|mysqlUtil.js:40|INFO|3628|Executing (default): SELECT 1+1 AS result
+info: 2020-07-27 21:29:59|mysqlUtil.js:49|INFO|3628|mysql connect start!
+info: 2020-07-27 21:30:01|mysqlUtil.js:40|INFO|3628|Executing (default): SELECT count(DISTINCT(`id`)) AS `count` FROM `user` AS `user`;
+info: 2020-07-27 21:30:01|mysqlUtil.js:40|INFO|3628|Executing (default): SELECT `id`, `user_name`, `nick_name`, `password`, `phone`, `address`, `create_time`, `update_time`, `email`, `sex`, `birthday` FROM `user` AS `user` LIMIT 0, 6;
+info: 2020-07-27 21:30:13|mysqlUtil.js:40|INFO|11284|Executing (default): SELECT 1+1 AS result
+info: 2020-07-27 21:30:13|mysqlUtil.js:49|INFO|11284|mysql connect start!
+info: 2020-07-27 21:30:13|mysqlUtil.js:40|INFO|11284|Executing (default): SELECT count(DISTINCT(`id`)) AS `count` FROM `user` AS `user`;
+info: 2020-07-27 21:30:13|mysqlUtil.js:40|INFO|11284|Executing (default): SELECT `id`, `user_name`, `nick_name`, `password`, `phone`, `address`, `create_time`, `update_time`, `email`, `sex`, `birthday` FROM `user` AS `user` LIMIT 0, 6;
+info: 2020-07-27 21:30:28|mysqlUtil.js:40|INFO|16588|Executing (default): SELECT 1+1 AS result
+info: 2020-07-27 21:30:28|mysqlUtil.js:49|INFO|16588|mysql connect start!
+info: 2020-07-27 21:30:53|mysqlUtil.js:40|INFO|13248|Executing (default): SELECT 1+1 AS result
+info: 2020-07-27 21:30:53|mysqlUtil.js:49|INFO|13248|mysql connect start!
+info: 2020-07-27 21:30:55|mysqlUtil.js:40|INFO|13248|Executing (default): SELECT count(DISTINCT(`id`)) AS `count` FROM `user` AS `user`;
+info: 2020-07-27 21:30:55|mysqlUtil.js:40|INFO|13248|Executing (default): SELECT `id`, `user_name`, `nick_name`, `password`, `phone`, `address`, `create_time`, `update_time`, `email`, `sex`, `birthday` FROM `user` AS `user` LIMIT 0, 6;
+info: 2020-07-27 21:31:18|mysqlUtil.js:40|INFO|15120|Executing (default): SELECT 1+1 AS result
+info: 2020-07-27 21:31:18|mysqlUtil.js:49|INFO|15120|mysql connect start!
+info: 2020-07-27 21:31:35|mysqlUtil.js:40|INFO|15120|Executing (default): SELECT count(DISTINCT(`id`)) AS `count` FROM `user` AS `user`;
+info: 2020-07-27 21:31:35|mysqlUtil.js:40|INFO|15120|Executing (default): SELECT `id`, `user_name`, `nick_name`, `password`, `phone`, `address`, `create_time`, `update_time`, `email`, `sex`, `birthday` FROM `user` AS `user` LIMIT NaN, 10000000000000;
+info: 2020-07-27 21:31:44|mysqlUtil.js:40|INFO|15120|Executing (default): SELECT count(DISTINCT(`id`)) AS `count` FROM `user` AS `user`;
+info: 2020-07-27 21:31:44|mysqlUtil.js:40|INFO|15120|Executing (default): SELECT `id`, `user_name`, `nick_name`, `password`, `phone`, `address`, `create_time`, `update_time`, `email`, `sex`, `birthday` FROM `user` AS `user` LIMIT 0, 6;
+info: 2020-07-27 21:33:00|mysqlUtil.js:40|INFO|7200|Executing (default): SELECT 1+1 AS result
+info: 2020-07-27 21:33:00|mysqlUtil.js:49|INFO|7200|mysql connect start!
+info: 2020-07-27 21:33:36|mysqlUtil.js:40|INFO|6272|Executing (default): SELECT 1+1 AS result
+info: 2020-07-27 21:33:36|mysqlUtil.js:49|INFO|6272|mysql connect start!
+info: 2020-07-27 21:33:38|mysqlUtil.js:40|INFO|14404|Executing (default): SELECT 1+1 AS result
+info: 2020-07-27 21:33:38|mysqlUtil.js:49|INFO|14404|mysql connect start!
+info: 2020-07-27 21:33:40|mysqlUtil.js:40|INFO|14612|Executing (default): SELECT 1+1 AS result
+info: 2020-07-27 21:33:40|mysqlUtil.js:49|INFO|14612|mysql connect start!
+info: 2020-07-27 21:33:42|mysqlUtil.js:40|INFO|1808|Executing (default): SELECT 1+1 AS result
+info: 2020-07-27 21:33:42|mysqlUtil.js:49|INFO|1808|mysql connect start!
+info: 2020-07-27 21:33:46|mysqlUtil.js:40|INFO|16312|Executing (default): SELECT 1+1 AS result
+info: 2020-07-27 21:33:46|mysqlUtil.js:49|INFO|16312|mysql connect start!
+info: 2020-07-27 21:33:48|mysqlUtil.js:40|INFO|9176|Executing (default): SELECT 1+1 AS result
+info: 2020-07-27 21:33:48|mysqlUtil.js:49|INFO|9176|mysql connect start!
+info: 2020-07-27 21:33:49|mysqlUtil.js:40|INFO|9176|Executing (default): SELECT count(DISTINCT(`id`)) AS `count` FROM `user` AS `user`;
+info: 2020-07-27 21:33:49|mysqlUtil.js:40|INFO|9176|Executing (default): SELECT `id`, `user_name`, `nick_name`, `password`, `phone`, `address`, `create_time`, `update_time`, `email`, `sex`, `birthday` FROM `user` AS `user` ORDER BY `user`.`create_time` DESC LIMIT 0, 6;
+info: 2020-07-27 21:38:20|mysqlUtil.js:40|INFO|11548|Executing (default): SELECT 1+1 AS result
+info: 2020-07-27 21:38:20|mysqlUtil.js:49|INFO|11548|mysql connect start!
+info: 2020-07-27 21:38:20|mysqlUtil.js:40|INFO|11548|Executing (default): SELECT count(*) AS `count` FROM `user` AS `user`;
+info: 2020-07-27 21:38:20|mysqlUtil.js:40|INFO|11548|Executing (default): SELECT `id`, `user_name`, `nick_name`, `password`, `phone`, `address`, `create_time`, `update_time`, `email`, `sex`, `birthday` FROM `user` AS `user` ORDER BY `user`.`create_time` DESC LIMIT 0, 6;
+info: 2020-07-27 21:39:29|mysqlUtil.js:40|INFO|1736|Executing (default): SELECT 1+1 AS result
+info: 2020-07-27 21:39:29|mysqlUtil.js:49|INFO|1736|mysql connect start!
+info: 2020-07-27 21:39:35|mysqlUtil.js:40|INFO|14828|Executing (default): SELECT 1+1 AS result
+info: 2020-07-27 21:39:35|mysqlUtil.js:49|INFO|14828|mysql connect start!
+info: 2020-07-27 21:39:39|mysqlUtil.js:40|INFO|4404|Executing (default): SELECT 1+1 AS result
+info: 2020-07-27 21:39:39|mysqlUtil.js:49|INFO|4404|mysql connect start!
+info: 2020-07-27 21:39:40|mysqlUtil.js:40|INFO|4404|Executing (default): SELECT count(*) AS `count` FROM `user` AS `user`;
+info: 2020-07-27 21:39:40|mysqlUtil.js:40|INFO|4404|Executing (default): SELECT `id`, `user_name`, `nick_name`, `password`, `phone`, `address`, `create_time`, `update_time`, `email`, `sex`, `birthday` FROM `user` AS `user` ORDER BY `user`.`create_time` DESC LIMIT 0, 6;
+info: 2020-07-27 21:42:38|mysqlUtil.js:40|INFO|9340|Executing (default): SELECT 1+1 AS result
+info: 2020-07-27 21:42:38|mysqlUtil.js:49|INFO|9340|mysql connect start!
+info: 2020-07-27 21:42:42|mysqlUtil.js:40|INFO|6880|Executing (default): SELECT 1+1 AS result
+info: 2020-07-27 21:42:42|mysqlUtil.js:49|INFO|6880|mysql connect start!
+info: 2020-07-27 21:42:45|mysqlUtil.js:40|INFO|12048|Executing (default): SELECT 1+1 AS result
+info: 2020-07-27 21:42:45|mysqlUtil.js:49|INFO|12048|mysql connect start!
+info: 2020-07-27 21:42:47|mysqlUtil.js:40|INFO|14344|Executing (default): SELECT 1+1 AS result
+info: 2020-07-27 21:42:47|mysqlUtil.js:49|INFO|14344|mysql connect start!
+info: 2020-07-27 21:42:48|mysqlUtil.js:40|INFO|14344|Executing (default): SELECT count(*) AS `count` FROM `user` AS `user`;
+info: 2020-07-27 21:42:48|mysqlUtil.js:40|INFO|14344|Executing (default): SELECT `id`, `user_name`, `nick_name`, `password`, `phone`, `address`, `create_time`, `update_time`, `email`, `sex`, `birthday` FROM `user` AS `user` ORDER BY `user`.`create_time` DESC LIMIT 0, 6;
+info: 2020-07-27 21:43:46|mysqlUtil.js:40|INFO|4144|Executing (default): SELECT 1+1 AS result
+info: 2020-07-27 21:43:46|mysqlUtil.js:49|INFO|4144|mysql connect start!
+info: 2020-07-27 21:43:48|mysqlUtil.js:40|INFO|4144|Executing (default): SELECT count(*) AS `count` FROM `user` AS `user`;
+info: 2020-07-27 21:43:48|mysqlUtil.js:40|INFO|4144|Executing (default): SELECT `id`, `user_name`, `nick_name`, `password`, `phone`, `address`, `create_time`, `update_time`, `email`, `sex`, `birthday` FROM `user` AS `user` ORDER BY `user`.`create_time` DESC LIMIT 0, 6;
+info: 2020-07-27 21:43:57|mysqlUtil.js:40|INFO|2744|Executing (default): SELECT 1+1 AS result
+info: 2020-07-27 21:43:57|mysqlUtil.js:49|INFO|2744|mysql connect start!
+info: 2020-07-27 21:44:01|mysqlUtil.js:40|INFO|7832|Executing (default): SELECT 1+1 AS result
+info: 2020-07-27 21:44:01|mysqlUtil.js:49|INFO|7832|mysql connect start!
+info: 2020-07-27 21:44:01|mysqlUtil.js:40|INFO|7832|Executing (default): SELECT count(*) AS `count` FROM `user` AS `user`;
+info: 2020-07-27 21:44:01|mysqlUtil.js:40|INFO|7832|Executing (default): SELECT `id`, `user_name`, `nick_name`, `password`, `phone`, `address`, `create_time`, `update_time`, `email`, `sex`, `birthday` FROM `user` AS `user` ORDER BY `user`.`create_time` DESC LIMIT 0, 6;
+info: 2020-07-27 21:44:25|mysqlUtil.js:40|INFO|17196|Executing (default): SELECT 1+1 AS result
+info: 2020-07-27 21:44:25|mysqlUtil.js:49|INFO|17196|mysql connect start!
+info: 2020-07-27 21:44:25|mysqlUtil.js:40|INFO|17196|Executing (default): SELECT count(*) AS `count` FROM `user` AS `user`;
+info: 2020-07-27 21:44:25|mysqlUtil.js:40|INFO|17196|Executing (default): SELECT `id`, `user_name`, `nick_name`, `password`, `phone`, `address`, `create_time`, `update_time`, `email`, `sex`, `birthday` FROM `user` AS `user` ORDER BY `user`.`create_time` DESC LIMIT 0, 6;
+info: 2020-07-27 21:44:33|mysqlUtil.js:40|INFO|17196|Executing (default): SELECT count(*) AS `count` FROM `user` AS `user`;
+info: 2020-07-27 21:44:33|mysqlUtil.js:40|INFO|17196|Executing (default): SELECT `id`, `user_name`, `nick_name`, `password`, `phone`, `address`, `create_time`, `update_time`, `email`, `sex`, `birthday` FROM `user` AS `user` ORDER BY `user`.`create_time` DESC LIMIT 0, 4;
+info: 2020-07-27 21:44:50|mysqlUtil.js:40|INFO|17196|Executing (default): SELECT count(*) AS `count` FROM `user` AS `user`;
+info: 2020-07-27 21:44:50|mysqlUtil.js:40|INFO|17196|Executing (default): SELECT `id`, `user_name`, `nick_name`, `password`, `phone`, `address`, `create_time`, `update_time`, `email`, `sex`, `birthday` FROM `user` AS `user` ORDER BY `user`.`create_time` DESC LIMIT 0, 5;
+info: 2020-07-27 21:44:59|mysqlUtil.js:40|INFO|17196|Executing (default): SELECT count(*) AS `count` FROM `user` AS `user`;
+info: 2020-07-27 21:44:59|mysqlUtil.js:40|INFO|17196|Executing (default): SELECT `id`, `user_name`, `nick_name`, `password`, `phone`, `address`, `create_time`, `update_time`, `email`, `sex`, `birthday` FROM `user` AS `user` ORDER BY `user`.`create_time` DESC LIMIT 0, 3;
+info: 2020-07-27 21:45:08|mysqlUtil.js:40|INFO|17196|Executing (default): SELECT count(*) AS `count` FROM `user` AS `user`;
+info: 2020-07-27 21:45:08|mysqlUtil.js:40|INFO|17196|Executing (default): SELECT `id`, `user_name`, `nick_name`, `password`, `phone`, `address`, `create_time`, `update_time`, `email`, `sex`, `birthday` FROM `user` AS `user` ORDER BY `user`.`create_time` DESC LIMIT 0, 9;
+info: 2020-07-27 21:45:16|mysqlUtil.js:40|INFO|17196|Executing (default): SELECT count(*) AS `count` FROM `user` AS `user`;
+info: 2020-07-27 21:45:16|mysqlUtil.js:40|INFO|17196|Executing (default): SELECT `id`, `user_name`, `nick_name`, `password`, `phone`, `address`, `create_time`, `update_time`, `email`, `sex`, `birthday` FROM `user` AS `user` ORDER BY `user`.`create_time` DESC LIMIT 0, 7;
+info: 2020-07-27 21:45:29|mysqlUtil.js:40|INFO|17196|Executing (default): SELECT count(*) AS `count` FROM `user` AS `user`;
+info: 2020-07-27 21:45:29|mysqlUtil.js:40|INFO|17196|Executing (default): SELECT `id`, `user_name`, `nick_name`, `password`, `phone`, `address`, `create_time`, `update_time`, `email`, `sex`, `birthday` FROM `user` AS `user` ORDER BY `user`.`create_time` DESC LIMIT 0, 8;
+info: 2020-07-27 21:45:42|mysqlUtil.js:40|INFO|17196|Executing (default): SELECT count(*) AS `count` FROM `user` AS `user`;
+info: 2020-07-27 21:45:42|mysqlUtil.js:40|INFO|17196|Executing (default): SELECT `id`, `user_name`, `nick_name`, `password`, `phone`, `address`, `create_time`, `update_time`, `email`, `sex`, `birthday` FROM `user` AS `user` ORDER BY `user`.`create_time` DESC LIMIT 0, 10;
+info: 2020-07-27 21:45:48|mysqlUtil.js:40|INFO|17196|Executing (default): SELECT count(*) AS `count` FROM `user` AS `user`;
+info: 2020-07-27 21:45:48|mysqlUtil.js:40|INFO|17196|Executing (default): SELECT `id`, `user_name`, `nick_name`, `password`, `phone`, `address`, `create_time`, `update_time`, `email`, `sex`, `birthday` FROM `user` AS `user` ORDER BY `user`.`create_time` DESC LIMIT 0, 11;
+info: 2020-07-27 21:45:58|mysqlUtil.js:40|INFO|17196|Executing (default): SELECT count(*) AS `count` FROM `user` AS `user`;
+info: 2020-07-27 21:45:58|mysqlUtil.js:40|INFO|17196|Executing (default): SELECT `id`, `user_name`, `nick_name`, `password`, `phone`, `address`, `create_time`, `update_time`, `email`, `sex`, `birthday` FROM `user` AS `user` ORDER BY `user`.`create_time` DESC LIMIT 0, 19;
+info: 2020-07-27 21:46:04|mysqlUtil.js:40|INFO|17196|Executing (default): SELECT count(*) AS `count` FROM `user` AS `user`;
+info: 2020-07-27 21:46:04|mysqlUtil.js:40|INFO|17196|Executing (default): SELECT `id`, `user_name`, `nick_name`, `password`, `phone`, `address`, `create_time`, `update_time`, `email`, `sex`, `birthday` FROM `user` AS `user` ORDER BY `user`.`create_time` DESC LIMIT 0, 20;
+info: 2020-07-27 21:46:26|mysqlUtil.js:40|INFO|1644|Executing (default): SELECT 1+1 AS result
+info: 2020-07-27 21:46:26|mysqlUtil.js:49|INFO|1644|mysql connect start!
+info: 2020-07-27 21:46:29|mysqlUtil.js:40|INFO|6424|Executing (default): SELECT 1+1 AS result
+info: 2020-07-27 21:46:29|mysqlUtil.js:49|INFO|6424|mysql connect start!
+info: 2020-07-27 21:46:33|mysqlUtil.js:40|INFO|16724|Executing (default): SELECT 1+1 AS result
+info: 2020-07-27 21:46:33|mysqlUtil.js:49|INFO|16724|mysql connect start!
+info: 2020-07-27 21:46:34|mysqlUtil.js:40|INFO|16724|Executing (default): SELECT count(*) AS `count` FROM `user` AS `user`;
+info: 2020-07-27 21:46:34|mysqlUtil.js:40|INFO|16724|Executing (default): SELECT `id`, `user_name`, `nick_name`, `password`, `phone`, `address`, `create_time`, `update_time`, `email`, `sex`, `birthday` FROM `user` AS `user` ORDER BY `user`.`create_time` DESC LIMIT 0, 20;
+info: 2020-07-27 21:46:46|mysqlUtil.js:40|INFO|16724|Executing (default): SELECT count(*) AS `count` FROM `user` AS `user`;
+info: 2020-07-27 21:46:46|mysqlUtil.js:40|INFO|16724|Executing (default): SELECT `id`, `user_name`, `nick_name`, `password`, `phone`, `address`, `create_time`, `update_time`, `email`, `sex`, `birthday` FROM `user` AS `user` ORDER BY `user`.`create_time` DESC LIMIT 0, 8;
+info: 2020-07-27 21:47:10|mysqlUtil.js:40|INFO|16724|Executing (default): SELECT count(*) AS `count` FROM `user` AS `user`;
+info: 2020-07-27 21:47:10|mysqlUtil.js:40|INFO|16724|Executing (default): SELECT `id`, `user_name`, `nick_name`, `password`, `phone`, `address`, `create_time`, `update_time`, `email`, `sex`, `birthday` FROM `user` AS `user` ORDER BY `user`.`create_time` DESC LIMIT 16, 8;
+info: 2020-07-27 21:47:29|mysqlUtil.js:40|INFO|16724|Executing (default): SELECT count(*) AS `count` FROM `user` AS `user`;
+info: 2020-07-27 21:47:30|mysqlUtil.js:40|INFO|16724|Executing (default): SELECT `id`, `user_name`, `nick_name`, `password`, `phone`, `address`, `create_time`, `update_time`, `email`, `sex`, `birthday` FROM `user` AS `user` ORDER BY `user`.`create_time` DESC LIMIT 14, 7;
+info: 2020-07-27 21:47:39|mysqlUtil.js:40|INFO|16724|Executing (default): SELECT count(*) AS `count` FROM `user` AS `user`;
+info: 2020-07-27 21:47:39|mysqlUtil.js:40|INFO|16724|Executing (default): SELECT `id`, `user_name`, `nick_name`, `password`, `phone`, `address`, `create_time`, `update_time`, `email`, `sex`, `birthday` FROM `user` AS `user` ORDER BY `user`.`create_time` DESC LIMIT 7, 7;
+info: 2020-07-27 21:47:49|mysqlUtil.js:40|INFO|16724|Executing (default): SELECT count(*) AS `count` FROM `user` AS `user`;
+info: 2020-07-27 21:47:49|mysqlUtil.js:40|INFO|16724|Executing (default): SELECT `id`, `user_name`, `nick_name`, `password`, `phone`, `address`, `create_time`, `update_time`, `email`, `sex`, `birthday` FROM `user` AS `user` ORDER BY `user`.`create_time` DESC LIMIT 18, 18;
+info: 2020-07-27 21:48:38|mysqlUtil.js:40|INFO|15196|Executing (default): SELECT 1+1 AS result
+info: 2020-07-27 21:48:38|mysqlUtil.js:49|INFO|15196|mysql connect start!
+info: 2020-07-27 21:50:06|mysqlUtil.js:40|INFO|15196|Executing (default): SELECT count(*) AS `count` FROM `user` AS `user`;
+info: 2020-07-27 21:50:06|mysqlUtil.js:40|INFO|15196|Executing (default): SELECT `id`, `user_name`, `nick_name`, `password`, `phone`, `address`, `create_time`, `update_time`, `email`, `sex`, `birthday` FROM `user` AS `user` ORDER BY `user`.`create_time` DESC LIMIT 18, 18;
+info: 2020-07-27 21:52:00|mysqlUtil.js:40|INFO|15196|Executing (default): SELECT count(*) AS `count` FROM `user` AS `user`;
+info: 2020-07-27 21:52:00|mysqlUtil.js:40|INFO|15196|Executing (default): SELECT `id`, `user_name`, `nick_name`, `password`, `phone`, `address`, `create_time`, `update_time`, `email`, `sex`, `birthday` FROM `user` AS `user` ORDER BY `user`.`create_time` DESC LIMIT 18, 18;
