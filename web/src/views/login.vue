@@ -36,6 +36,10 @@
         <span @click="$router.push('/forgotPassword')">忘记密码？</span>
         <span @click="$router.push({path: '/register', query: {invitationCode: $route.query.invitationCode}})">没有账号，去注册</span>
       </div>
+      <input type="file" multiple="multiple" @change="fileChange">
+      <button @click="upload">上传文件</button>
+      <button @click="download">下载文件</button>
+      <button @click="getUserList">获取用户列表</button>
     </div>
   </div>
 </template>
@@ -81,6 +85,47 @@ export default {
       this.$http.post(`http://localhost:8081/nodeapi/auth/signup`, {
         phone: '18765235786',
         password: '125a854'
+      }).then((res) => {
+        console.log(res.data)
+      })
+    },
+    /**
+     * 文件change
+    */
+    fileChange (e) {
+      this.files = e.target.files
+    },
+    /**
+     * 上传文件
+    */
+    upload () {
+      var formData = new FormData()
+      for (var i = 0; i < this.files.length; i++) {
+        formData.append('files', this.files[i])
+      }
+      this.$http.post(`http://localhost:8081/nodeapi/auth/upload`, formData, {
+        headers: {
+          'Content-Type': 'multipart/form-data'
+        }
+      }).then((res) => {
+        console.log(res.data)
+      })
+    },
+    /**
+     * 下载文件
+    */
+    download () {
+      // this.$http.get(`http://localhost:8081/nodeapi/auth/download`).then((res) => {
+      // })
+      window.open('http://localhost:8081/nodeapi/auth/download')
+    },
+    /**
+     * 获取用户列表
+    */
+    getUserList () {
+      this.$http.post(`http://localhost:8081/nodeapi/auth/getUserList`, {
+        currentPage: 4,
+        pageSize: 6
       }).then((res) => {
         console.log(res.data)
       })

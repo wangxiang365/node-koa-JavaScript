@@ -1,24 +1,25 @@
 var fs = require('fs')
 var path = require('path')
 const send = require('koa-send')
+const { array } = require('@hapi/joi')
 class uploadTool {
-  upload (obj) {
+  upload (fileObj) {
     return new Promise((resolve, reject) => {
       // 上传多个个文件
-      const files = obj.files.file
+      const files = fileObj.files instanceof Array ? fileObj.files : [fileObj.files]
+      const filePathArr = []
       for (let file of files) {
         // 创建可读流
         const reader = fs.createReadStream(file.path)
-        // let filePath = path.join(__dirname, '../static/upload/') + `/${file.name}`
-        var newFilename = file.name.split('.')[0] + '_' + myDate.getTime() + '.' + file.name.split('.')[1]
-        var targetPath = path.join(__dirname, '../public/upload/') + `/${newFilename}`
+        let filePath = path.join(__dirname, '../public/upload/') + `${file.name}`
         // 创建可写流
-        const upStream = fs.createWriteStream(targetPath)
+        const upStream = fs.createWriteStream(filePath)
         // 可读流通过管道写入可写流
+        filePathArr.push(filePath)
         reader.pipe(upStream)
       }
       resolve({
-        url: 'http://' + ctx.headers.host + '/upload/' + newFilename
+        images: filePathArr
       })
     })
   }

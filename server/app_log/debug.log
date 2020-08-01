@@ -4713,3 +4713,902 @@ info: 2020-07-27 21:50:06|mysqlUtil.js:40|INFO|15196|Executing (default): SELECT
 info: 2020-07-27 21:50:06|mysqlUtil.js:40|INFO|15196|Executing (default): SELECT `id`, `user_name`, `nick_name`, `password`, `phone`, `address`, `create_time`, `update_time`, `email`, `sex`, `birthday` FROM `user` AS `user` ORDER BY `user`.`create_time` DESC LIMIT 18, 18;
 info: 2020-07-27 21:52:00|mysqlUtil.js:40|INFO|15196|Executing (default): SELECT count(*) AS `count` FROM `user` AS `user`;
 info: 2020-07-27 21:52:00|mysqlUtil.js:40|INFO|15196|Executing (default): SELECT `id`, `user_name`, `nick_name`, `password`, `phone`, `address`, `create_time`, `update_time`, `email`, `sex`, `birthday` FROM `user` AS `user` ORDER BY `user`.`create_time` DESC LIMIT 18, 18;
+info: 2020-07-31 21:09:07|app.js:18|INFO|15224|Server listening on port: 8081
+info: 2020-07-31 21:09:06|index.js:12|INFO|15224|koa loaded!
+info: 2020-07-31 21:09:07|mysqlUtil.js:40|INFO|15224|Executing (default): SELECT 1+1 AS result
+info: 2020-07-31 21:09:07|mysqlUtil.js:49|INFO|15224|mysql connect start!
+info: 2020-07-31 21:09:57|auth.js:32|INFO|15224|rsp|requestId=undefined|body=undefined
+info: 2020-07-31 21:09:57|mysqlUtil.js:40|INFO|15224|Executing (default): SELECT `id`, `user_name`, `nick_name`, `password`, `phone`, `address`, `create_time`, `update_time`, `email`, `sex`, `birthday` FROM `user` AS `user` WHERE `user`.`user_name` = '张丹' LIMIT 1;
+info: 2020-07-31 21:10:08|app.js:18|INFO|19868|Server listening on port: 8081
+info: 2020-07-31 21:10:08|index.js:12|INFO|19868|koa loaded!
+info: 2020-07-31 21:10:08|mysqlUtil.js:40|INFO|19868|Executing (default): SELECT 1+1 AS result
+info: 2020-07-31 21:10:08|mysqlUtil.js:49|INFO|19868|mysql connect start!
+info: 2020-07-31 21:10:12|app.js:18|INFO|11132|Server listening on port: 8081
+info: 2020-07-31 21:10:12|index.js:12|INFO|11132|koa loaded!
+info: 2020-07-31 21:10:12|mysqlUtil.js:40|INFO|11132|Executing (default): SELECT 1+1 AS result
+info: 2020-07-31 21:10:12|mysqlUtil.js:49|INFO|11132|mysql connect start!
+info: 2020-07-31 21:10:17|app.js:18|INFO|11464|Server listening on port: 8081
+info: 2020-07-31 21:10:17|index.js:12|INFO|11464|koa loaded!
+info: 2020-07-31 21:10:17|mysqlUtil.js:40|INFO|11464|Executing (default): SELECT 1+1 AS result
+info: 2020-07-31 21:10:17|mysqlUtil.js:49|INFO|11464|mysql connect start!
+info: 2020-07-31 21:10:19|app.js:18|INFO|19044|Server listening on port: 8081
+info: 2020-07-31 21:10:19|index.js:12|INFO|19044|koa loaded!
+info: 2020-07-31 21:10:19|mysqlUtil.js:40|INFO|19044|Executing (default): SELECT 1+1 AS result
+info: 2020-07-31 21:10:19|mysqlUtil.js:49|INFO|19044|mysql connect start!
+info: 2020-07-31 21:10:20|auth.js:32|INFO|19044|rsp|requestId=undefined|body=undefined
+info: 2020-07-31 21:10:20|mysqlUtil.js:40|INFO|19044|Executing (default): SELECT `id`, `user_name`, `nick_name`, `password`, `phone`, `address`, `create_time`, `update_time`, `email`, `sex`, `birthday` FROM `user` AS `user` WHERE `user`.`user_name` = '张丹' LIMIT 1;
+info: 2020-07-31 21:10:25|app.js:18|INFO|5796|Server listening on port: 8081
+info: 2020-07-31 21:10:25|index.js:12|INFO|5796|koa loaded!
+info: 2020-07-31 21:10:25|mysqlUtil.js:40|INFO|5796|Executing (default): SELECT 1+1 AS result
+info: 2020-07-31 21:10:25|mysqlUtil.js:49|INFO|5796|mysql connect start!
+info: 2020-07-31 21:10:25|auth.js:32|INFO|5796|rsp|requestId=undefined|body=undefined
+info: 2020-07-31 21:10:29|app.js:18|INFO|14644|Server listening on port: 8081
+info: 2020-07-31 21:10:29|index.js:12|INFO|14644|koa loaded!
+info: 2020-07-31 21:10:29|mysqlUtil.js:40|INFO|14644|Executing (default): SELECT 1+1 AS result
+info: 2020-07-31 21:10:29|mysqlUtil.js:49|INFO|14644|mysql connect start!
+info: 2020-07-31 21:10:30|auth.js:32|INFO|14644|rsp|requestId=undefined|body=undefined
+info: 2020-07-31 21:10:30|mysqlUtil.js:40|INFO|14644|Executing (default): SELECT `id`, `user_name`, `nick_name`, `password`, `phone`, `address`, `create_time`, `update_time`, `email`, `sex`, `birthday` FROM `user` AS `user` WHERE `user`.`user_name` = '张丹' LIMIT 1;
+info: 2020-07-31 21:10:41|app.js:18|INFO|9684|Server listening on port: 8081
+info: 2020-07-31 21:10:41|index.js:12|INFO|9684|koa loaded!
+info: 2020-07-31 21:10:41|mysqlUtil.js:40|INFO|9684|Executing (default): SELECT 1+1 AS result
+info: 2020-07-31 21:10:41|mysqlUtil.js:49|INFO|9684|mysql connect start!
+info: 2020-07-31 21:10:44|app.js:18|INFO|15976|Server listening on port: 8081
+info: 2020-07-31 21:10:44|index.js:12|INFO|15976|koa loaded!
+info: 2020-07-31 21:10:44|mysqlUtil.js:40|INFO|15976|Executing (default): SELECT 1+1 AS result
+info: 2020-07-31 21:10:44|mysqlUtil.js:49|INFO|15976|mysql connect start!
+info: 2020-07-31 21:10:47|app.js:18|INFO|16668|Server listening on port: 8081
+info: 2020-07-31 21:10:47|index.js:12|INFO|16668|koa loaded!
+info: 2020-07-31 21:10:47|mysqlUtil.js:40|INFO|16668|Executing (default): SELECT 1+1 AS result
+info: 2020-07-31 21:10:47|mysqlUtil.js:49|INFO|16668|mysql connect start!
+info: 2020-07-31 21:10:55|auth.js:32|INFO|16668|rsp|requestId=undefined|body=undefined
+info: 2020-07-31 21:10:55|mysqlUtil.js:40|INFO|16668|Executing (default): SELECT `id`, `user_name`, `nick_name`, `password`, `phone`, `address`, `create_time`, `update_time`, `email`, `sex`, `birthday` FROM `user` AS `user` WHERE `user`.`user_name` = '张丹' LIMIT 1;
+info: 2020-07-31 21:11:06|app.js:18|INFO|19984|Server listening on port: 8081
+info: 2020-07-31 21:11:06|index.js:12|INFO|19984|koa loaded!
+info: 2020-07-31 21:11:06|mysqlUtil.js:40|INFO|19984|Executing (default): SELECT 1+1 AS result
+info: 2020-07-31 21:11:06|mysqlUtil.js:49|INFO|19984|mysql connect start!
+info: 2020-07-31 21:11:06|auth.js:32|INFO|19984|rsp|requestId=undefined|body=undefined
+info: 2020-07-31 21:11:06|mysqlUtil.js:40|INFO|19984|Executing (default): SELECT `id`, `user_name`, `nick_name`, `password`, `phone`, `address`, `create_time`, `update_time`, `email`, `sex`, `birthday` FROM `user` AS `user` WHERE `user`.`user_name` = '张丹' LIMIT 1;
+info: 2020-07-31 21:11:20|app.js:18|INFO|19044|Server listening on port: 8081
+info: 2020-07-31 21:11:20|index.js:12|INFO|19044|koa loaded!
+info: 2020-07-31 21:11:20|mysqlUtil.js:40|INFO|19044|Executing (default): SELECT 1+1 AS result
+info: 2020-07-31 21:11:20|mysqlUtil.js:49|INFO|19044|mysql connect start!
+info: 2020-07-31 21:11:23|app.js:18|INFO|9092|Server listening on port: 8081
+info: 2020-07-31 21:11:23|index.js:12|INFO|9092|koa loaded!
+info: 2020-07-31 21:11:23|mysqlUtil.js:40|INFO|9092|Executing (default): SELECT 1+1 AS result
+info: 2020-07-31 21:11:23|mysqlUtil.js:49|INFO|9092|mysql connect start!
+info: 2020-07-31 21:11:25|auth.js:32|INFO|9092|rsp|requestId=undefined|body=undefined
+info: 2020-07-31 21:11:25|mysqlUtil.js:40|INFO|9092|Executing (default): SELECT `id`, `user_name`, `nick_name`, `password`, `phone`, `address`, `create_time`, `update_time`, `email`, `sex`, `birthday` FROM `user` AS `user` WHERE `user`.`user_name` = '张丹' LIMIT 1;
+info: 2020-07-31 21:11:25|mysqlUtil.js:40|INFO|9092|Executing (default): select * from user
+info: 2020-07-31 21:11:38|app.js:18|INFO|19480|Server listening on port: 8081
+info: 2020-07-31 21:11:38|index.js:12|INFO|19480|koa loaded!
+info: 2020-07-31 21:11:38|mysqlUtil.js:40|INFO|19480|Executing (default): SELECT 1+1 AS result
+info: 2020-07-31 21:11:38|mysqlUtil.js:49|INFO|19480|mysql connect start!
+info: 2020-07-31 21:11:39|auth.js:32|INFO|19480|rsp|requestId=undefined|body=undefined
+info: 2020-07-31 21:11:39|mysqlUtil.js:40|INFO|19480|Executing (default): SELECT `id`, `user_name`, `nick_name`, `password`, `phone`, `address`, `create_time`, `update_time`, `email`, `sex`, `birthday` FROM `user` AS `user` WHERE `user`.`user_name` = '张丹' LIMIT 1;
+info: 2020-07-31 21:11:39|mysqlUtil.js:40|INFO|19480|Executing (default): select * from user
+info: 2020-07-31 21:11:56|app.js:18|INFO|10456|Server listening on port: 8081
+info: 2020-07-31 21:11:56|index.js:12|INFO|10456|koa loaded!
+info: 2020-07-31 21:11:56|mysqlUtil.js:40|INFO|10456|Executing (default): SELECT 1+1 AS result
+info: 2020-07-31 21:11:56|mysqlUtil.js:49|INFO|10456|mysql connect start!
+info: 2020-07-31 21:11:59|app.js:18|INFO|19536|Server listening on port: 8081
+info: 2020-07-31 21:11:59|index.js:12|INFO|19536|koa loaded!
+info: 2020-07-31 21:11:59|mysqlUtil.js:40|INFO|19536|Executing (default): SELECT 1+1 AS result
+info: 2020-07-31 21:11:59|mysqlUtil.js:49|INFO|19536|mysql connect start!
+info: 2020-07-31 21:12:21|app.js:18|INFO|10308|Server listening on port: 8081
+info: 2020-07-31 21:12:21|index.js:12|INFO|10308|koa loaded!
+info: 2020-07-31 21:12:21|mysqlUtil.js:40|INFO|10308|Executing (default): SELECT 1+1 AS result
+info: 2020-07-31 21:12:21|mysqlUtil.js:49|INFO|10308|mysql connect start!
+info: 2020-07-31 21:12:22|auth.js:32|INFO|10308|rsp|requestId=undefined|body=undefined
+info: 2020-07-31 21:12:22|mysqlUtil.js:40|INFO|10308|Executing (default): SELECT `id`, `user_name`, `nick_name`, `password`, `phone`, `address`, `create_time`, `update_time`, `email`, `sex`, `birthday` FROM `user` AS `user` WHERE `user`.`user_name` = '张丹' LIMIT 1;
+info: 2020-07-31 21:12:22|mysqlUtil.js:40|INFO|10308|Executing (default): select * from user where user_name = '张丹'
+info: 2020-07-31 21:12:33|app.js:18|INFO|12756|Server listening on port: 8081
+info: 2020-07-31 21:12:33|index.js:12|INFO|12756|koa loaded!
+info: 2020-07-31 21:12:33|mysqlUtil.js:40|INFO|12756|Executing (default): SELECT 1+1 AS result
+info: 2020-07-31 21:12:33|mysqlUtil.js:49|INFO|12756|mysql connect start!
+info: 2020-07-31 21:12:43|app.js:18|INFO|17432|Server listening on port: 8081
+info: 2020-07-31 21:12:43|index.js:12|INFO|17432|koa loaded!
+info: 2020-07-31 21:12:43|mysqlUtil.js:40|INFO|17432|Executing (default): SELECT 1+1 AS result
+info: 2020-07-31 21:12:43|mysqlUtil.js:49|INFO|17432|mysql connect start!
+info: 2020-07-31 21:18:59|auth.js:32|INFO|17432|rsp|requestId=undefined|body=undefined
+info: 2020-07-31 21:18:59|mysqlUtil.js:40|INFO|17432|Executing (default): SELECT `id`, `user_name`, `nick_name`, `password`, `phone`, `address`, `create_time`, `update_time`, `email`, `sex`, `birthday` FROM `user` AS `user` WHERE `user`.`user_name` = '张丹' LIMIT 1;
+info: 2020-07-31 21:18:59|mysqlUtil.js:40|INFO|17432|Executing (default): select * from user where user_name = '张丹'
+info: 2020-07-31 21:21:08|app.js:18|INFO|17612|Server listening on port: 8081
+info: 2020-07-31 21:21:08|index.js:12|INFO|17612|koa loaded!
+info: 2020-07-31 21:21:08|mysqlUtil.js:40|INFO|17612|Executing (default): SELECT 1+1 AS result
+info: 2020-07-31 21:21:08|mysqlUtil.js:49|INFO|17612|mysql connect start!
+info: 2020-07-31 21:21:12|app.js:18|INFO|15728|Server listening on port: 8081
+info: 2020-07-31 21:21:12|index.js:12|INFO|15728|koa loaded!
+info: 2020-07-31 21:21:12|mysqlUtil.js:40|INFO|15728|Executing (default): SELECT 1+1 AS result
+info: 2020-07-31 21:21:12|mysqlUtil.js:49|INFO|15728|mysql connect start!
+info: 2020-07-31 21:21:16|app.js:18|INFO|20208|Server listening on port: 8081
+info: 2020-07-31 21:21:16|index.js:12|INFO|20208|koa loaded!
+info: 2020-07-31 21:21:16|mysqlUtil.js:40|INFO|20208|Executing (default): SELECT 1+1 AS result
+info: 2020-07-31 21:21:16|mysqlUtil.js:49|INFO|20208|mysql connect start!
+info: 2020-07-31 21:21:25|index.js:12|INFO|12756|koa loaded!
+info: 2020-07-31 21:21:25|app.js:18|INFO|12756|Server listening on port: 8081
+info: 2020-07-31 21:21:25|mysqlUtil.js:40|INFO|12756|Executing (default): SELECT 1+1 AS result
+info: 2020-07-31 21:21:25|mysqlUtil.js:49|INFO|12756|mysql connect start!
+info: 2020-07-31 21:21:29|app.js:18|INFO|18080|Server listening on port: 8081
+info: 2020-07-31 21:21:29|index.js:12|INFO|18080|koa loaded!
+info: 2020-07-31 21:21:29|mysqlUtil.js:40|INFO|18080|Executing (default): SELECT 1+1 AS result
+info: 2020-07-31 21:21:29|mysqlUtil.js:49|INFO|18080|mysql connect start!
+info: 2020-07-31 21:21:35|app.js:18|INFO|11620|Server listening on port: 8081
+info: 2020-07-31 21:21:35|index.js:12|INFO|11620|koa loaded!
+info: 2020-07-31 21:21:35|mysqlUtil.js:40|INFO|11620|Executing (default): SELECT 1+1 AS result
+info: 2020-07-31 21:21:35|mysqlUtil.js:49|INFO|11620|mysql connect start!
+info: 2020-07-31 21:22:02|app.js:18|INFO|15672|Server listening on port: 8081
+info: 2020-07-31 21:22:02|index.js:12|INFO|15672|koa loaded!
+info: 2020-07-31 21:22:02|mysqlUtil.js:40|INFO|15672|Executing (default): SELECT 1+1 AS result
+info: 2020-07-31 21:22:02|mysqlUtil.js:49|INFO|15672|mysql connect start!
+info: 2020-07-31 21:22:59|app.js:18|INFO|14088|Server listening on port: 8081
+info: 2020-07-31 21:22:59|index.js:12|INFO|14088|koa loaded!
+info: 2020-07-31 21:22:59|mysqlUtil.js:40|INFO|14088|Executing (default): SELECT 1+1 AS result
+info: 2020-07-31 21:22:59|mysqlUtil.js:49|INFO|14088|mysql connect start!
+info: 2020-07-31 21:23:04|app.js:18|INFO|20440|Server listening on port: 8081
+info: 2020-07-31 21:23:04|index.js:12|INFO|20440|koa loaded!
+info: 2020-07-31 21:23:04|mysqlUtil.js:40|INFO|20440|Executing (default): SELECT 1+1 AS result
+info: 2020-07-31 21:23:04|mysqlUtil.js:49|INFO|20440|mysql connect start!
+info: 2020-07-31 21:23:13|app.js:18|INFO|14500|Server listening on port: 8081
+info: 2020-07-31 21:23:13|index.js:12|INFO|14500|koa loaded!
+info: 2020-07-31 21:23:13|mysqlUtil.js:40|INFO|14500|Executing (default): SELECT 1+1 AS result
+info: 2020-07-31 21:23:13|mysqlUtil.js:49|INFO|14500|mysql connect start!
+info: 2020-07-31 21:23:23|app.js:18|INFO|12964|Server listening on port: 8081
+info: 2020-07-31 21:23:23|index.js:12|INFO|12964|koa loaded!
+info: 2020-07-31 21:23:23|mysqlUtil.js:40|INFO|12964|Executing (default): SELECT 1+1 AS result
+info: 2020-07-31 21:23:23|mysqlUtil.js:49|INFO|12964|mysql connect start!
+info: 2020-07-31 21:23:25|app.js:18|INFO|18804|Server listening on port: 8081
+info: 2020-07-31 21:23:25|index.js:12|INFO|18804|koa loaded!
+info: 2020-07-31 21:23:25|mysqlUtil.js:40|INFO|18804|Executing (default): SELECT 1+1 AS result
+info: 2020-07-31 21:23:25|mysqlUtil.js:49|INFO|18804|mysql connect start!
+info: 2020-07-31 21:23:54|app.js:18|INFO|3772|Server listening on port: 8081
+info: 2020-07-31 21:23:54|index.js:12|INFO|3772|koa loaded!
+info: 2020-07-31 21:23:54|mysqlUtil.js:40|INFO|3772|Executing (default): SELECT 1+1 AS result
+info: 2020-07-31 21:23:54|mysqlUtil.js:49|INFO|3772|mysql connect start!
+info: 2020-07-31 21:45:45|app.js:18|INFO|16808|Server listening on port: 8081
+info: 2020-07-31 21:45:45|index.js:12|INFO|16808|koa loaded!
+info: 2020-07-31 21:45:45|mysqlUtil.js:40|INFO|16808|Executing (default): SELECT 1+1 AS result
+info: 2020-07-31 21:45:45|mysqlUtil.js:49|INFO|16808|mysql connect start!
+info: 2020-07-31 21:45:50|app.js:18|INFO|16644|Server listening on port: 8081
+info: 2020-07-31 21:45:50|index.js:12|INFO|16644|koa loaded!
+info: 2020-07-31 21:45:50|mysqlUtil.js:40|INFO|16644|Executing (default): SELECT 1+1 AS result
+info: 2020-07-31 21:45:50|mysqlUtil.js:49|INFO|16644|mysql connect start!
+info: 2020-07-31 21:45:52|app.js:18|INFO|17520|Server listening on port: 8081
+info: 2020-07-31 21:45:52|index.js:12|INFO|17520|koa loaded!
+info: 2020-07-31 21:45:52|mysqlUtil.js:40|INFO|17520|Executing (default): SELECT 1+1 AS result
+info: 2020-07-31 21:45:52|mysqlUtil.js:49|INFO|17520|mysql connect start!
+info: 2020-07-31 21:46:15|app.js:18|INFO|11512|Server listening on port: 8081
+info: 2020-07-31 21:46:15|index.js:12|INFO|11512|koa loaded!
+info: 2020-07-31 21:46:15|mysqlUtil.js:40|INFO|11512|Executing (default): SELECT 1+1 AS result
+info: 2020-07-31 21:46:15|mysqlUtil.js:49|INFO|11512|mysql connect start!
+info: 2020-07-31 21:47:11|app.js:18|INFO|17132|Server listening on port: 8081
+info: 2020-07-31 21:47:11|index.js:12|INFO|17132|koa loaded!
+info: 2020-07-31 21:47:12|mysqlUtil.js:40|INFO|17132|Executing (default): SELECT 1+1 AS result
+info: 2020-07-31 21:47:12|mysqlUtil.js:49|INFO|17132|mysql connect start!
+info: 2020-07-31 21:48:56|app.js:18|INFO|16596|Server listening on port: 8081
+info: 2020-07-31 21:48:56|index.js:12|INFO|16596|koa loaded!
+info: 2020-07-31 21:48:56|mysqlUtil.js:40|INFO|16596|Executing (default): SELECT 1+1 AS result
+info: 2020-07-31 21:48:56|mysqlUtil.js:49|INFO|16596|mysql connect start!
+info: 2020-07-31 21:49:07|app.js:18|INFO|13736|Server listening on port: 8081
+info: 2020-07-31 21:49:07|index.js:12|INFO|13736|koa loaded!
+info: 2020-07-31 21:49:07|mysqlUtil.js:40|INFO|13736|Executing (default): SELECT 1+1 AS result
+info: 2020-07-31 21:49:07|mysqlUtil.js:49|INFO|13736|mysql connect start!
+info: 2020-08-01 13:25:51|app.js:18|INFO|2804|Server listening on port: 8081
+info: 2020-08-01 13:25:51|index.js:12|INFO|2804|koa loaded!
+info: 2020-08-01 13:25:52|mysqlUtil.js:40|INFO|2804|Executing (default): SELECT 1+1 AS result
+info: 2020-08-01 13:25:52|mysqlUtil.js:49|INFO|2804|mysql connect start!
+info: 2020-08-01 13:25:59|app.js:18|INFO|19636|Server listening on port: 8081
+info: 2020-08-01 13:25:59|index.js:12|INFO|19636|koa loaded!
+info: 2020-08-01 13:25:59|mysqlUtil.js:40|INFO|19636|Executing (default): SELECT 1+1 AS result
+info: 2020-08-01 13:25:59|mysqlUtil.js:49|INFO|19636|mysql connect start!
+info: 2020-08-01 13:27:24|app.js:18|INFO|17088|Server listening on port: 8081
+info: 2020-08-01 13:27:24|index.js:12|INFO|17088|koa loaded!
+info: 2020-08-01 13:27:24|mysqlUtil.js:40|INFO|17088|Executing (default): SELECT 1+1 AS result
+info: 2020-08-01 13:27:24|mysqlUtil.js:49|INFO|17088|mysql connect start!
+info: 2020-08-01 13:27:40|app.js:18|INFO|19240|Server listening on port: 8081
+info: 2020-08-01 13:27:40|index.js:12|INFO|19240|koa loaded!
+info: 2020-08-01 13:27:40|mysqlUtil.js:40|INFO|19240|Executing (default): SELECT 1+1 AS result
+info: 2020-08-01 13:27:40|mysqlUtil.js:49|INFO|19240|mysql connect start!
+info: 2020-08-01 13:27:48|app.js:18|INFO|19664|Server listening on port: 8081
+info: 2020-08-01 13:27:48|index.js:12|INFO|19664|koa loaded!
+info: 2020-08-01 13:27:48|mysqlUtil.js:40|INFO|19664|Executing (default): SELECT 1+1 AS result
+info: 2020-08-01 13:27:48|mysqlUtil.js:49|INFO|19664|mysql connect start!
+info: 2020-08-01 13:29:02|app.js:18|INFO|19660|Server listening on port: 8081
+info: 2020-08-01 13:29:02|index.js:12|INFO|19660|koa loaded!
+info: 2020-08-01 13:29:02|mysqlUtil.js:40|INFO|19660|Executing (default): SELECT 1+1 AS result
+info: 2020-08-01 13:29:02|mysqlUtil.js:49|INFO|19660|mysql connect start!
+info: 2020-08-01 13:29:11|app.js:18|INFO|12888|Server listening on port: 8081
+info: 2020-08-01 13:29:11|index.js:12|INFO|12888|koa loaded!
+info: 2020-08-01 13:29:12|mysqlUtil.js:40|INFO|12888|Executing (default): SELECT 1+1 AS result
+info: 2020-08-01 13:29:12|mysqlUtil.js:49|INFO|12888|mysql connect start!
+info: 2020-08-01 13:29:41|app.js:18|INFO|13696|Server listening on port: 8081
+info: 2020-08-01 13:29:41|index.js:12|INFO|13696|koa loaded!
+info: 2020-08-01 13:29:41|mysqlUtil.js:40|INFO|13696|Executing (default): SELECT 1+1 AS result
+info: 2020-08-01 13:29:41|mysqlUtil.js:49|INFO|13696|mysql connect start!
+info: 2020-08-01 13:30:06|app.js:18|INFO|10368|Server listening on port: 8081
+info: 2020-08-01 13:30:06|index.js:12|INFO|10368|koa loaded!
+info: 2020-08-01 13:30:08|app.js:18|INFO|15804|Server listening on port: 8081
+info: 2020-08-01 13:30:08|index.js:12|INFO|15804|koa loaded!
+info: 2020-08-01 13:30:08|mysqlUtil.js:40|INFO|15804|Executing (default): SELECT 1+1 AS result
+info: 2020-08-01 13:30:08|mysqlUtil.js:49|INFO|15804|mysql connect start!
+info: 2020-08-01 13:30:21|app.js:18|INFO|7928|Server listening on port: 8081
+info: 2020-08-01 13:30:21|index.js:12|INFO|7928|koa loaded!
+info: 2020-08-01 13:30:21|mysqlUtil.js:40|INFO|7928|Executing (default): SELECT 1+1 AS result
+info: 2020-08-01 13:30:21|mysqlUtil.js:49|INFO|7928|mysql connect start!
+info: 2020-08-01 13:30:30|app.js:18|INFO|17468|Server listening on port: 8081
+info: 2020-08-01 13:30:30|index.js:12|INFO|17468|koa loaded!
+info: 2020-08-01 13:30:30|mysqlUtil.js:40|INFO|17468|Executing (default): SELECT 1+1 AS result
+info: 2020-08-01 13:30:30|mysqlUtil.js:49|INFO|17468|mysql connect start!
+info: 2020-08-01 13:32:28|app.js:18|INFO|15144|Server listening on port: 8081
+info: 2020-08-01 13:32:28|index.js:12|INFO|15144|koa loaded!
+info: 2020-08-01 13:32:28|mysqlUtil.js:40|INFO|15144|Executing (default): SELECT 1+1 AS result
+info: 2020-08-01 13:32:28|mysqlUtil.js:49|INFO|15144|mysql connect start!
+info: 2020-08-01 13:32:50|app.js:18|INFO|1808|Server listening on port: 8081
+info: 2020-08-01 13:32:50|index.js:12|INFO|1808|koa loaded!
+info: 2020-08-01 13:32:50|mysqlUtil.js:40|INFO|1808|Executing (default): SELECT 1+1 AS result
+info: 2020-08-01 13:32:50|mysqlUtil.js:49|INFO|1808|mysql connect start!
+info: 2020-08-01 13:33:27|app.js:18|INFO|12892|Server listening on port: 8081
+info: 2020-08-01 13:33:27|index.js:12|INFO|12892|koa loaded!
+info: 2020-08-01 13:33:27|mysqlUtil.js:40|INFO|12892|Executing (default): SELECT 1+1 AS result
+info: 2020-08-01 13:33:27|mysqlUtil.js:49|INFO|12892|mysql connect start!
+info: 2020-08-01 13:37:20|app.js:18|INFO|18008|Server listening on port: 8081
+info: 2020-08-01 13:37:19|index.js:12|INFO|18008|koa loaded!
+info: 2020-08-01 13:37:20|mysqlUtil.js:40|INFO|18008|Executing (default): SELECT 1+1 AS result
+info: 2020-08-01 13:37:20|mysqlUtil.js:49|INFO|18008|mysql connect start!
+info: 2020-08-01 13:37:56|app.js:18|INFO|3932|Server listening on port: 8081
+info: 2020-08-01 13:37:56|index.js:12|INFO|3932|koa loaded!
+info: 2020-08-01 13:37:56|mysqlUtil.js:40|INFO|3932|Executing (default): SELECT 1+1 AS result
+info: 2020-08-01 13:37:56|mysqlUtil.js:49|INFO|3932|mysql connect start!
+info: 2020-08-01 13:38:35|app.js:18|INFO|1388|Server listening on port: 8081
+info: 2020-08-01 13:38:35|index.js:12|INFO|1388|koa loaded!
+info: 2020-08-01 13:38:35|mysqlUtil.js:40|INFO|1388|Executing (default): SELECT 1+1 AS result
+info: 2020-08-01 13:38:35|mysqlUtil.js:49|INFO|1388|mysql connect start!
+info: 2020-08-01 13:38:40|app.js:18|INFO|20116|Server listening on port: 8081
+info: 2020-08-01 13:38:40|index.js:12|INFO|20116|koa loaded!
+info: 2020-08-01 13:38:40|mysqlUtil.js:40|INFO|20116|Executing (default): SELECT 1+1 AS result
+info: 2020-08-01 13:38:40|mysqlUtil.js:49|INFO|20116|mysql connect start!
+info: 2020-08-01 13:39:15|app.js:18|INFO|19920|Server listening on port: 8081
+info: 2020-08-01 13:39:15|index.js:12|INFO|19920|koa loaded!
+info: 2020-08-01 13:39:15|mysqlUtil.js:40|INFO|19920|Executing (default): SELECT 1+1 AS result
+info: 2020-08-01 13:39:15|mysqlUtil.js:49|INFO|19920|mysql connect start!
+info: 2020-08-01 13:39:18|app.js:18|INFO|11752|Server listening on port: 8081
+info: 2020-08-01 13:39:18|index.js:12|INFO|11752|koa loaded!
+info: 2020-08-01 13:39:18|mysqlUtil.js:40|INFO|11752|Executing (default): SELECT 1+1 AS result
+info: 2020-08-01 13:39:18|mysqlUtil.js:49|INFO|11752|mysql connect start!
+info: 2020-08-01 13:39:39|app.js:18|INFO|1456|Server listening on port: 8081
+info: 2020-08-01 13:39:39|index.js:12|INFO|1456|koa loaded!
+info: 2020-08-01 13:39:39|mysqlUtil.js:40|INFO|1456|Executing (default): SELECT 1+1 AS result
+info: 2020-08-01 13:39:39|mysqlUtil.js:49|INFO|1456|mysql connect start!
+info: 2020-08-01 13:39:43|app.js:18|INFO|12816|Server listening on port: 8081
+info: 2020-08-01 13:39:43|index.js:12|INFO|12816|koa loaded!
+info: 2020-08-01 13:39:43|mysqlUtil.js:40|INFO|12816|Executing (default): SELECT 1+1 AS result
+info: 2020-08-01 13:39:43|mysqlUtil.js:49|INFO|12816|mysql connect start!
+info: 2020-08-01 13:39:48|app.js:18|INFO|16844|Server listening on port: 8081
+info: 2020-08-01 13:39:47|index.js:12|INFO|16844|koa loaded!
+info: 2020-08-01 13:39:48|mysqlUtil.js:40|INFO|16844|Executing (default): SELECT 1+1 AS result
+info: 2020-08-01 13:39:48|mysqlUtil.js:49|INFO|16844|mysql connect start!
+info: 2020-08-01 13:39:51|app.js:18|INFO|18576|Server listening on port: 8081
+info: 2020-08-01 13:39:51|index.js:12|INFO|18576|koa loaded!
+info: 2020-08-01 13:39:51|mysqlUtil.js:40|INFO|18576|Executing (default): SELECT 1+1 AS result
+info: 2020-08-01 13:39:51|mysqlUtil.js:49|INFO|18576|mysql connect start!
+info: 2020-08-01 13:39:54|app.js:18|INFO|10756|Server listening on port: 8081
+info: 2020-08-01 13:39:54|index.js:12|INFO|10756|koa loaded!
+info: 2020-08-01 13:39:54|mysqlUtil.js:40|INFO|10756|Executing (default): SELECT 1+1 AS result
+info: 2020-08-01 13:39:54|mysqlUtil.js:49|INFO|10756|mysql connect start!
+info: 2020-08-01 13:40:08|app.js:18|INFO|5900|Server listening on port: 8081
+info: 2020-08-01 13:40:08|index.js:12|INFO|5900|koa loaded!
+info: 2020-08-01 13:40:08|mysqlUtil.js:40|INFO|5900|Executing (default): SELECT 1+1 AS result
+info: 2020-08-01 13:40:08|mysqlUtil.js:49|INFO|5900|mysql connect start!
+info: 2020-08-01 13:40:40|app.js:18|INFO|11568|Server listening on port: 8081
+info: 2020-08-01 13:40:40|index.js:12|INFO|11568|koa loaded!
+info: 2020-08-01 13:40:40|mysqlUtil.js:40|INFO|11568|Executing (default): SELECT 1+1 AS result
+info: 2020-08-01 13:40:40|mysqlUtil.js:49|INFO|11568|mysql connect start!
+info: 2020-08-01 13:40:42|app.js:18|INFO|17832|Server listening on port: 8081
+info: 2020-08-01 13:40:42|index.js:12|INFO|17832|koa loaded!
+info: 2020-08-01 13:40:42|mysqlUtil.js:40|INFO|17832|Executing (default): SELECT 1+1 AS result
+info: 2020-08-01 13:40:42|mysqlUtil.js:49|INFO|17832|mysql connect start!
+info: 2020-08-01 13:40:56|app.js:18|INFO|17816|Server listening on port: 8081
+info: 2020-08-01 13:40:56|index.js:12|INFO|17816|koa loaded!
+info: 2020-08-01 13:40:56|mysqlUtil.js:40|INFO|17816|Executing (default): SELECT 1+1 AS result
+info: 2020-08-01 13:40:56|mysqlUtil.js:49|INFO|17816|mysql connect start!
+info: 2020-08-01 13:48:03|app.js:18|INFO|17476|Server listening on port: 8081
+info: 2020-08-01 13:48:03|index.js:12|INFO|17476|koa loaded!
+info: 2020-08-01 13:48:03|mysqlUtil.js:40|INFO|17476|Executing (default): SELECT 1+1 AS result
+info: 2020-08-01 13:48:03|mysqlUtil.js:49|INFO|17476|mysql connect start!
+info: 2020-08-01 13:48:18|app.js:18|INFO|10608|Server listening on port: 8081
+info: 2020-08-01 13:48:18|index.js:12|INFO|10608|koa loaded!
+info: 2020-08-01 13:48:18|mysqlUtil.js:40|INFO|10608|Executing (default): SELECT 1+1 AS result
+info: 2020-08-01 13:48:18|mysqlUtil.js:49|INFO|10608|mysql connect start!
+info: 2020-08-01 13:49:02|app.js:18|INFO|6708|Server listening on port: 8081
+info: 2020-08-01 13:49:02|index.js:12|INFO|6708|koa loaded!
+info: 2020-08-01 13:49:02|mysqlUtil.js:40|INFO|6708|Executing (default): SELECT 1+1 AS result
+info: 2020-08-01 13:49:02|mysqlUtil.js:49|INFO|6708|mysql connect start!
+info: 2020-08-01 14:39:43|app.js:18|INFO|20772|Server listening on port: 8081
+info: 2020-08-01 14:39:43|index.js:12|INFO|20772|koa loaded!
+info: 2020-08-01 14:39:43|mysqlUtil.js:40|INFO|20772|Executing (default): SELECT 1+1 AS result
+info: 2020-08-01 14:39:43|mysqlUtil.js:49|INFO|20772|mysql connect start!
+info: 2020-08-01 14:39:54|app.js:18|INFO|20184|Server listening on port: 8081
+info: 2020-08-01 14:39:54|index.js:12|INFO|20184|koa loaded!
+info: 2020-08-01 14:39:54|mysqlUtil.js:40|INFO|20184|Executing (default): SELECT 1+1 AS result
+info: 2020-08-01 14:39:54|mysqlUtil.js:49|INFO|20184|mysql connect start!
+info: 2020-08-01 14:40:14|app.js:18|INFO|5196|Server listening on port: 8081
+info: 2020-08-01 14:40:14|index.js:12|INFO|5196|koa loaded!
+info: 2020-08-01 14:40:14|mysqlUtil.js:40|INFO|5196|Executing (default): SELECT 1+1 AS result
+info: 2020-08-01 14:40:14|mysqlUtil.js:49|INFO|5196|mysql connect start!
+info: 2020-08-01 14:40:22|app.js:18|INFO|16940|Server listening on port: 8081
+info: 2020-08-01 14:40:22|index.js:12|INFO|16940|koa loaded!
+info: 2020-08-01 14:40:22|mysqlUtil.js:40|INFO|16940|Executing (default): SELECT 1+1 AS result
+info: 2020-08-01 14:40:22|mysqlUtil.js:49|INFO|16940|mysql connect start!
+info: 2020-08-01 14:46:57|app.js:18|INFO|20268|Server listening on port: 8081
+info: 2020-08-01 14:46:57|index.js:12|INFO|20268|koa loaded!
+info: 2020-08-01 14:46:57|mysqlUtil.js:40|INFO|20268|Executing (default): SELECT 1+1 AS result
+info: 2020-08-01 14:46:57|mysqlUtil.js:49|INFO|20268|mysql connect start!
+info: 2020-08-01 14:48:58|app.js:18|INFO|19272|Server listening on port: 8081
+info: 2020-08-01 14:48:58|index.js:12|INFO|19272|koa loaded!
+info: 2020-08-01 14:48:58|mysqlUtil.js:40|INFO|19272|Executing (default): SELECT 1+1 AS result
+info: 2020-08-01 14:48:58|mysqlUtil.js:49|INFO|19272|mysql connect start!
+info: 2020-08-01 14:53:50|app.js:18|INFO|12580|Server listening on port: 8081
+info: 2020-08-01 14:53:50|index.js:12|INFO|12580|koa loaded!
+info: 2020-08-01 14:53:50|mysqlUtil.js:40|INFO|12580|Executing (default): SELECT 1+1 AS result
+info: 2020-08-01 14:53:50|mysqlUtil.js:49|INFO|12580|mysql connect start!
+info: 2020-08-01 14:53:52|app.js:18|INFO|18836|Server listening on port: 8081
+info: 2020-08-01 14:53:52|index.js:12|INFO|18836|koa loaded!
+info: 2020-08-01 14:53:52|mysqlUtil.js:40|INFO|18836|Executing (default): SELECT 1+1 AS result
+info: 2020-08-01 14:53:52|mysqlUtil.js:49|INFO|18836|mysql connect start!
+info: 2020-08-01 14:53:53|app.js:18|INFO|14616|Server listening on port: 8081
+info: 2020-08-01 14:53:53|index.js:12|INFO|14616|koa loaded!
+info: 2020-08-01 14:53:54|mysqlUtil.js:40|INFO|14616|Executing (default): SELECT 1+1 AS result
+info: 2020-08-01 14:53:54|mysqlUtil.js:49|INFO|14616|mysql connect start!
+info: 2020-08-01 14:53:59|app.js:18|INFO|10840|Server listening on port: 8081
+info: 2020-08-01 14:53:59|index.js:12|INFO|10840|koa loaded!
+info: 2020-08-01 14:53:59|mysqlUtil.js:40|INFO|10840|Executing (default): SELECT 1+1 AS result
+info: 2020-08-01 14:53:59|mysqlUtil.js:49|INFO|10840|mysql connect start!
+info: 2020-08-01 14:54:01|app.js:18|INFO|12796|Server listening on port: 8081
+info: 2020-08-01 14:54:01|index.js:12|INFO|12796|koa loaded!
+info: 2020-08-01 14:54:01|mysqlUtil.js:40|INFO|12796|Executing (default): SELECT 1+1 AS result
+info: 2020-08-01 14:54:01|mysqlUtil.js:49|INFO|12796|mysql connect start!
+info: 2020-08-01 14:54:28|app.js:18|INFO|20800|Server listening on port: 8081
+info: 2020-08-01 14:54:28|index.js:12|INFO|20800|koa loaded!
+info: 2020-08-01 14:54:28|mysqlUtil.js:40|INFO|20800|Executing (default): SELECT 1+1 AS result
+info: 2020-08-01 14:54:28|mysqlUtil.js:49|INFO|20800|mysql connect start!
+info: 2020-08-01 14:54:49|app.js:18|INFO|20896|Server listening on port: 8081
+info: 2020-08-01 14:54:49|index.js:12|INFO|20896|koa loaded!
+info: 2020-08-01 14:54:49|mysqlUtil.js:40|INFO|20896|Executing (default): SELECT 1+1 AS result
+info: 2020-08-01 14:54:49|mysqlUtil.js:49|INFO|20896|mysql connect start!
+info: 2020-08-01 14:55:14|app.js:18|INFO|7096|Server listening on port: 8081
+info: 2020-08-01 14:55:14|index.js:12|INFO|7096|koa loaded!
+info: 2020-08-01 14:55:14|mysqlUtil.js:40|INFO|7096|Executing (default): SELECT 1+1 AS result
+info: 2020-08-01 14:55:14|mysqlUtil.js:49|INFO|7096|mysql connect start!
+info: 2020-08-01 14:55:16|app.js:18|INFO|5748|Server listening on port: 8081
+info: 2020-08-01 14:55:16|index.js:12|INFO|5748|koa loaded!
+info: 2020-08-01 14:55:16|mysqlUtil.js:40|INFO|5748|Executing (default): SELECT 1+1 AS result
+info: 2020-08-01 14:55:16|mysqlUtil.js:49|INFO|5748|mysql connect start!
+info: 2020-08-01 14:55:56|app.js:18|INFO|6344|Server listening on port: 8081
+info: 2020-08-01 14:55:56|index.js:12|INFO|6344|koa loaded!
+info: 2020-08-01 14:55:56|mysqlUtil.js:40|INFO|6344|Executing (default): SELECT 1+1 AS result
+info: 2020-08-01 14:55:56|mysqlUtil.js:49|INFO|6344|mysql connect start!
+info: 2020-08-01 14:55:59|app.js:18|INFO|21500|Server listening on port: 8081
+info: 2020-08-01 14:55:59|index.js:12|INFO|21500|koa loaded!
+info: 2020-08-01 14:55:59|mysqlUtil.js:40|INFO|21500|Executing (default): SELECT 1+1 AS result
+info: 2020-08-01 14:55:59|mysqlUtil.js:49|INFO|21500|mysql connect start!
+info: 2020-08-01 14:56:01|app.js:18|INFO|11192|Server listening on port: 8081
+info: 2020-08-01 14:56:01|index.js:12|INFO|11192|koa loaded!
+info: 2020-08-01 14:56:01|mysqlUtil.js:40|INFO|11192|Executing (default): SELECT 1+1 AS result
+info: 2020-08-01 14:56:01|mysqlUtil.js:49|INFO|11192|mysql connect start!
+info: 2020-08-01 14:56:27|app.js:18|INFO|10960|Server listening on port: 8081
+info: 2020-08-01 14:56:27|index.js:12|INFO|10960|koa loaded!
+info: 2020-08-01 14:56:27|mysqlUtil.js:40|INFO|10960|Executing (default): SELECT 1+1 AS result
+info: 2020-08-01 14:56:27|mysqlUtil.js:49|INFO|10960|mysql connect start!
+info: 2020-08-01 14:56:39|app.js:18|INFO|19356|Server listening on port: 8081
+info: 2020-08-01 14:56:39|index.js:12|INFO|19356|koa loaded!
+info: 2020-08-01 14:56:39|mysqlUtil.js:40|INFO|19356|Executing (default): SELECT 1+1 AS result
+info: 2020-08-01 14:56:39|mysqlUtil.js:49|INFO|19356|mysql connect start!
+info: 2020-08-01 14:56:51|app.js:18|INFO|20612|Server listening on port: 8081
+info: 2020-08-01 14:56:51|index.js:12|INFO|20612|koa loaded!
+info: 2020-08-01 14:56:51|mysqlUtil.js:40|INFO|20612|Executing (default): SELECT 1+1 AS result
+info: 2020-08-01 14:56:51|mysqlUtil.js:49|INFO|20612|mysql connect start!
+info: 2020-08-01 15:03:01|app.js:18|INFO|3004|Server listening on port: 8081
+info: 2020-08-01 15:03:01|index.js:12|INFO|3004|koa loaded!
+info: 2020-08-01 15:03:01|mysqlUtil.js:40|INFO|3004|Executing (default): SELECT 1+1 AS result
+info: 2020-08-01 15:03:01|mysqlUtil.js:49|INFO|3004|mysql connect start!
+info: 2020-08-01 15:03:12|app.js:18|INFO|21164|Server listening on port: 8081
+info: 2020-08-01 15:03:12|index.js:12|INFO|21164|koa loaded!
+info: 2020-08-01 15:03:13|mysqlUtil.js:40|INFO|21164|Executing (default): SELECT 1+1 AS result
+info: 2020-08-01 15:03:13|mysqlUtil.js:49|INFO|21164|mysql connect start!
+info: 2020-08-01 15:04:23|app.js:18|INFO|3008|Server listening on port: 8081
+info: 2020-08-01 15:04:23|index.js:12|INFO|3008|koa loaded!
+info: 2020-08-01 15:04:23|mysqlUtil.js:40|INFO|3008|Executing (default): SELECT 1+1 AS result
+info: 2020-08-01 15:04:23|mysqlUtil.js:49|INFO|3008|mysql connect start!
+info: 2020-08-01 15:06:57|app.js:18|INFO|11088|Server listening on port: 8081
+info: 2020-08-01 15:06:57|index.js:12|INFO|11088|koa loaded!
+info: 2020-08-01 15:06:57|mysqlUtil.js:40|INFO|11088|Executing (default): SELECT 1+1 AS result
+info: 2020-08-01 15:06:57|mysqlUtil.js:49|INFO|11088|mysql connect start!
+info: 2020-08-01 15:07:04|app.js:18|INFO|10876|Server listening on port: 8081
+info: 2020-08-01 15:07:04|index.js:12|INFO|10876|koa loaded!
+info: 2020-08-01 15:07:04|mysqlUtil.js:40|INFO|10876|Executing (default): SELECT 1+1 AS result
+info: 2020-08-01 15:07:04|mysqlUtil.js:49|INFO|10876|mysql connect start!
+info: 2020-08-01 15:07:26|app.js:18|INFO|5612|Server listening on port: 8081
+info: 2020-08-01 15:07:26|index.js:12|INFO|5612|koa loaded!
+info: 2020-08-01 15:07:26|mysqlUtil.js:40|INFO|5612|Executing (default): SELECT 1+1 AS result
+info: 2020-08-01 15:07:26|mysqlUtil.js:49|INFO|5612|mysql connect start!
+info: 2020-08-01 15:07:28|app.js:18|INFO|7280|Server listening on port: 8081
+info: 2020-08-01 15:07:28|index.js:12|INFO|7280|koa loaded!
+info: 2020-08-01 15:07:29|mysqlUtil.js:40|INFO|7280|Executing (default): SELECT 1+1 AS result
+info: 2020-08-01 15:07:29|mysqlUtil.js:49|INFO|7280|mysql connect start!
+info: 2020-08-01 15:07:32|app.js:18|INFO|7928|Server listening on port: 8081
+info: 2020-08-01 15:07:32|index.js:12|INFO|7928|koa loaded!
+info: 2020-08-01 15:07:32|mysqlUtil.js:40|INFO|7928|Executing (default): SELECT 1+1 AS result
+info: 2020-08-01 15:07:32|mysqlUtil.js:49|INFO|7928|mysql connect start!
+info: 2020-08-01 15:07:37|app.js:18|INFO|7512|Server listening on port: 8081
+info: 2020-08-01 15:07:37|index.js:12|INFO|7512|koa loaded!
+info: 2020-08-01 15:07:37|mysqlUtil.js:40|INFO|7512|Executing (default): SELECT 1+1 AS result
+info: 2020-08-01 15:07:37|mysqlUtil.js:49|INFO|7512|mysql connect start!
+info: 2020-08-01 15:08:01|app.js:18|INFO|12104|Server listening on port: 8081
+info: 2020-08-01 15:08:01|index.js:12|INFO|12104|koa loaded!
+info: 2020-08-01 15:08:01|mysqlUtil.js:40|INFO|12104|Executing (default): SELECT 1+1 AS result
+info: 2020-08-01 15:08:01|mysqlUtil.js:49|INFO|12104|mysql connect start!
+info: 2020-08-01 15:08:20|app.js:18|INFO|20772|Server listening on port: 8081
+info: 2020-08-01 15:08:20|index.js:12|INFO|20772|koa loaded!
+info: 2020-08-01 15:08:20|mysqlUtil.js:40|INFO|20772|Executing (default): SELECT 1+1 AS result
+info: 2020-08-01 15:08:20|mysqlUtil.js:49|INFO|20772|mysql connect start!
+info: 2020-08-01 15:08:48|app.js:18|INFO|15500|Server listening on port: 8081
+info: 2020-08-01 15:08:48|index.js:12|INFO|15500|koa loaded!
+info: 2020-08-01 15:08:48|mysqlUtil.js:40|INFO|15500|Executing (default): SELECT 1+1 AS result
+info: 2020-08-01 15:08:48|mysqlUtil.js:49|INFO|15500|mysql connect start!
+info: 2020-08-01 15:09:04|app.js:18|INFO|4660|Server listening on port: 8081
+info: 2020-08-01 15:09:04|index.js:12|INFO|4660|koa loaded!
+info: 2020-08-01 15:09:04|mysqlUtil.js:40|INFO|4660|Executing (default): SELECT 1+1 AS result
+info: 2020-08-01 15:09:04|mysqlUtil.js:49|INFO|4660|mysql connect start!
+info: 2020-08-01 15:09:27|app.js:18|INFO|9556|Server listening on port: 8081
+info: 2020-08-01 15:09:27|index.js:12|INFO|9556|koa loaded!
+info: 2020-08-01 15:09:27|mysqlUtil.js:40|INFO|9556|Executing (default): SELECT 1+1 AS result
+info: 2020-08-01 15:09:27|mysqlUtil.js:49|INFO|9556|mysql connect start!
+info: 2020-08-01 15:09:31|app.js:18|INFO|16608|Server listening on port: 8081
+info: 2020-08-01 15:09:31|index.js:12|INFO|16608|koa loaded!
+info: 2020-08-01 15:09:31|mysqlUtil.js:40|INFO|16608|Executing (default): SELECT 1+1 AS result
+info: 2020-08-01 15:09:31|mysqlUtil.js:49|INFO|16608|mysql connect start!
+info: 2020-08-01 15:09:44|app.js:18|INFO|15352|Server listening on port: 8081
+info: 2020-08-01 15:09:44|index.js:12|INFO|15352|koa loaded!
+info: 2020-08-01 15:09:44|mysqlUtil.js:40|INFO|15352|Executing (default): SELECT 1+1 AS result
+info: 2020-08-01 15:09:44|mysqlUtil.js:49|INFO|15352|mysql connect start!
+info: 2020-08-01 15:09:49|app.js:18|INFO|10924|Server listening on port: 8081
+info: 2020-08-01 15:09:49|index.js:12|INFO|10924|koa loaded!
+info: 2020-08-01 15:09:49|mysqlUtil.js:40|INFO|10924|Executing (default): SELECT 1+1 AS result
+info: 2020-08-01 15:09:49|mysqlUtil.js:49|INFO|10924|mysql connect start!
+info: 2020-08-01 15:09:59|app.js:18|INFO|18428|Server listening on port: 8081
+info: 2020-08-01 15:09:59|index.js:12|INFO|18428|koa loaded!
+info: 2020-08-01 15:09:59|mysqlUtil.js:40|INFO|18428|Executing (default): SELECT 1+1 AS result
+info: 2020-08-01 15:09:59|mysqlUtil.js:49|INFO|18428|mysql connect start!
+info: 2020-08-01 15:10:24|app.js:18|INFO|20836|Server listening on port: 8081
+info: 2020-08-01 15:10:24|index.js:12|INFO|20836|koa loaded!
+info: 2020-08-01 15:10:24|mysqlUtil.js:40|INFO|20836|Executing (default): SELECT 1+1 AS result
+info: 2020-08-01 15:10:24|mysqlUtil.js:49|INFO|20836|mysql connect start!
+info: 2020-08-01 15:10:35|app.js:18|INFO|17396|Server listening on port: 8081
+info: 2020-08-01 15:10:35|index.js:12|INFO|17396|koa loaded!
+info: 2020-08-01 15:10:35|mysqlUtil.js:40|INFO|17396|Executing (default): SELECT 1+1 AS result
+info: 2020-08-01 15:10:35|mysqlUtil.js:49|INFO|17396|mysql connect start!
+info: 2020-08-01 15:11:02|app.js:18|INFO|11752|Server listening on port: 8081
+info: 2020-08-01 15:11:02|index.js:12|INFO|11752|koa loaded!
+info: 2020-08-01 15:11:02|mysqlUtil.js:40|INFO|11752|Executing (default): SELECT 1+1 AS result
+info: 2020-08-01 15:11:02|mysqlUtil.js:49|INFO|11752|mysql connect start!
+info: 2020-08-01 15:11:11|app.js:18|INFO|20944|Server listening on port: 8081
+info: 2020-08-01 15:11:11|index.js:12|INFO|20944|koa loaded!
+info: 2020-08-01 15:11:11|mysqlUtil.js:40|INFO|20944|Executing (default): SELECT 1+1 AS result
+info: 2020-08-01 15:11:11|mysqlUtil.js:49|INFO|20944|mysql connect start!
+info: 2020-08-01 15:11:44|app.js:18|INFO|11336|Server listening on port: 8081
+info: 2020-08-01 15:11:44|index.js:12|INFO|11336|koa loaded!
+info: 2020-08-01 15:11:45|mysqlUtil.js:40|INFO|11336|Executing (default): SELECT 1+1 AS result
+info: 2020-08-01 15:11:45|mysqlUtil.js:49|INFO|11336|mysql connect start!
+info: 2020-08-01 15:11:46|app.js:18|INFO|20988|Server listening on port: 8081
+info: 2020-08-01 15:11:46|index.js:12|INFO|20988|koa loaded!
+info: 2020-08-01 15:11:46|mysqlUtil.js:40|INFO|20988|Executing (default): SELECT 1+1 AS result
+info: 2020-08-01 15:11:46|mysqlUtil.js:49|INFO|20988|mysql connect start!
+info: 2020-08-01 15:14:29|app.js:18|INFO|10260|Server listening on port: 8081
+info: 2020-08-01 15:14:29|index.js:12|INFO|10260|koa loaded!
+info: 2020-08-01 15:14:30|mysqlUtil.js:40|INFO|10260|Executing (default): SELECT 1+1 AS result
+info: 2020-08-01 15:14:30|mysqlUtil.js:49|INFO|10260|mysql connect start!
+info: 2020-08-01 15:14:33|app.js:18|INFO|3408|Server listening on port: 8081
+info: 2020-08-01 15:14:33|index.js:12|INFO|3408|koa loaded!
+info: 2020-08-01 15:14:33|mysqlUtil.js:40|INFO|3408|Executing (default): SELECT 1+1 AS result
+info: 2020-08-01 15:14:33|mysqlUtil.js:49|INFO|3408|mysql connect start!
+info: 2020-08-01 15:15:43|app.js:18|INFO|4652|Server listening on port: 8081
+info: 2020-08-01 15:15:43|index.js:12|INFO|4652|koa loaded!
+info: 2020-08-01 15:15:43|mysqlUtil.js:40|INFO|4652|Executing (default): SELECT 1+1 AS result
+info: 2020-08-01 15:15:43|mysqlUtil.js:49|INFO|4652|mysql connect start!
+info: 2020-08-01 15:16:00|app.js:18|INFO|14120|Server listening on port: 8081
+info: 2020-08-01 15:16:00|index.js:12|INFO|14120|koa loaded!
+info: 2020-08-01 15:16:00|mysqlUtil.js:40|INFO|14120|Executing (default): SELECT 1+1 AS result
+info: 2020-08-01 15:16:00|mysqlUtil.js:49|INFO|14120|mysql connect start!
+info: 2020-08-01 15:16:10|app.js:18|INFO|13892|Server listening on port: 8081
+info: 2020-08-01 15:16:10|index.js:12|INFO|13892|koa loaded!
+info: 2020-08-01 15:16:10|mysqlUtil.js:40|INFO|13892|Executing (default): SELECT 1+1 AS result
+info: 2020-08-01 15:16:10|mysqlUtil.js:49|INFO|13892|mysql connect start!
+info: 2020-08-01 15:16:26|app.js:18|INFO|19440|Server listening on port: 8081
+info: 2020-08-01 15:16:26|index.js:12|INFO|19440|koa loaded!
+info: 2020-08-01 15:16:26|mysqlUtil.js:40|INFO|19440|Executing (default): SELECT 1+1 AS result
+info: 2020-08-01 15:16:26|mysqlUtil.js:49|INFO|19440|mysql connect start!
+info: 2020-08-01 15:17:05|app.js:18|INFO|12564|Server listening on port: 8081
+info: 2020-08-01 15:17:05|index.js:12|INFO|12564|koa loaded!
+info: 2020-08-01 15:17:05|mysqlUtil.js:40|INFO|12564|Executing (default): SELECT 1+1 AS result
+info: 2020-08-01 15:17:05|mysqlUtil.js:49|INFO|12564|mysql connect start!
+info: 2020-08-01 15:17:44|app.js:18|INFO|14032|Server listening on port: 8081
+info: 2020-08-01 15:17:44|index.js:12|INFO|14032|koa loaded!
+info: 2020-08-01 15:17:44|mysqlUtil.js:40|INFO|14032|Executing (default): SELECT 1+1 AS result
+info: 2020-08-01 15:17:44|mysqlUtil.js:49|INFO|14032|mysql connect start!
+info: 2020-08-01 15:17:47|app.js:18|INFO|21180|Server listening on port: 8081
+info: 2020-08-01 15:17:47|index.js:12|INFO|21180|koa loaded!
+info: 2020-08-01 15:17:48|mysqlUtil.js:40|INFO|21180|Executing (default): SELECT 1+1 AS result
+info: 2020-08-01 15:17:48|mysqlUtil.js:49|INFO|21180|mysql connect start!
+info: 2020-08-01 15:18:01|app.js:18|INFO|4640|Server listening on port: 8081
+info: 2020-08-01 15:18:01|index.js:12|INFO|4640|koa loaded!
+info: 2020-08-01 15:18:01|mysqlUtil.js:40|INFO|4640|Executing (default): SELECT 1+1 AS result
+info: 2020-08-01 15:18:01|mysqlUtil.js:49|INFO|4640|mysql connect start!
+info: 2020-08-01 15:18:23|app.js:18|INFO|21424|Server listening on port: 8081
+info: 2020-08-01 15:18:23|index.js:12|INFO|21424|koa loaded!
+info: 2020-08-01 15:18:23|mysqlUtil.js:40|INFO|21424|Executing (default): SELECT 1+1 AS result
+info: 2020-08-01 15:18:23|mysqlUtil.js:49|INFO|21424|mysql connect start!
+info: 2020-08-01 15:19:35|app.js:18|INFO|4760|Server listening on port: 8081
+info: 2020-08-01 15:19:35|index.js:12|INFO|4760|koa loaded!
+info: 2020-08-01 15:19:35|mysqlUtil.js:40|INFO|4760|Executing (default): SELECT 1+1 AS result
+info: 2020-08-01 15:19:35|mysqlUtil.js:49|INFO|4760|mysql connect start!
+info: 2020-08-01 15:21:01|app.js:18|INFO|20984|Server listening on port: 8081
+info: 2020-08-01 15:21:01|index.js:12|INFO|20984|koa loaded!
+info: 2020-08-01 15:21:01|mysqlUtil.js:40|INFO|20984|Executing (default): SELECT 1+1 AS result
+info: 2020-08-01 15:21:01|mysqlUtil.js:49|INFO|20984|mysql connect start!
+info: 2020-08-01 15:22:37|app.js:18|INFO|1060|Server listening on port: 8081
+info: 2020-08-01 15:22:37|index.js:12|INFO|1060|koa loaded!
+info: 2020-08-01 15:22:37|mysqlUtil.js:40|INFO|1060|Executing (default): SELECT 1+1 AS result
+info: 2020-08-01 15:22:37|mysqlUtil.js:49|INFO|1060|mysql connect start!
+info: 2020-08-01 15:22:39|app.js:18|INFO|18512|Server listening on port: 8081
+info: 2020-08-01 15:22:39|index.js:12|INFO|18512|koa loaded!
+info: 2020-08-01 15:22:39|mysqlUtil.js:40|INFO|18512|Executing (default): SELECT 1+1 AS result
+info: 2020-08-01 15:22:39|mysqlUtil.js:49|INFO|18512|mysql connect start!
+info: 2020-08-01 15:22:42|app.js:18|INFO|4864|Server listening on port: 8081
+info: 2020-08-01 15:22:42|index.js:12|INFO|4864|koa loaded!
+info: 2020-08-01 15:22:42|mysqlUtil.js:40|INFO|4864|Executing (default): SELECT 1+1 AS result
+info: 2020-08-01 15:22:42|mysqlUtil.js:49|INFO|4864|mysql connect start!
+info: 2020-08-01 15:22:45|app.js:18|INFO|17996|Server listening on port: 8081
+info: 2020-08-01 15:22:45|index.js:12|INFO|17996|koa loaded!
+info: 2020-08-01 15:22:45|mysqlUtil.js:40|INFO|17996|Executing (default): SELECT 1+1 AS result
+info: 2020-08-01 15:22:45|mysqlUtil.js:49|INFO|17996|mysql connect start!
+info: 2020-08-01 15:23:08|app.js:18|INFO|20588|Server listening on port: 8081
+info: 2020-08-01 15:23:08|index.js:12|INFO|20588|koa loaded!
+info: 2020-08-01 15:23:08|mysqlUtil.js:40|INFO|20588|Executing (default): SELECT 1+1 AS result
+info: 2020-08-01 15:23:08|mysqlUtil.js:49|INFO|20588|mysql connect start!
+info: 2020-08-01 15:23:10|app.js:18|INFO|21364|Server listening on port: 8081
+info: 2020-08-01 15:23:10|index.js:12|INFO|21364|koa loaded!
+info: 2020-08-01 15:23:10|mysqlUtil.js:40|INFO|21364|Executing (default): SELECT 1+1 AS result
+info: 2020-08-01 15:23:10|mysqlUtil.js:49|INFO|21364|mysql connect start!
+info: 2020-08-01 15:23:14|app.js:18|INFO|20528|Server listening on port: 8081
+info: 2020-08-01 15:23:14|index.js:12|INFO|20528|koa loaded!
+info: 2020-08-01 15:23:14|mysqlUtil.js:40|INFO|20528|Executing (default): SELECT 1+1 AS result
+info: 2020-08-01 15:23:14|mysqlUtil.js:49|INFO|20528|mysql connect start!
+info: 2020-08-01 15:23:31|app.js:18|INFO|11448|Server listening on port: 8081
+info: 2020-08-01 15:23:31|index.js:12|INFO|11448|koa loaded!
+info: 2020-08-01 15:23:32|mysqlUtil.js:40|INFO|11448|Executing (default): SELECT 1+1 AS result
+info: 2020-08-01 15:23:32|mysqlUtil.js:49|INFO|11448|mysql connect start!
+info: 2020-08-01 15:23:36|app.js:18|INFO|20672|Server listening on port: 8081
+info: 2020-08-01 15:23:36|index.js:12|INFO|20672|koa loaded!
+info: 2020-08-01 15:23:36|mysqlUtil.js:40|INFO|20672|Executing (default): SELECT 1+1 AS result
+info: 2020-08-01 15:23:36|mysqlUtil.js:49|INFO|20672|mysql connect start!
+info: 2020-08-01 15:23:41|app.js:18|INFO|1648|Server listening on port: 8081
+info: 2020-08-01 15:23:40|index.js:12|INFO|1648|koa loaded!
+info: 2020-08-01 15:23:41|mysqlUtil.js:40|INFO|1648|Executing (default): SELECT 1+1 AS result
+info: 2020-08-01 15:23:41|mysqlUtil.js:49|INFO|1648|mysql connect start!
+info: 2020-08-01 15:23:43|app.js:18|INFO|19660|Server listening on port: 8081
+info: 2020-08-01 15:23:43|index.js:12|INFO|19660|koa loaded!
+info: 2020-08-01 15:23:43|mysqlUtil.js:40|INFO|19660|Executing (default): SELECT 1+1 AS result
+info: 2020-08-01 15:23:43|mysqlUtil.js:49|INFO|19660|mysql connect start!
+info: 2020-08-01 15:25:41|app.js:18|INFO|21272|Server listening on port: 8081
+info: 2020-08-01 15:25:41|index.js:12|INFO|21272|koa loaded!
+info: 2020-08-01 15:25:41|mysqlUtil.js:40|INFO|21272|Executing (default): SELECT 1+1 AS result
+info: 2020-08-01 15:25:41|mysqlUtil.js:49|INFO|21272|mysql connect start!
+info: 2020-08-01 15:26:43|app.js:18|INFO|21480|Server listening on port: 8081
+info: 2020-08-01 15:26:43|index.js:12|INFO|21480|koa loaded!
+info: 2020-08-01 15:26:43|mysqlUtil.js:40|INFO|21480|Executing (default): SELECT 1+1 AS result
+info: 2020-08-01 15:26:43|mysqlUtil.js:49|INFO|21480|mysql connect start!
+info: 2020-08-01 15:26:52|app.js:18|INFO|11040|Server listening on port: 8081
+info: 2020-08-01 15:26:52|index.js:12|INFO|11040|koa loaded!
+info: 2020-08-01 15:26:52|mysqlUtil.js:40|INFO|11040|Executing (default): SELECT 1+1 AS result
+info: 2020-08-01 15:26:52|mysqlUtil.js:49|INFO|11040|mysql connect start!
+info: 2020-08-01 15:26:57|app.js:18|INFO|19176|Server listening on port: 8081
+info: 2020-08-01 15:26:57|index.js:12|INFO|19176|koa loaded!
+info: 2020-08-01 15:26:57|mysqlUtil.js:40|INFO|19176|Executing (default): SELECT 1+1 AS result
+info: 2020-08-01 15:26:57|mysqlUtil.js:49|INFO|19176|mysql connect start!
+info: 2020-08-01 15:27:02|app.js:18|INFO|21160|Server listening on port: 8081
+info: 2020-08-01 15:27:02|index.js:12|INFO|21160|koa loaded!
+info: 2020-08-01 15:27:02|mysqlUtil.js:40|INFO|21160|Executing (default): SELECT 1+1 AS result
+info: 2020-08-01 15:27:02|mysqlUtil.js:49|INFO|21160|mysql connect start!
+info: 2020-08-01 15:27:53|app.js:18|INFO|16992|Server listening on port: 8081
+info: 2020-08-01 15:27:53|index.js:12|INFO|16992|koa loaded!
+info: 2020-08-01 15:27:53|mysqlUtil.js:40|INFO|16992|Executing (default): SELECT 1+1 AS result
+info: 2020-08-01 15:27:53|mysqlUtil.js:49|INFO|16992|mysql connect start!
+info: 2020-08-01 15:27:55|app.js:18|INFO|7972|Server listening on port: 8081
+info: 2020-08-01 15:27:55|index.js:12|INFO|7972|koa loaded!
+info: 2020-08-01 15:27:55|mysqlUtil.js:40|INFO|7972|Executing (default): SELECT 1+1 AS result
+info: 2020-08-01 15:27:55|mysqlUtil.js:49|INFO|7972|mysql connect start!
+info: 2020-08-01 15:28:35|app.js:18|INFO|2912|Server listening on port: 8081
+info: 2020-08-01 15:28:35|index.js:12|INFO|2912|koa loaded!
+info: 2020-08-01 15:28:35|mysqlUtil.js:40|INFO|2912|Executing (default): SELECT 1+1 AS result
+info: 2020-08-01 15:28:35|mysqlUtil.js:49|INFO|2912|mysql connect start!
+info: 2020-08-01 15:29:19|app.js:18|INFO|17668|Server listening on port: 8081
+info: 2020-08-01 15:29:19|index.js:12|INFO|17668|koa loaded!
+info: 2020-08-01 15:29:19|mysqlUtil.js:40|INFO|17668|Executing (default): SELECT 1+1 AS result
+info: 2020-08-01 15:29:19|mysqlUtil.js:49|INFO|17668|mysql connect start!
+info: 2020-08-01 15:29:22|app.js:18|INFO|4120|Server listening on port: 8081
+info: 2020-08-01 15:29:22|index.js:12|INFO|4120|koa loaded!
+info: 2020-08-01 15:29:22|mysqlUtil.js:40|INFO|4120|Executing (default): SELECT 1+1 AS result
+info: 2020-08-01 15:29:22|mysqlUtil.js:49|INFO|4120|mysql connect start!
+info: 2020-08-01 15:29:27|app.js:18|INFO|21328|Server listening on port: 8081
+info: 2020-08-01 15:29:27|index.js:12|INFO|21328|koa loaded!
+info: 2020-08-01 15:29:27|mysqlUtil.js:40|INFO|21328|Executing (default): SELECT 1+1 AS result
+info: 2020-08-01 15:29:27|mysqlUtil.js:49|INFO|21328|mysql connect start!
+info: 2020-08-01 15:29:40|app.js:18|INFO|13000|Server listening on port: 8081
+info: 2020-08-01 15:29:40|index.js:12|INFO|13000|koa loaded!
+info: 2020-08-01 15:29:40|mysqlUtil.js:40|INFO|13000|Executing (default): SELECT 1+1 AS result
+info: 2020-08-01 15:29:40|mysqlUtil.js:49|INFO|13000|mysql connect start!
+info: 2020-08-01 15:29:48|app.js:18|INFO|9876|Server listening on port: 8081
+info: 2020-08-01 15:29:48|index.js:12|INFO|9876|koa loaded!
+info: 2020-08-01 15:29:48|mysqlUtil.js:40|INFO|9876|Executing (default): SELECT 1+1 AS result
+info: 2020-08-01 15:29:48|mysqlUtil.js:49|INFO|9876|mysql connect start!
+info: 2020-08-01 15:29:53|app.js:18|INFO|21380|Server listening on port: 8081
+info: 2020-08-01 15:29:53|index.js:12|INFO|21380|koa loaded!
+info: 2020-08-01 15:29:53|mysqlUtil.js:40|INFO|21380|Executing (default): SELECT 1+1 AS result
+info: 2020-08-01 15:29:53|mysqlUtil.js:49|INFO|21380|mysql connect start!
+info: 2020-08-01 15:30:05|app.js:18|INFO|20908|Server listening on port: 8081
+info: 2020-08-01 15:30:05|index.js:12|INFO|20908|koa loaded!
+info: 2020-08-01 15:30:05|mysqlUtil.js:40|INFO|20908|Executing (default): SELECT 1+1 AS result
+info: 2020-08-01 15:30:05|mysqlUtil.js:49|INFO|20908|mysql connect start!
+info: 2020-08-01 15:30:08|app.js:18|INFO|13892|Server listening on port: 8081
+info: 2020-08-01 15:30:08|index.js:12|INFO|13892|koa loaded!
+info: 2020-08-01 15:30:08|mysqlUtil.js:40|INFO|13892|Executing (default): SELECT 1+1 AS result
+info: 2020-08-01 15:30:08|mysqlUtil.js:49|INFO|13892|mysql connect start!
+info: 2020-08-01 15:30:11|app.js:18|INFO|21132|Server listening on port: 8081
+info: 2020-08-01 15:30:11|index.js:12|INFO|21132|koa loaded!
+info: 2020-08-01 15:30:11|mysqlUtil.js:40|INFO|21132|Executing (default): SELECT 1+1 AS result
+info: 2020-08-01 15:30:11|mysqlUtil.js:49|INFO|21132|mysql connect start!
+info: 2020-08-01 15:30:13|app.js:18|INFO|7664|Server listening on port: 8081
+info: 2020-08-01 15:30:13|index.js:12|INFO|7664|koa loaded!
+info: 2020-08-01 15:30:13|mysqlUtil.js:40|INFO|7664|Executing (default): SELECT 1+1 AS result
+info: 2020-08-01 15:30:13|mysqlUtil.js:49|INFO|7664|mysql connect start!
+info: 2020-08-01 15:30:27|app.js:18|INFO|20816|Server listening on port: 8081
+info: 2020-08-01 15:30:27|index.js:12|INFO|20816|koa loaded!
+info: 2020-08-01 15:30:27|mysqlUtil.js:40|INFO|20816|Executing (default): SELECT 1+1 AS result
+info: 2020-08-01 15:30:27|mysqlUtil.js:49|INFO|20816|mysql connect start!
+info: 2020-08-01 15:31:00|app.js:18|INFO|12484|Server listening on port: 8081
+info: 2020-08-01 15:31:00|index.js:12|INFO|12484|koa loaded!
+info: 2020-08-01 15:31:00|mysqlUtil.js:40|INFO|12484|Executing (default): SELECT 1+1 AS result
+info: 2020-08-01 15:31:00|mysqlUtil.js:49|INFO|12484|mysql connect start!
+info: 2020-08-01 15:31:39|app.js:18|INFO|18512|Server listening on port: 8081
+info: 2020-08-01 15:31:39|index.js:12|INFO|18512|koa loaded!
+info: 2020-08-01 15:31:39|mysqlUtil.js:40|INFO|18512|Executing (default): SELECT 1+1 AS result
+info: 2020-08-01 15:31:39|mysqlUtil.js:49|INFO|18512|mysql connect start!
+info: 2020-08-01 15:31:41|app.js:18|INFO|14776|Server listening on port: 8081
+info: 2020-08-01 15:31:41|index.js:12|INFO|14776|koa loaded!
+info: 2020-08-01 15:31:42|mysqlUtil.js:40|INFO|14776|Executing (default): SELECT 1+1 AS result
+info: 2020-08-01 15:31:42|mysqlUtil.js:49|INFO|14776|mysql connect start!
+info: 2020-08-01 15:31:54|app.js:18|INFO|11504|Server listening on port: 8081
+info: 2020-08-01 15:31:54|index.js:12|INFO|11504|koa loaded!
+info: 2020-08-01 15:31:54|mysqlUtil.js:40|INFO|11504|Executing (default): SELECT 1+1 AS result
+info: 2020-08-01 15:31:54|mysqlUtil.js:49|INFO|11504|mysql connect start!
+info: 2020-08-01 15:32:15|app.js:18|INFO|9960|Server listening on port: 8081
+info: 2020-08-01 15:32:15|index.js:12|INFO|9960|koa loaded!
+info: 2020-08-01 15:32:16|mysqlUtil.js:40|INFO|9960|Executing (default): SELECT 1+1 AS result
+info: 2020-08-01 15:32:16|mysqlUtil.js:49|INFO|9960|mysql connect start!
+info: 2020-08-01 15:32:28|app.js:18|INFO|18668|Server listening on port: 8081
+info: 2020-08-01 15:32:28|index.js:12|INFO|18668|koa loaded!
+info: 2020-08-01 15:32:28|mysqlUtil.js:40|INFO|18668|Executing (default): SELECT 1+1 AS result
+info: 2020-08-01 15:32:28|mysqlUtil.js:49|INFO|18668|mysql connect start!
+info: 2020-08-01 15:33:14|app.js:18|INFO|8|Server listening on port: 8081
+info: 2020-08-01 15:33:14|index.js:12|INFO|8|koa loaded!
+info: 2020-08-01 15:33:14|mysqlUtil.js:40|INFO|8|Executing (default): SELECT 1+1 AS result
+info: 2020-08-01 15:33:14|mysqlUtil.js:49|INFO|8|mysql connect start!
+info: 2020-08-01 15:34:19|app.js:18|INFO|10704|Server listening on port: 8081
+info: 2020-08-01 15:34:19|index.js:12|INFO|10704|koa loaded!
+info: 2020-08-01 15:34:20|mysqlUtil.js:40|INFO|10704|Executing (default): SELECT 1+1 AS result
+info: 2020-08-01 15:34:20|mysqlUtil.js:49|INFO|10704|mysql connect start!
+info: 2020-08-01 15:34:22|app.js:18|INFO|20936|Server listening on port: 8081
+info: 2020-08-01 15:34:22|index.js:12|INFO|20936|koa loaded!
+info: 2020-08-01 15:34:22|mysqlUtil.js:40|INFO|20936|Executing (default): SELECT 1+1 AS result
+info: 2020-08-01 15:34:22|mysqlUtil.js:49|INFO|20936|mysql connect start!
+info: 2020-08-01 15:34:41|app.js:18|INFO|20732|Server listening on port: 8081
+info: 2020-08-01 15:34:41|index.js:12|INFO|20732|koa loaded!
+info: 2020-08-01 15:34:41|mysqlUtil.js:40|INFO|20732|Executing (default): SELECT 1+1 AS result
+info: 2020-08-01 15:34:41|mysqlUtil.js:49|INFO|20732|mysql connect start!
+info: 2020-08-01 15:34:43|app.js:18|INFO|12400|Server listening on port: 8081
+info: 2020-08-01 15:34:43|index.js:12|INFO|12400|koa loaded!
+info: 2020-08-01 15:34:43|mysqlUtil.js:40|INFO|12400|Executing (default): SELECT 1+1 AS result
+info: 2020-08-01 15:34:43|mysqlUtil.js:49|INFO|12400|mysql connect start!
+info: 2020-08-01 15:34:47|app.js:18|INFO|21248|Server listening on port: 8081
+info: 2020-08-01 15:34:47|index.js:12|INFO|21248|koa loaded!
+info: 2020-08-01 15:34:47|mysqlUtil.js:40|INFO|21248|Executing (default): SELECT 1+1 AS result
+info: 2020-08-01 15:34:47|mysqlUtil.js:49|INFO|21248|mysql connect start!
+info: 2020-08-01 15:34:56|app.js:18|INFO|3444|Server listening on port: 8081
+info: 2020-08-01 15:34:56|index.js:12|INFO|3444|koa loaded!
+info: 2020-08-01 15:34:56|mysqlUtil.js:40|INFO|3444|Executing (default): SELECT 1+1 AS result
+info: 2020-08-01 15:34:56|mysqlUtil.js:49|INFO|3444|mysql connect start!
+info: 2020-08-01 15:35:02|app.js:18|INFO|9884|Server listening on port: 8081
+info: 2020-08-01 15:35:02|index.js:12|INFO|9884|koa loaded!
+info: 2020-08-01 15:35:02|mysqlUtil.js:40|INFO|9884|Executing (default): SELECT 1+1 AS result
+info: 2020-08-01 15:35:02|mysqlUtil.js:49|INFO|9884|mysql connect start!
+info: 2020-08-01 15:35:25|app.js:18|INFO|7720|Server listening on port: 8081
+info: 2020-08-01 15:35:25|index.js:12|INFO|7720|koa loaded!
+info: 2020-08-01 15:35:25|mysqlUtil.js:40|INFO|7720|Executing (default): SELECT 1+1 AS result
+info: 2020-08-01 15:35:25|mysqlUtil.js:49|INFO|7720|mysql connect start!
+info: 2020-08-01 15:35:34|app.js:18|INFO|5272|Server listening on port: 8081
+info: 2020-08-01 15:35:34|index.js:12|INFO|5272|koa loaded!
+info: 2020-08-01 15:35:34|mysqlUtil.js:40|INFO|5272|Executing (default): SELECT 1+1 AS result
+info: 2020-08-01 15:35:34|mysqlUtil.js:49|INFO|5272|mysql connect start!
+info: 2020-08-01 15:36:09|app.js:18|INFO|5196|Server listening on port: 8081
+info: 2020-08-01 15:36:09|index.js:12|INFO|5196|koa loaded!
+info: 2020-08-01 15:36:09|mysqlUtil.js:40|INFO|5196|Executing (default): SELECT 1+1 AS result
+info: 2020-08-01 15:36:09|mysqlUtil.js:49|INFO|5196|mysql connect start!
+info: 2020-08-01 15:36:34|app.js:18|INFO|3840|Server listening on port: 8081
+info: 2020-08-01 15:36:34|index.js:12|INFO|3840|koa loaded!
+info: 2020-08-01 15:36:34|mysqlUtil.js:40|INFO|3840|Executing (default): SELECT 1+1 AS result
+info: 2020-08-01 15:36:34|mysqlUtil.js:49|INFO|3840|mysql connect start!
+info: 2020-08-01 15:36:37|app.js:18|INFO|13124|Server listening on port: 8081
+info: 2020-08-01 15:36:37|index.js:12|INFO|13124|koa loaded!
+info: 2020-08-01 15:36:37|mysqlUtil.js:40|INFO|13124|Executing (default): SELECT 1+1 AS result
+info: 2020-08-01 15:36:37|mysqlUtil.js:49|INFO|13124|mysql connect start!
+info: 2020-08-01 15:37:20|app.js:18|INFO|7392|Server listening on port: 8081
+info: 2020-08-01 15:37:20|index.js:12|INFO|7392|koa loaded!
+info: 2020-08-01 15:37:20|mysqlUtil.js:40|INFO|7392|Executing (default): SELECT 1+1 AS result
+info: 2020-08-01 15:37:20|mysqlUtil.js:49|INFO|7392|mysql connect start!
+info: 2020-08-01 15:37:26|app.js:18|INFO|4008|Server listening on port: 8081
+info: 2020-08-01 15:37:26|index.js:12|INFO|4008|koa loaded!
+info: 2020-08-01 15:37:26|mysqlUtil.js:40|INFO|4008|Executing (default): SELECT 1+1 AS result
+info: 2020-08-01 15:37:26|mysqlUtil.js:49|INFO|4008|mysql connect start!
+info: 2020-08-01 15:37:40|app.js:18|INFO|9120|Server listening on port: 8081
+info: 2020-08-01 15:37:40|index.js:12|INFO|9120|koa loaded!
+info: 2020-08-01 15:37:40|mysqlUtil.js:40|INFO|9120|Executing (default): SELECT 1+1 AS result
+info: 2020-08-01 15:37:40|mysqlUtil.js:49|INFO|9120|mysql connect start!
+info: 2020-08-01 15:37:45|app.js:18|INFO|18212|Server listening on port: 8081
+info: 2020-08-01 15:37:45|index.js:12|INFO|18212|koa loaded!
+info: 2020-08-01 15:37:45|mysqlUtil.js:40|INFO|18212|Executing (default): SELECT 1+1 AS result
+info: 2020-08-01 15:37:45|mysqlUtil.js:49|INFO|18212|mysql connect start!
+info: 2020-08-01 15:38:06|app.js:18|INFO|21116|Server listening on port: 8081
+info: 2020-08-01 15:38:06|index.js:12|INFO|21116|koa loaded!
+info: 2020-08-01 15:38:06|mysqlUtil.js:40|INFO|21116|Executing (default): SELECT 1+1 AS result
+info: 2020-08-01 15:38:06|mysqlUtil.js:49|INFO|21116|mysql connect start!
+info: 2020-08-01 15:38:12|app.js:18|INFO|12748|Server listening on port: 8081
+info: 2020-08-01 15:38:12|index.js:12|INFO|12748|koa loaded!
+info: 2020-08-01 15:38:12|mysqlUtil.js:40|INFO|12748|Executing (default): SELECT 1+1 AS result
+info: 2020-08-01 15:38:12|mysqlUtil.js:49|INFO|12748|mysql connect start!
+info: 2020-08-01 15:38:36|app.js:18|INFO|16432|Server listening on port: 8081
+info: 2020-08-01 15:38:36|index.js:12|INFO|16432|koa loaded!
+info: 2020-08-01 15:38:37|mysqlUtil.js:40|INFO|16432|Executing (default): SELECT 1+1 AS result
+info: 2020-08-01 15:38:37|mysqlUtil.js:49|INFO|16432|mysql connect start!
+info: 2020-08-01 15:38:42|app.js:18|INFO|2076|Server listening on port: 8081
+info: 2020-08-01 15:38:42|index.js:12|INFO|2076|koa loaded!
+info: 2020-08-01 15:38:43|mysqlUtil.js:40|INFO|2076|Executing (default): SELECT 1+1 AS result
+info: 2020-08-01 15:38:43|mysqlUtil.js:49|INFO|2076|mysql connect start!
+info: 2020-08-01 15:38:58|app.js:18|INFO|20476|Server listening on port: 8081
+info: 2020-08-01 15:38:58|index.js:12|INFO|20476|koa loaded!
+info: 2020-08-01 15:38:58|mysqlUtil.js:40|INFO|20476|Executing (default): SELECT 1+1 AS result
+info: 2020-08-01 15:38:58|mysqlUtil.js:49|INFO|20476|mysql connect start!
+info: 2020-08-01 15:39:14|app.js:18|INFO|11480|Server listening on port: 8081
+info: 2020-08-01 15:39:14|index.js:12|INFO|11480|koa loaded!
+info: 2020-08-01 15:39:14|mysqlUtil.js:40|INFO|11480|Executing (default): SELECT 1+1 AS result
+info: 2020-08-01 15:39:14|mysqlUtil.js:49|INFO|11480|mysql connect start!
+info: 2020-08-01 15:39:22|app.js:18|INFO|10412|Server listening on port: 8081
+info: 2020-08-01 15:39:22|index.js:12|INFO|10412|koa loaded!
+info: 2020-08-01 15:39:22|mysqlUtil.js:40|INFO|10412|Executing (default): SELECT 1+1 AS result
+info: 2020-08-01 15:39:22|mysqlUtil.js:49|INFO|10412|mysql connect start!
+info: 2020-08-01 15:40:41|app.js:18|INFO|21328|Server listening on port: 8081
+info: 2020-08-01 15:40:41|index.js:12|INFO|21328|koa loaded!
+info: 2020-08-01 15:40:41|mysqlUtil.js:40|INFO|21328|Executing (default): SELECT 1+1 AS result
+info: 2020-08-01 15:40:41|mysqlUtil.js:49|INFO|21328|mysql connect start!
+info: 2020-08-01 15:40:44|app.js:18|INFO|6344|Server listening on port: 8081
+info: 2020-08-01 15:40:44|index.js:12|INFO|6344|koa loaded!
+info: 2020-08-01 15:40:45|mysqlUtil.js:40|INFO|6344|Executing (default): SELECT 1+1 AS result
+info: 2020-08-01 15:40:45|mysqlUtil.js:49|INFO|6344|mysql connect start!
+info: 2020-08-01 15:40:46|app.js:18|INFO|2424|Server listening on port: 8081
+info: 2020-08-01 15:40:46|index.js:12|INFO|2424|koa loaded!
+info: 2020-08-01 15:40:46|mysqlUtil.js:40|INFO|2424|Executing (default): SELECT 1+1 AS result
+info: 2020-08-01 15:40:46|mysqlUtil.js:49|INFO|2424|mysql connect start!
+info: 2020-08-01 15:40:56|app.js:18|INFO|18884|Server listening on port: 8081
+info: 2020-08-01 15:40:56|index.js:12|INFO|18884|koa loaded!
+info: 2020-08-01 15:40:56|mysqlUtil.js:40|INFO|18884|Executing (default): SELECT 1+1 AS result
+info: 2020-08-01 15:40:56|mysqlUtil.js:49|INFO|18884|mysql connect start!
+info: 2020-08-01 15:41:00|app.js:18|INFO|19720|Server listening on port: 8081
+info: 2020-08-01 15:41:00|index.js:12|INFO|19720|koa loaded!
+info: 2020-08-01 15:41:00|mysqlUtil.js:40|INFO|19720|Executing (default): SELECT 1+1 AS result
+info: 2020-08-01 15:41:00|mysqlUtil.js:49|INFO|19720|mysql connect start!
+info: 2020-08-01 15:41:06|app.js:18|INFO|18428|Server listening on port: 8081
+info: 2020-08-01 15:41:06|index.js:12|INFO|18428|koa loaded!
+info: 2020-08-01 15:41:06|mysqlUtil.js:40|INFO|18428|Executing (default): SELECT 1+1 AS result
+info: 2020-08-01 15:41:06|mysqlUtil.js:49|INFO|18428|mysql connect start!
+info: 2020-08-01 15:41:14|app.js:18|INFO|10732|Server listening on port: 8081
+info: 2020-08-01 15:41:14|index.js:12|INFO|10732|koa loaded!
+info: 2020-08-01 15:41:14|mysqlUtil.js:40|INFO|10732|Executing (default): SELECT 1+1 AS result
+info: 2020-08-01 15:41:14|mysqlUtil.js:49|INFO|10732|mysql connect start!
+info: 2020-08-01 15:41:40|app.js:18|INFO|19212|Server listening on port: 8081
+info: 2020-08-01 15:41:40|index.js:12|INFO|19212|koa loaded!
+info: 2020-08-01 15:41:40|mysqlUtil.js:40|INFO|19212|Executing (default): SELECT 1+1 AS result
+info: 2020-08-01 15:41:40|mysqlUtil.js:49|INFO|19212|mysql connect start!
+info: 2020-08-01 15:42:03|app.js:18|INFO|1904|Server listening on port: 8081
+info: 2020-08-01 15:42:03|index.js:12|INFO|1904|koa loaded!
+info: 2020-08-01 15:42:03|mysqlUtil.js:40|INFO|1904|Executing (default): SELECT 1+1 AS result
+info: 2020-08-01 15:42:03|mysqlUtil.js:49|INFO|1904|mysql connect start!
+info: 2020-08-01 15:42:07|app.js:18|INFO|16524|Server listening on port: 8081
+info: 2020-08-01 15:42:07|index.js:12|INFO|16524|koa loaded!
+info: 2020-08-01 15:42:07|mysqlUtil.js:40|INFO|16524|Executing (default): SELECT 1+1 AS result
+info: 2020-08-01 15:42:07|mysqlUtil.js:49|INFO|16524|mysql connect start!
+info: 2020-08-01 15:42:11|app.js:18|INFO|8592|Server listening on port: 8081
+info: 2020-08-01 15:42:11|index.js:12|INFO|8592|koa loaded!
+info: 2020-08-01 15:42:11|mysqlUtil.js:40|INFO|8592|Executing (default): SELECT 1+1 AS result
+info: 2020-08-01 15:42:11|mysqlUtil.js:49|INFO|8592|mysql connect start!
+info: 2020-08-01 15:42:14|app.js:18|INFO|11448|Server listening on port: 8081
+info: 2020-08-01 15:42:14|index.js:12|INFO|11448|koa loaded!
+info: 2020-08-01 15:42:14|mysqlUtil.js:40|INFO|11448|Executing (default): SELECT 1+1 AS result
+info: 2020-08-01 15:42:14|mysqlUtil.js:49|INFO|11448|mysql connect start!
+info: 2020-08-01 15:42:24|app.js:18|INFO|9904|Server listening on port: 8081
+info: 2020-08-01 15:42:24|index.js:12|INFO|9904|koa loaded!
+info: 2020-08-01 15:42:24|mysqlUtil.js:40|INFO|9904|Executing (default): SELECT 1+1 AS result
+info: 2020-08-01 15:42:24|mysqlUtil.js:49|INFO|9904|mysql connect start!
+info: 2020-08-01 15:42:27|app.js:18|INFO|6716|Server listening on port: 8081
+info: 2020-08-01 15:42:27|index.js:12|INFO|6716|koa loaded!
+info: 2020-08-01 15:42:27|mysqlUtil.js:40|INFO|6716|Executing (default): SELECT 1+1 AS result
+info: 2020-08-01 15:42:27|mysqlUtil.js:49|INFO|6716|mysql connect start!
+info: 2020-08-01 15:42:31|app.js:18|INFO|3964|Server listening on port: 8081
+info: 2020-08-01 15:42:31|index.js:12|INFO|3964|koa loaded!
+info: 2020-08-01 15:42:31|mysqlUtil.js:40|INFO|3964|Executing (default): SELECT 1+1 AS result
+info: 2020-08-01 15:42:31|mysqlUtil.js:49|INFO|3964|mysql connect start!
+info: 2020-08-01 15:42:38|app.js:18|INFO|7512|Server listening on port: 8081
+info: 2020-08-01 15:42:38|index.js:12|INFO|7512|koa loaded!
+info: 2020-08-01 15:42:38|mysqlUtil.js:40|INFO|7512|Executing (default): SELECT 1+1 AS result
+info: 2020-08-01 15:42:38|mysqlUtil.js:49|INFO|7512|mysql connect start!
+info: 2020-08-01 15:43:32|app.js:18|INFO|12400|Server listening on port: 8081
+info: 2020-08-01 15:43:32|index.js:12|INFO|12400|koa loaded!
+info: 2020-08-01 15:43:32|mysqlUtil.js:40|INFO|12400|Executing (default): SELECT 1+1 AS result
+info: 2020-08-01 15:43:32|mysqlUtil.js:49|INFO|12400|mysql connect start!
+info: 2020-08-01 15:43:45|app.js:18|INFO|3004|Server listening on port: 8081
+info: 2020-08-01 15:43:45|index.js:12|INFO|3004|koa loaded!
+info: 2020-08-01 15:43:45|mysqlUtil.js:40|INFO|3004|Executing (default): SELECT 1+1 AS result
+info: 2020-08-01 15:43:45|mysqlUtil.js:49|INFO|3004|mysql connect start!
+info: 2020-08-01 15:44:07|app.js:18|INFO|18676|Server listening on port: 8081
+info: 2020-08-01 15:44:07|index.js:12|INFO|18676|koa loaded!
+info: 2020-08-01 15:44:07|mysqlUtil.js:40|INFO|18676|Executing (default): SELECT 1+1 AS result
+info: 2020-08-01 15:44:07|mysqlUtil.js:49|INFO|18676|mysql connect start!
+info: 2020-08-01 15:44:11|app.js:18|INFO|1932|Server listening on port: 8081
+info: 2020-08-01 15:44:11|index.js:12|INFO|1932|koa loaded!
+info: 2020-08-01 15:44:11|mysqlUtil.js:40|INFO|1932|Executing (default): SELECT 1+1 AS result
+info: 2020-08-01 15:44:11|mysqlUtil.js:49|INFO|1932|mysql connect start!
+info: 2020-08-01 15:44:24|app.js:18|INFO|16480|Server listening on port: 8081
+info: 2020-08-01 15:44:24|index.js:12|INFO|16480|koa loaded!
+info: 2020-08-01 15:44:24|mysqlUtil.js:40|INFO|16480|Executing (default): SELECT 1+1 AS result
+info: 2020-08-01 15:44:24|mysqlUtil.js:49|INFO|16480|mysql connect start!
+info: 2020-08-01 15:52:12|app.js:18|INFO|1648|Server listening on port: 8081
+info: 2020-08-01 15:52:12|index.js:12|INFO|1648|koa loaded!
+info: 2020-08-01 15:52:12|mysqlUtil.js:40|INFO|1648|Executing (default): SELECT 1+1 AS result
+info: 2020-08-01 15:52:12|mysqlUtil.js:49|INFO|1648|mysql connect start!
+info: 2020-08-01 15:54:53|app.js:18|INFO|18284|Server listening on port: 8081
+info: 2020-08-01 15:54:53|index.js:12|INFO|18284|koa loaded!
+info: 2020-08-01 15:54:53|mysqlUtil.js:40|INFO|18284|Executing (default): SELECT 1+1 AS result
+info: 2020-08-01 15:54:53|mysqlUtil.js:49|INFO|18284|mysql connect start!
+info: 2020-08-01 15:55:12|app.js:18|INFO|11292|Server listening on port: 8081
+info: 2020-08-01 15:55:12|index.js:12|INFO|11292|koa loaded!
+info: 2020-08-01 15:55:13|mysqlUtil.js:40|INFO|11292|Executing (default): SELECT 1+1 AS result
+info: 2020-08-01 15:55:13|mysqlUtil.js:49|INFO|11292|mysql connect start!
+info: 2020-08-01 15:55:13|mysqlUtil.js:40|INFO|11292|Executing (default): SELECT count(*) AS `count` FROM `user` AS `user`;
+info: 2020-08-01 15:55:13|mysqlUtil.js:40|INFO|11292|Executing (default): SELECT `id`, `user_name`, `nick_name`, `password`, `phone`, `address`, `create_time`, `update_time`, `email`, `sex`, `birthday` FROM `user` AS `user` ORDER BY `user`.`create_time` DESC LIMIT 0, 6;
+info: 2020-08-01 15:55:14|mysqlUtil.js:40|INFO|11292|Executing (default): SELECT count(*) AS `count` FROM `user` AS `user`;
+info: 2020-08-01 15:55:14|mysqlUtil.js:40|INFO|11292|Executing (default): SELECT `id`, `user_name`, `nick_name`, `password`, `phone`, `address`, `create_time`, `update_time`, `email`, `sex`, `birthday` FROM `user` AS `user` ORDER BY `user`.`create_time` DESC LIMIT 0, 6;
+info: 2020-08-01 15:55:30|mysqlUtil.js:40|INFO|11292|Executing (default): SELECT count(*) AS `count` FROM `user` AS `user`;
+info: 2020-08-01 15:55:30|mysqlUtil.js:40|INFO|11292|Executing (default): SELECT `id`, `user_name`, `nick_name`, `password`, `phone`, `address`, `create_time`, `update_time`, `email`, `sex`, `birthday` FROM `user` AS `user` ORDER BY `user`.`create_time` DESC LIMIT 24, 6;
+info: 2020-08-01 15:55:39|mysqlUtil.js:40|INFO|11292|Executing (default): SELECT count(*) AS `count` FROM `user` AS `user`;
+info: 2020-08-01 15:55:39|mysqlUtil.js:40|INFO|11292|Executing (default): SELECT `id`, `user_name`, `nick_name`, `password`, `phone`, `address`, `create_time`, `update_time`, `email`, `sex`, `birthday` FROM `user` AS `user` ORDER BY `user`.`create_time` DESC LIMIT 12, 6;
+info: 2020-08-01 15:55:49|mysqlUtil.js:40|INFO|11292|Executing (default): SELECT count(*) AS `count` FROM `user` AS `user`;
+info: 2020-08-01 15:55:49|mysqlUtil.js:40|INFO|11292|Executing (default): SELECT `id`, `user_name`, `nick_name`, `password`, `phone`, `address`, `create_time`, `update_time`, `email`, `sex`, `birthday` FROM `user` AS `user` ORDER BY `user`.`create_time` DESC LIMIT 18, 6;
+info: 2020-08-01 15:57:04|app.js:18|INFO|19620|Server listening on port: 8081
+info: 2020-08-01 15:57:04|index.js:12|INFO|19620|koa loaded!
+info: 2020-08-01 15:57:04|mysqlUtil.js:40|INFO|19620|Executing (default): SELECT 1+1 AS result
+info: 2020-08-01 15:57:04|mysqlUtil.js:49|INFO|19620|mysql connect start!
+info: 2020-08-01 15:57:13|app.js:18|INFO|6796|Server listening on port: 8081
+info: 2020-08-01 15:57:13|index.js:12|INFO|6796|koa loaded!
+info: 2020-08-01 15:57:13|mysqlUtil.js:40|INFO|6796|Executing (default): SELECT 1+1 AS result
+info: 2020-08-01 15:57:13|mysqlUtil.js:49|INFO|6796|mysql connect start!
+info: 2020-08-01 15:57:17|app.js:18|INFO|10948|Server listening on port: 8081
+info: 2020-08-01 15:57:17|index.js:12|INFO|10948|koa loaded!
+info: 2020-08-01 15:57:17|mysqlUtil.js:40|INFO|10948|Executing (default): SELECT 1+1 AS result
+info: 2020-08-01 15:57:17|mysqlUtil.js:49|INFO|10948|mysql connect start!

@@ -6,7 +6,7 @@ const Joi = require('@hapi/joi')
 const logger = require("../utils/logUtil")("router")
 const redisTool = require('../utils/redisTool')
 const uploadUtil = require('../utils/uploadUtil')
-const User = require('../utils/mysqlUtil').models.User
+const mysqlUtil = require('../utils/mysqlUtil')
 router.prefix('/auth')          // 用户路由前缀
 // 注册
 router.post('/signup', async (ctx, next) => {
@@ -31,7 +31,8 @@ router.post('/signup', async (ctx, next) => {
   // 请求参数校验通过
   logger.info(`rsp|requestId=${ctx.requestId}|body=${ctx.body}`);
   let data = await redisTool.get('addddadddddddddssssss')
-  let userInfo = await User.findOne({where: {user_name: '张丹'}})
+  let userInfo = await mysqlUtil.models.User.findOne({where: {user_name: '张丹'}})
+  // console.log(await mysqlUtil.query(`select * from user where user_name = '张丹'`))    // 原生sql查询
   ctx.body = {
     data: {
       args: data,
@@ -39,6 +40,17 @@ router.post('/signup', async (ctx, next) => {
       code: -1,
       msg: 'signup成功！！！',
       ret: 0
+    }
+  }
+})
+//  文件上传
+router.post('/upload', async (ctx, next) => {
+  let res = await uploadUtil.upload(ctx.request.files)
+  ctx.body = {
+    data: {
+      code: 1,
+      ...res,
+      msg: '上传成功'
     }
   }
 })
@@ -50,7 +62,7 @@ router.get('/download', async (ctx, next) => {
 // 获取用户列表
 router.post('/getUserList', async (ctx, next) => {
   let {currentPage, pageSize} = ctx.request.body
-  let userList = await User.findAndCountAll({
+  let userList = await mysqlUtil.models.User.findAndCountAll({
     limit: pageSize,
     offset: (currentPage - 1) * pageSize,
     // distinct: true,    // 去重

@@ -1,0 +1,91 @@
+info: 2020-07-31 21:09:07|mysqlUtil.js:40|INFO|15224|Executing (default): SELECT 1+1 AS result
+info: 2020-07-31 21:09:07|mysqlUtil.js:49|INFO|15224|mysql connect start!
+info: 2020-07-31 21:09:57|mysqlUtil.js:40|INFO|15224|Executing (default): SELECT `id`, `user_name`, `nick_name`, `password`, `phone`, `address`, `create_time`, `update_time`, `email`, `sex`, `birthday` FROM `user` AS `user` WHERE `user`.`user_name` = '张丹' LIMIT 1;
+info: 2020-07-31 21:10:08|mysqlUtil.js:40|INFO|19868|Executing (default): SELECT 1+1 AS result
+info: 2020-07-31 21:10:08|mysqlUtil.js:49|INFO|19868|mysql connect start!
+info: 2020-07-31 21:10:12|mysqlUtil.js:40|INFO|11132|Executing (default): SELECT 1+1 AS result
+info: 2020-07-31 21:10:12|mysqlUtil.js:49|INFO|11132|mysql connect start!
+info: 2020-07-31 21:10:17|mysqlUtil.js:40|INFO|11464|Executing (default): SELECT 1+1 AS result
+info: 2020-07-31 21:10:17|mysqlUtil.js:49|INFO|11464|mysql connect start!
+info: 2020-07-31 21:10:19|mysqlUtil.js:40|INFO|19044|Executing (default): SELECT 1+1 AS result
+info: 2020-07-31 21:10:19|mysqlUtil.js:49|INFO|19044|mysql connect start!
+info: 2020-07-31 21:10:20|mysqlUtil.js:40|INFO|19044|Executing (default): SELECT `id`, `user_name`, `nick_name`, `password`, `phone`, `address`, `create_time`, `update_time`, `email`, `sex`, `birthday` FROM `user` AS `user` WHERE `user`.`user_name` = '张丹' LIMIT 1;
+info: 2020-07-31 21:10:25|mysqlUtil.js:40|INFO|5796|Executing (default): SELECT 1+1 AS result
+info: 2020-07-31 21:10:25|mysqlUtil.js:49|INFO|5796|mysql connect start!
+info: 2020-07-31 21:10:29|mysqlUtil.js:40|INFO|14644|Executing (default): SELECT 1+1 AS result
+info: 2020-07-31 21:10:29|mysqlUtil.js:49|INFO|14644|mysql connect start!
+info: 2020-07-31 21:10:30|mysqlUtil.js:40|INFO|14644|Executing (default): SELECT `id`, `user_name`, `nick_name`, `password`, `phone`, `address`, `create_time`, `update_time`, `email`, `sex`, `birthday` FROM `user` AS `user` WHERE `user`.`user_name` = '张丹' LIMIT 1;
+info: 2020-07-31 21:10:41|mysqlUtil.js:40|INFO|9684|Executing (default): SELECT 1+1 AS result
+info: 2020-07-31 21:10:41|mysqlUtil.js:49|INFO|9684|mysql connect start!
+info: 2020-07-31 21:10:44|mysqlUtil.js:40|INFO|15976|Executing (default): SELECT 1+1 AS result
+info: 2020-07-31 21:10:44|mysqlUtil.js:49|INFO|15976|mysql connect start!
+info: 2020-07-31 21:10:47|mysqlUtil.js:40|INFO|16668|Executing (default): SELECT 1+1 AS result
+info: 2020-07-31 21:10:47|mysqlUtil.js:49|INFO|16668|mysql connect start!
+info: 2020-07-31 21:10:55|mysqlUtil.js:40|INFO|16668|Executing (default): SELECT `id`, `user_name`, `nick_name`, `password`, `phone`, `address`, `create_time`, `update_time`, `email`, `sex`, `birthday` FROM `user` AS `user` WHERE `user`.`user_name` = '张丹' LIMIT 1;
+info: 2020-07-31 21:11:06|mysqlUtil.js:40|INFO|19984|Executing (default): SELECT 1+1 AS result
+info: 2020-07-31 21:11:06|mysqlUtil.js:49|INFO|19984|mysql connect start!
+info: 2020-07-31 21:11:06|mysqlUtil.js:40|INFO|19984|Executing (default): SELECT `id`, `user_name`, `nick_name`, `password`, `phone`, `address`, `create_time`, `update_time`, `email`, `sex`, `birthday` FROM `user` AS `user` WHERE `user`.`user_name` = '张丹' LIMIT 1;
+info: 2020-07-31 21:11:20|mysqlUtil.js:40|INFO|19044|Executing (default): SELECT 1+1 AS result
+info: 2020-07-31 21:11:20|mysqlUtil.js:49|INFO|19044|mysql connect start!
+info: 2020-07-31 21:11:23|mysqlUtil.js:40|INFO|9092|Executing (default): SELECT 1+1 AS result
+info: 2020-07-31 21:11:23|mysqlUtil.js:49|INFO|9092|mysql connect start!
+info: 2020-07-31 21:11:25|mysqlUtil.js:40|INFO|9092|Executing (default): SELECT `id`, `user_name`, `nick_name`, `password`, `phone`, `address`, `create_time`, `update_time`, `email`, `sex`, `birthday` FROM `user` AS `user` WHERE `user`.`user_name` = '张丹' LIMIT 1;
+info: 2020-07-31 21:11:25|mysqlUtil.js:40|INFO|9092|Executing (default): select * from user
+info: 2020-07-31 21:11:38|mysqlUtil.js:40|INFO|19480|Executing (default): SELECT 1+1 AS result
+info: 2020-07-31 21:11:38|mysqlUtil.js:49|INFO|19480|mysql connect start!
+info: 2020-07-31 21:11:39|mysqlUtil.js:40|INFO|19480|Executing (default): SELECT `id`, `user_name`, `nick_name`, `password`, `phone`, `address`, `create_time`, `update_time`, `email`, `sex`, `birthday` FROM `user` AS `user` WHERE `user`.`user_name` = '张丹' LIMIT 1;
+info: 2020-07-31 21:11:39|mysqlUtil.js:40|INFO|19480|Executing (default): select * from user
+info: 2020-07-31 21:11:56|mysqlUtil.js:40|INFO|10456|Executing (default): SELECT 1+1 AS result
+info: 2020-07-31 21:11:56|mysqlUtil.js:49|INFO|10456|mysql connect start!
+info: 2020-07-31 21:11:59|mysqlUtil.js:40|INFO|19536|Executing (default): SELECT 1+1 AS result
+info: 2020-07-31 21:11:59|mysqlUtil.js:49|INFO|19536|mysql connect start!
+info: 2020-07-31 21:12:21|mysqlUtil.js:40|INFO|10308|Executing (default): SELECT 1+1 AS result
+info: 2020-07-31 21:12:21|mysqlUtil.js:49|INFO|10308|mysql connect start!
+info: 2020-07-31 21:12:22|mysqlUtil.js:40|INFO|10308|Executing (default): SELECT `id`, `user_name`, `nick_name`, `password`, `phone`, `address`, `create_time`, `update_time`, `email`, `sex`, `birthday` FROM `user` AS `user` WHERE `user`.`user_name` = '张丹' LIMIT 1;
+info: 2020-07-31 21:12:22|mysqlUtil.js:40|INFO|10308|Executing (default): select * from user where user_name = '张丹'
+info: 2020-07-31 21:12:33|mysqlUtil.js:40|INFO|12756|Executing (default): SELECT 1+1 AS result
+info: 2020-07-31 21:12:33|mysqlUtil.js:49|INFO|12756|mysql connect start!
+info: 2020-07-31 21:12:43|mysqlUtil.js:40|INFO|17432|Executing (default): SELECT 1+1 AS result
+info: 2020-07-31 21:12:43|mysqlUtil.js:49|INFO|17432|mysql connect start!
+info: 2020-07-31 21:18:59|mysqlUtil.js:40|INFO|17432|Executing (default): SELECT `id`, `user_name`, `nick_name`, `password`, `phone`, `address`, `create_time`, `update_time`, `email`, `sex`, `birthday` FROM `user` AS `user` WHERE `user`.`user_name` = '张丹' LIMIT 1;
+info: 2020-07-31 21:18:59|mysqlUtil.js:40|INFO|17432|Executing (default): select * from user where user_name = '张丹'
+info: 2020-07-31 21:21:08|mysqlUtil.js:40|INFO|17612|Executing (default): SELECT 1+1 AS result
+info: 2020-07-31 21:21:08|mysqlUtil.js:49|INFO|17612|mysql connect start!
+info: 2020-07-31 21:21:12|mysqlUtil.js:40|INFO|15728|Executing (default): SELECT 1+1 AS result
+info: 2020-07-31 21:21:12|mysqlUtil.js:49|INFO|15728|mysql connect start!
+info: 2020-07-31 21:21:16|mysqlUtil.js:40|INFO|20208|Executing (default): SELECT 1+1 AS result
+info: 2020-07-31 21:21:16|mysqlUtil.js:49|INFO|20208|mysql connect start!
+info: 2020-07-31 21:21:25|mysqlUtil.js:40|INFO|12756|Executing (default): SELECT 1+1 AS result
+info: 2020-07-31 21:21:25|mysqlUtil.js:49|INFO|12756|mysql connect start!
+info: 2020-07-31 21:21:29|mysqlUtil.js:40|INFO|18080|Executing (default): SELECT 1+1 AS result
+info: 2020-07-31 21:21:29|mysqlUtil.js:49|INFO|18080|mysql connect start!
+info: 2020-07-31 21:21:35|mysqlUtil.js:40|INFO|11620|Executing (default): SELECT 1+1 AS result
+info: 2020-07-31 21:21:35|mysqlUtil.js:49|INFO|11620|mysql connect start!
+info: 2020-07-31 21:22:02|mysqlUtil.js:40|INFO|15672|Executing (default): SELECT 1+1 AS result
+info: 2020-07-31 21:22:02|mysqlUtil.js:49|INFO|15672|mysql connect start!
+info: 2020-07-31 21:22:59|mysqlUtil.js:40|INFO|14088|Executing (default): SELECT 1+1 AS result
+info: 2020-07-31 21:22:59|mysqlUtil.js:49|INFO|14088|mysql connect start!
+info: 2020-07-31 21:23:04|mysqlUtil.js:40|INFO|20440|Executing (default): SELECT 1+1 AS result
+info: 2020-07-31 21:23:04|mysqlUtil.js:49|INFO|20440|mysql connect start!
+info: 2020-07-31 21:23:13|mysqlUtil.js:40|INFO|14500|Executing (default): SELECT 1+1 AS result
+info: 2020-07-31 21:23:13|mysqlUtil.js:49|INFO|14500|mysql connect start!
+info: 2020-07-31 21:23:23|mysqlUtil.js:40|INFO|12964|Executing (default): SELECT 1+1 AS result
+info: 2020-07-31 21:23:23|mysqlUtil.js:49|INFO|12964|mysql connect start!
+info: 2020-07-31 21:23:25|mysqlUtil.js:40|INFO|18804|Executing (default): SELECT 1+1 AS result
+info: 2020-07-31 21:23:25|mysqlUtil.js:49|INFO|18804|mysql connect start!
+info: 2020-07-31 21:23:54|mysqlUtil.js:40|INFO|3772|Executing (default): SELECT 1+1 AS result
+info: 2020-07-31 21:23:54|mysqlUtil.js:49|INFO|3772|mysql connect start!
+info: 2020-07-31 21:45:45|mysqlUtil.js:40|INFO|16808|Executing (default): SELECT 1+1 AS result
+info: 2020-07-31 21:45:45|mysqlUtil.js:49|INFO|16808|mysql connect start!
+info: 2020-07-31 21:45:50|mysqlUtil.js:40|INFO|16644|Executing (default): SELECT 1+1 AS result
+info: 2020-07-31 21:45:50|mysqlUtil.js:49|INFO|16644|mysql connect start!
+info: 2020-07-31 21:45:52|mysqlUtil.js:40|INFO|17520|Executing (default): SELECT 1+1 AS result
+info: 2020-07-31 21:45:52|mysqlUtil.js:49|INFO|17520|mysql connect start!
+info: 2020-07-31 21:46:15|mysqlUtil.js:40|INFO|11512|Executing (default): SELECT 1+1 AS result
+info: 2020-07-31 21:46:15|mysqlUtil.js:49|INFO|11512|mysql connect start!
+info: 2020-07-31 21:47:12|mysqlUtil.js:40|INFO|17132|Executing (default): SELECT 1+1 AS result
+info: 2020-07-31 21:47:12|mysqlUtil.js:49|INFO|17132|mysql connect start!
+info: 2020-07-31 21:48:56|mysqlUtil.js:40|INFO|16596|Executing (default): SELECT 1+1 AS result
+info: 2020-07-31 21:48:56|mysqlUtil.js:49|INFO|16596|mysql connect start!
+info: 2020-07-31 21:49:07|mysqlUtil.js:40|INFO|13736|Executing (default): SELECT 1+1 AS result
+info: 2020-07-31 21:49:07|mysqlUtil.js:49|INFO|13736|mysql connect start!

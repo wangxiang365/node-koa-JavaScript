@@ -1,4 +1,5 @@
 const koaBody = require('koa-body')
+const fs = require('fs')
 const jwt = require('koa-jwt')
 const routes = require('../routes')
 const config = require('../config')
@@ -14,8 +15,11 @@ module.exports = async (app) => {
       keepExtensions: true,    // 保持文件的后缀
       maxFieldsSize: 2 * 1024 * 1024, // 文件上传大小
       onFileBegin: (name,file) => { // 文件上传前的设置
-        // console.log(`name: ${name}`);
-        // console.log(file);
+        const fp = path.join(__dirname, '../public/upload/')
+        if (!fs.existsSync(fp)) { // 检查是否有“public/upload/”文件夹
+          fs.mkdirSync(fp); // 没有就创建
+        }
+        console.log(`bodyparse: name:${name}`)
       }
     }
   }))
