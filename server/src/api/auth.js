@@ -62,7 +62,7 @@ router.get('/download', async (ctx, next) => {
 // 获取用户列表
 router.post('/getUserList', async (ctx, next) => {
   let {currentPage, pageSize} = ctx.request.body
-  let userList = await mysqlUtil.models.User.findAndCountAll({
+  let userList = await mysqlUtil.models.Usesr.findAndCountAll({
     limit: pageSize,
     offset: (currentPage - 1) * pageSize,
     // distinct: true,    // 去重

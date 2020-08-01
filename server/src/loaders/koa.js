@@ -54,10 +54,24 @@ module.exports = async (app) => {
   //     overwrite:false
   //   })
   // })
- app.on('error', (error, ctx) => {
-   console.log('something error ' + JSON.stringify(ctx.onerror));
-   ctx.redirect('/500.httml');
- })
+  // 错误处理中间件, 洋葱最外层
+  app.use(async (ctx, next)=>{
+    try {
+      await next()
+    } catch (error) {
+      ctx.response.status = error.statusCode || error.status || 500
+      ctx.response.body = {
+        message: error.message
+      };
+      // 手动释放error事件
+      ctx.app.emit('error', err, ctx)
+    }
+  })
+  // 全局错误监听
+  app.on('error', (error, ctx) => {
+    console.log('错误信息: ' + error)
+    // ctx.redirect('/500.httml')
+  })
   // catch 404 and forward to error handler
   // app.use((req, res, next) => {
   //   const err = new Error('Not Found');
